@@ -16,9 +16,9 @@ namespace BaseTemplate.Behaviours
                 {
                     if (s_Instance == null)
                     {
-                        UnityEngine.Object[] instances = FindObjectsOfType(typeof(T));
+                        UnityEngine.Object[] instances = FindObjectsByType<T>(FindObjectsSortMode.None);
 
-                        if(instances.Length > 1)
+                        if (instances.Length > 1)
                         {
                             Debug.LogWarning("MULTIPLE instances of \"" + typeof(T).Name + "\" in the scene");
                         }

@@ -10,41 +10,30 @@ public class UIManager : MonoSingleton<UIManager>
     [SerializeField] Canvas _mainCanvas;
 
     [SerializeField] MenuView _menuView;
-    [SerializeField] GameView _gameView;
-    [SerializeField] EndView _endGameView;
     [SerializeField] LoadingView _loadingView;
 
     [Header("Black Shade Ref")]
     [SerializeField] Button _blackShadeButton;
     [SerializeField] Image _blackShadeImg;
 
-    //[Header("Popup Ref")]
-    //[SerializeField] InventoryPopup _inventoryPopup;
-
     View _currentView;
 
     public Canvas MainCanvas { get => _mainCanvas; }
     public MenuView MenuView { get => _menuView; }
-    public GameView GameView { get => _gameView; }
-    public EndView EndGameView { get => _endGameView; }
     public LoadingView LoadingView { get => _loadingView; }
 
     Tweener _blackShadeTweener;
 
     public void Init()
     {
-        GameManager.Instance.OnGameStateChanged += HandleStateChange;
-
         InitView();
 
-        ChangeView(_gameView);
+        ChangeView(_menuView);
     }
 
     public void InitView()
     {
         _menuView.Init();
-        _gameView.Init();
-        _endGameView.Init();
         _loadingView.Init();
 
         HideBlackShade();
@@ -99,48 +88,6 @@ public class UIManager : MonoSingleton<UIManager>
     }
     #endregion
 
-    #region GameState
-
-    void HandleStateChange(GameState newState)
-    {
-        switch (newState)
-        {
-            case GameState.MENU:
-                HandleMenu();
-                break;
-            case GameState.GAME:
-                HandleGame();
-                break;
-            case GameState.END:
-                HandleEnd();
-                break;
-            case GameState.WAIT:
-                HandleWait();
-                break;
-            default:
-                break;
-        }
-    }
-
-    void HandleMenu()
-    {
-        ChangeView(_menuView);
-    }
-    void HandleGame()
-    {
-        ChangeView(_gameView);
-    }
-    void HandleEnd()
-    {
-        ChangeView(_endGameView);
-    }
-    void HandleWait()
-    {
-    }
-
-
-    #endregion
-
     public void ShowBlackShade(UnityAction _onClickAction)
     {
         if (_blackShadeTweener.IsActive()) _blackShadeTweener.Kill();
@@ -164,7 +111,7 @@ public class UIManager : MonoSingleton<UIManager>
         _blackShadeButton.onClick.RemoveAllListeners();
     }
 
-    public static void ScrollToItem(ScrollRect scrollRect, Transform content, int indexToScroll)
+    public static void ScrollToItemX(ScrollRect scrollRect, Transform content, int indexToScroll)
     {
         float step = 1f / (content.childCount - 1);
 
