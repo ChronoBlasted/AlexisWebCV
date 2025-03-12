@@ -6,8 +6,8 @@ public class MenuView : View
 
     [field: SerializeField] public Topbar TopBar { get; protected set; }
     [field: SerializeField] public ShopPanel ShopPanel { get; protected set; }
-    [field: SerializeField] public SquadPanel SquadPanel { get; protected set; }
-    [field: SerializeField] public FightPanel FightPanel { get; protected set; }
+    [field: SerializeField] public ExpPanel ExpPanel { get; protected set; }
+    [field: SerializeField] public MainPanel MainPanel { get; protected set; }
     [field: SerializeField] public ClanPanel ClanPanel { get; protected set; }
     [field: SerializeField] public EventPanel EventPanel { get; protected set; }
     public NavBar NavBar { get => navBar; }
@@ -17,8 +17,8 @@ public class MenuView : View
         base.Init();
 
         ShopPanel.Init();
-        SquadPanel.Init();
-        FightPanel.Init();
+        ExpPanel.Init();
+        MainPanel.Init();
         ClanPanel.Init();
         EventPanel.Init();
     }

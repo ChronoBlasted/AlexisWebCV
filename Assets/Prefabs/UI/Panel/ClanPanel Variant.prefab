@@ -8,6 +8,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1010001036267276476, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010001036267276476, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010001036267276476, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010001036267276476, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010001036267276476, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010001036267276476, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2602849501355409035, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
       propertyPath: m_Name
       value: ClanPanel Variant
@@ -95,5 +119,31 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2602849501355409035, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 80757753325956012}
   m_SourcePrefab: {fileID: 100100000, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+--- !u!1 &8558236139725086434 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2602849501355409035, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+  m_PrefabInstance: {fileID: 5970607315541172329}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &80757753325956012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8558236139725086434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9018912b1cc8e0b4d97741834e95d74d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _canvasGroup: {fileID: 8976353454196713598}
+--- !u!225 &8976353454196713598 stripped
+CanvasGroup:
+  m_CorrespondingSourceObject: {fileID: 3335393056509708311, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+  m_PrefabInstance: {fileID: 5970607315541172329}
+  m_PrefabAsset: {fileID: 0}

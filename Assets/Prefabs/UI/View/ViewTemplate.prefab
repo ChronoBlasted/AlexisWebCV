@@ -47,7 +47,6 @@ GameObject:
   - component: {fileID: 5226167147949238302}
   - component: {fileID: 980888491173809923}
   - component: {fileID: 3513575108127351727}
-  - component: {fileID: 1757854108901631463}
   m_Layer: 0
   m_Name: ViewTemplate
   m_TagString: Untagged
@@ -127,18 +126,3 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &1757854108901631463
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4484130698009077653}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c97afc556caea1c44969477eb7ddec74, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ConformX: 1
-  ConformY: 1
-  Logging: 0
