@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 4bae1c06d453b4740bc89311cebde150, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9384103936
+    m_Localized: ErrorMsg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66380500992
+    m_Localized: Exp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119522332672
+    m_Localized: Life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156386070528
+    m_Localized: Lock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181321207808
+    m_Localized: Unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205765611520
+    m_Localized: Passion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240490254336
+    m_Localized: FloatingText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558884065280
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 599413624832
+    m_Localized: Soft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30958566117376
+    m_Localized: Talents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31111159091200
+    m_Localized: Experience
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31150216450048
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31194839650304
+    m_Localized: Entreprise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31222517862400
+    m_Localized: Evenement
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

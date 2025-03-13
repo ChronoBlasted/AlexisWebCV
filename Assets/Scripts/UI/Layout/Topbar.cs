@@ -7,27 +7,28 @@ using UnityEngine;
 public class Topbar : MonoBehaviour
 {
     [SerializeField] CanvasGroup _cg;
-    [SerializeField] TMP_Text _trophyTxt, _coinTxt, _gemTxt;
+    [SerializeField] TMP_Text _expTxt, _lifeTxt;
 
     Sequence _showHideTopbarTween;
 
     public void Init()
     {
+        CurrencyManager.Instance.OnCurrencyChange += UpdateExp;
+        CurrencyManager.Instance.OnCurrencyChange += UpdateLife;
+
+        UpdateExp();
+        UpdateLife();
     }
 
-    public void UpdateTrophy(int amount)
+    public void UpdateExp()
     {
-        _trophyTxt.text = UIManager.GetFormattedInt(amount);
+        _expTxt.text = UIManager.GetFormattedInt(CurrencyManager.Instance.GetCurrency(Currency.Exp));
     }
 
-    public void UpdateCoin(int amount)
-    {
-        _coinTxt.text = UIManager.GetFormattedInt(amount);
-    }
 
-    public void UpdateGem(int amount)
+    public void UpdateLife()
     {
-        _gemTxt.text = UIManager.GetFormattedInt(amount);
+        _lifeTxt.text = UIManager.GetFormattedInt(CurrencyManager.Instance.GetCurrency(Currency.Life));
     }
 
     public void ShowTopBar()
@@ -42,7 +43,7 @@ public class Topbar : MonoBehaviour
         _cg.blocksRaycasts = true;
 
         _showHideTopbarTween
-            .Join(rectTransform.DOAnchorPosY(-64, .2f).SetEase(Ease.OutBack))
+            .Join(rectTransform.DOAnchorPosY(-40, .2f).SetEase(Ease.OutBack))
             .Join(_cg.DOFade(1, .1f));
 
     }

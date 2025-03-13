@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Store_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 265afec371372ea4389c342db3c33d48, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4137029632
+    m_Localized: Patient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11068190887936
+    m_Localized: A l'ecoute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10991049248768
+    m_Localized: Autonome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11208645545984
+    m_Localized: Rigueur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11293919940608
+    m_Localized: Ponctuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11342234128384
+    m_Localized: Adaptabilite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11412207702016
+    m_Localized: Unity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11510543159296
+    m_Localized: Unreal Engine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11539962007552
+    m_Localized: Nakama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11591174459392
+    m_Localized: Ultimate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11658325266432
+    m_Localized: Jeux mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11808665899008
+    m_Localized: Astronomie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18539101949952
+    m_Localized: Soft Skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18562925596672
+    m_Localized: Hard Skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21389274124288
+    m_Localized: Git
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470853337088
+    m_Localized: Trello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21491363483648
+    m_Localized: Discord
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

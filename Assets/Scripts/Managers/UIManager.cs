@@ -7,10 +7,14 @@ using UnityEngine.UI;
 
 public class UIManager : MonoSingleton<UIManager>
 {
+    public RectTransform RectTransformPool;
     [SerializeField] Canvas _mainCanvas;
 
     [SerializeField] MenuView _menuView;
     [SerializeField] LoadingView _loadingView;
+    [SerializeField] ErrorView _errorView;
+
+    [SerializeField] RewardPopup _rewardPopup;
 
     [Header("Black Shade Ref")]
     [SerializeField] Button _blackShadeButton;
@@ -21,6 +25,8 @@ public class UIManager : MonoSingleton<UIManager>
     public Canvas MainCanvas { get => _mainCanvas; }
     public MenuView MenuView { get => _menuView; }
     public LoadingView LoadingView { get => _loadingView; }
+    public RewardPopup RewardPopup { get => _rewardPopup; }
+    public ErrorView ErrorView { get => _errorView; set => _errorView = value; }
 
     Tweener _blackShadeTweener;
 
@@ -35,6 +41,9 @@ public class UIManager : MonoSingleton<UIManager>
     {
         _menuView.Init();
         _loadingView.Init();
+        _errorView.Init();
+
+        _rewardPopup.Init();
 
         HideBlackShade();
     }

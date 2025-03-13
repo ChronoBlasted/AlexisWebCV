@@ -9,9 +9,13 @@ public class GameManager : MonoSingleton<GameManager>
 {
     private void Awake()
     {
-        UIManager.Instance.Init();
-
         TimeManager.Instance.Init();
+
+        CurrencyManager.Instance.Init();
+
+        PoolManager.Instance.Init();
+
+        UIManager.Instance.Init();
     }
 
     void Update()

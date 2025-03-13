@@ -21,6 +21,8 @@ public class MenuView : View
         MainPanel.Init();
         ClanPanel.Init();
         EventPanel.Init();
+
+        TopBar.Init();
     }
 
     public override void OpenView(bool _instant = false, float timeToOpen = 0.2F)
