@@ -9,7 +9,7 @@ public class MenuView : View
     [field: SerializeField] public ShopPanel ShopPanel { get; protected set; }
     [field: SerializeField] public ExpPanel ExpPanel { get; protected set; }
     [field: SerializeField] public MainPanel MainPanel { get; protected set; }
-    [field: SerializeField] public ClanPanel ClanPanel { get; protected set; }
+    [field: SerializeField] public EntreprisePanel ClanPanel { get; protected set; }
     [field: SerializeField] public EventPanel EventPanel { get; protected set; }
     public NavBar NavBar { get => navBar; }
     public Topbar TopBar { get => _topBar; set => _topBar = value; }
