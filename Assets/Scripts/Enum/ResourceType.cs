@@ -14,6 +14,7 @@ public enum ResourceType
     Hard = 406,
     Soft = 407,
     Passion = 408,
+    Event = 409,
     ErrorMsg = 410,
 }
 

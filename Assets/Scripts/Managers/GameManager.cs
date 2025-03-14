@@ -11,8 +11,6 @@ public class GameManager : MonoSingleton<GameManager>
     {
         TimeManager.Instance.Init();
 
-        CurrencyManager.Instance.Init();
-
         PoolManager.Instance.Init();
 
         UIManager.Instance.Init();
