@@ -13,8 +13,11 @@ public class UIManager : MonoSingleton<UIManager>
     [SerializeField] MenuView _menuView;
     [SerializeField] LoadingView _loadingView;
     [SerializeField] ErrorView _errorView;
+    [SerializeField] SettingView _settingView;
 
     [SerializeField] RewardPopup _rewardPopup;
+    [SerializeField] ConfirmPopup _confirmPopup;
+    [SerializeField] LanguagePopup _languagePopup;
 
     [Header("Black Shade Ref")]
     [SerializeField] Button _blackShadeButton;
@@ -23,10 +26,15 @@ public class UIManager : MonoSingleton<UIManager>
     View _currentView;
 
     public Canvas MainCanvas { get => _mainCanvas; }
+
     public MenuView MenuView { get => _menuView; }
     public LoadingView LoadingView { get => _loadingView; }
+    public ErrorView ErrorView { get => _errorView; }
+    public SettingView SettingView { get => _settingView; }
+
     public RewardPopup RewardPopup { get => _rewardPopup; }
-    public ErrorView ErrorView { get => _errorView; set => _errorView = value; }
+    public ConfirmPopup ConfirmPopup { get => _confirmPopup; }
+    public LanguagePopup LanguagePopup { get => _languagePopup; }
 
     Tweener _blackShadeTweener;
 
@@ -42,8 +50,11 @@ public class UIManager : MonoSingleton<UIManager>
         _menuView.Init();
         _loadingView.Init();
         _errorView.Init();
+        _settingView.Init();
 
         _rewardPopup.Init();
+        _languagePopup.Init();
+        _confirmPopup.Init();
 
         HideBlackShade();
     }

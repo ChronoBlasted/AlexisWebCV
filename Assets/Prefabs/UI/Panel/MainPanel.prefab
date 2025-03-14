@@ -1106,8 +1106,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 0
-    m_Right: 0
+    m_Left: 32
+    m_Right: 32
     m_Top: 96
     m_Bottom: 64
   m_ChildAlignment: 0
@@ -2323,7 +2323,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
@@ -2335,6 +2335,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1530295709878783467}
+    - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1530295709878783467}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
@@ -2359,7 +2363,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
-      value: SettingLayout, Assembly-CSharp
+      value: MainPanel, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -2538,6 +2542,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _canvasGroup: {fileID: 58068485944209969}
+  _settingMenu: {fileID: 5578316281079279457}
 --- !u!1001 &3522707977319431989
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2644,7 +2649,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
@@ -2656,6 +2661,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1530295709878783467}
+    - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1530295709878783467}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
@@ -2680,7 +2689,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
-      value: SettingLayout, Assembly-CSharp
+      value: MainPanel, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
