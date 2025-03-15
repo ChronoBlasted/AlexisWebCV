@@ -6,12 +6,18 @@ using UnityEngine;
 public class EventPanel : Panel
 {
     [SerializeField] List<EventLayout> _eventLayouts = new List<EventLayout>();
+    [SerializeField] List<EventLayout> _pastEvents = new List<EventLayout>();
 
     public override void Init()
     {
         base.Init();
 
         foreach (var eventLayout in _eventLayouts)
+        {
+            eventLayout.Init();
+        }
+
+        foreach (var eventLayout in _pastEvents)
         {
             eventLayout.Init();
         }

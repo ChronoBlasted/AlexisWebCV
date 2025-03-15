@@ -60,7 +60,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.003921569}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.003921569}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -241,9 +241,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_StringReference:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:31e487fa25ad2c54b8d7305021d93e3b
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 401186697383936
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -916,9 +916,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_StringReference:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:31e487fa25ad2c54b8d7305021d93e3b
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 401019566952448
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -1494,9 +1494,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_StringReference:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:31e487fa25ad2c54b8d7305021d93e3b
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 400819288936448
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -1915,9 +1915,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_StringReference:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:31e487fa25ad2c54b8d7305021d93e3b
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 401447453069312
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -2497,7 +2497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.003921569}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.003921569}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3693,6 +3693,10 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2593144856361952011, guid: 2365dc99057e9ba4e9a032acd8ac70b2, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 160217565630464
+      objectReference: {fileID: 0}
     - target: {fileID: 3879870071687448401, guid: 2365dc99057e9ba4e9a032acd8ac70b2, type: 3}
       propertyPath: _tab
       value: 
@@ -3858,6 +3862,10 @@ PrefabInstance:
       propertyPath: m_text
       value: JAMS
       objectReference: {fileID: 0}
+    - target: {fileID: 774391782526075440, guid: 2365dc99057e9ba4e9a032acd8ac70b2, type: 3}
+      propertyPath: m_fontSize
+      value: 27.7
+      objectReference: {fileID: 0}
     - target: {fileID: 1127745013680516848, guid: 2365dc99057e9ba4e9a032acd8ac70b2, type: 3}
       propertyPath: m_Color.b
       value: 0.16470589
@@ -3869,6 +3877,14 @@ PrefabInstance:
     - target: {fileID: 1127745013680516848, guid: 2365dc99057e9ba4e9a032acd8ac70b2, type: 3}
       propertyPath: m_Color.r
       value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2593144856361952011, guid: 2365dc99057e9ba4e9a032acd8ac70b2, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 160174372687872
+      objectReference: {fileID: 0}
+    - target: {fileID: 2593144856361952011, guid: 2365dc99057e9ba4e9a032acd8ac70b2, type: 3}
+      propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
+      value: GUID:4bae1c06d453b4740bc89311cebde150
       objectReference: {fileID: 0}
     - target: {fileID: 3879870071687448401, guid: 2365dc99057e9ba4e9a032acd8ac70b2, type: 3}
       propertyPath: _tab

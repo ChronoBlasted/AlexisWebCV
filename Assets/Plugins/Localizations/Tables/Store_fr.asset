@@ -19,19 +19,19 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 4137029632
-    m_Localized: Patient
+    m_Localized: Patience
     m_Metadata:
       m_Items: []
   - m_Id: 11068190887936
-    m_Localized: A l'ecoute
+    m_Localized: Attentif
     m_Metadata:
       m_Items: []
   - m_Id: 10991049248768
-    m_Localized: Autonome
+    m_Localized: Autonomie
     m_Metadata:
       m_Items: []
   - m_Id: 11208645545984
-    m_Localized: Rigueur
+    m_Localized: Rigoureux
     m_Metadata:
       m_Items: []
   - m_Id: 11293919940608
@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 11342234128384
-    m_Localized: Adaptabilite
+    m_Localized: Polyvalence
     m_Metadata:
       m_Items: []
   - m_Id: 11412207702016

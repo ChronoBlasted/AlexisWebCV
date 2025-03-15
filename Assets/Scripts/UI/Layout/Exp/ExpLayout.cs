@@ -1,6 +1,8 @@
 using System;
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 using UnityEngine.Video;
 
@@ -11,6 +13,8 @@ public class ExpLayout : MonoBehaviour
     [SerializeField] VideoPlayer _videoPlayer;
 
     [SerializeField] ExpData _data;
+
+    [SerializeField] LocalizedString _yearTrad,_monthTrad,_dayTrad;
 
     public void Init(ExpData data)
     {
@@ -40,6 +44,13 @@ public class ExpLayout : MonoBehaviour
     {
         int years = endDate.Year - startDate.Year;
         int months = endDate.Month - startDate.Month;
+        int days = endDate.Day - startDate.Day;
+
+        if (days < 0)
+        {
+            months--;
+            days += DateTime.DaysInMonth(startDate.Year, startDate.Month);
+        }
 
         if (months < 0)
         {
@@ -47,8 +58,21 @@ public class ExpLayout : MonoBehaviour
             months += 12;
         }
 
-        return $"{years}Y {months}M"; // TODO Translate
+        string result = "";
+
+        if (years > 0)
+            result += years + " " + _yearTrad.GetLocalizedString(years) + " ";
+
+        if (months > 0)
+            result += months + " " + _monthTrad.GetLocalizedString(months) + " ";
+
+        if (days > 0)
+            result += days + " " + _dayTrad.GetLocalizedString(days);
+
+        return result.Trim();
     }
+
+
 
     private void OnEnable()
     {

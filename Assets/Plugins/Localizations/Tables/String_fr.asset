@@ -16,7 +16,8 @@ MonoBehaviour:
     m_Code: fr
   m_SharedData: {fileID: 11400000, guid: 4bae1c06d453b4740bc89311cebde150, type: 2}
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - rid: 960458949099520085
   m_TableData:
   - m_Id: 9384103936
     m_Localized: ErrorMsg
@@ -39,7 +40,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 205765611520
-    m_Localized: Passion
+    m_Localized: Passions
     m_Metadata:
       m_Items: []
   - m_Id: 240490254336
@@ -59,7 +60,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 31111159091200
-    m_Localized: Experience
+    m_Localized: Experiences
     m_Metadata:
       m_Items: []
   - m_Id: 31150216450048
@@ -71,7 +72,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 31222517862400
-    m_Localized: Evenement
+    m_Localized: Evenements
     m_Metadata:
       m_Items: []
   - m_Id: 160174372687872
@@ -83,7 +84,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 160217565630464
-    m_Localized: School
+    m_Localized: Ecole
     m_Metadata:
       m_Items: []
   - m_Id: 768638962765824
@@ -94,6 +95,29 @@ MonoBehaviour:
     m_Localized: Parameteres
     m_Metadata:
       m_Items: []
+  - m_Id: 787133100331008
+    m_Localized: '{0:an|ans}'
+    m_Metadata:
+      m_Items:
+      - rid: 960458949099520085
+  - m_Id: 787180726652928
+    m_Localized: mois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 787234556350464
+    m_Localized: '{0:jour|jours}
+
+'
+    m_Metadata:
+      m_Items:
+      - rid: 960458949099520085
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 960458949099520085
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 787234556350464
+        - id: 787133100331008

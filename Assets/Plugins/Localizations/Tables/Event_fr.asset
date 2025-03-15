@@ -16,7 +16,8 @@ MonoBehaviour:
     m_Code: fr
   m_SharedData: {fileID: 11400000, guid: 61ed0cbd222945a4aba8560f9d5c76a5, type: 2}
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - rid: 960458949099520156
   m_TableData:
   - m_Id: 8180338688
     m_Localized: Lyon Game Dev
@@ -42,6 +43,29 @@ MonoBehaviour:
     m_Localized: SolodevDesc
     m_Metadata:
       m_Items: []
+  - m_Id: 676369932881920
+    m_Localized: World Dog Show 2023
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677041717776384
+    m_Localized: WorldDogShowDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677145090592768
+    m_Localized: Dans
+    m_Metadata:
+      m_Items:
+      - rid: 960458949099520156
+  - m_Id: 677320366362624
+    m_Localized: Il y a
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 960458949099520156
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 677145090592768

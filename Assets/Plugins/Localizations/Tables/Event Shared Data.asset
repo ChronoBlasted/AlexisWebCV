@@ -39,6 +39,22 @@ MonoBehaviour:
     m_Key: SolodevDesc
     m_Metadata:
       m_Items: []
+  - m_Id: 676369932881920
+    m_Key: WorldDogShow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677041717776384
+    m_Key: WorldDogShowDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677145090592768
+    m_Key: InDays
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677320366362624
+    m_Key: Was
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

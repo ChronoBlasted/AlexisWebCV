@@ -75,6 +75,36 @@ MonoBehaviour:
   _rawImage: {fileID: 1253641164730958380}
   _videoPlayer: {fileID: 1926703725036423636}
   _data: {fileID: 0}
+  _yearTrad:
+    m_TableReference:
+      m_TableCollectionName: GUID:4bae1c06d453b4740bc89311cebde150
+    m_TableEntryReference:
+      m_KeyId: 787133100331008
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _monthTrad:
+    m_TableReference:
+      m_TableCollectionName: GUID:4bae1c06d453b4740bc89311cebde150
+    m_TableEntryReference:
+      m_KeyId: 787180726652928
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _dayTrad:
+    m_TableReference:
+      m_TableCollectionName: GUID:4bae1c06d453b4740bc89311cebde150
+    m_TableEntryReference:
+      m_KeyId: 787234556350464
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &2193536473789081483
 GameObject:
   m_ObjectHideFlags: 0

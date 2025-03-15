@@ -35,7 +35,6 @@ MonoBehaviour:
   EndTime: 2022-03-03
   RenderTex: {fileID: 8400000, guid: f34790c62df6fdd4b9c37dfa7aedf317, type: 2}
   Clip: {fileID: 32900000, guid: 4760263c47a83af4297ba9360ab50025, type: 3}
-  ClipURL: 
   references:
     version: 2
     RefIds: []

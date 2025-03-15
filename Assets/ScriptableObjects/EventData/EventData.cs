@@ -9,4 +9,5 @@ public class EventData : ResourceData
     public DateTime DateTime;
     public DayOfWeek TargetDay;
     public bool FirstOfTheMonths;
+    public string EventDate; // Format: YYYY-MM-DD
 }

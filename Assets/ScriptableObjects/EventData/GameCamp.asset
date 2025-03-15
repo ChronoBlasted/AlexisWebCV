@@ -35,6 +35,7 @@ MonoBehaviour:
     m_LocalVariables: []
   TargetDay: 2
   FirstOfTheMonths: 0
+  EventDate: 2024-06-24
   references:
     version: 2
     RefIds: []
