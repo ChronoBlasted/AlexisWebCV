@@ -15,26 +15,27 @@ MonoBehaviour:
   ExpType: 3
   Name:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:31e487fa25ad2c54b8d7305021d93e3b
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 289108850511895
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
   Desc:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:31e487fa25ad2c54b8d7305021d93e3b
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 289108850511896
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
-  StartTime: 
-  EndTime: 
-  Splash: {fileID: 0}
-  Screens: []
+  StartTime: 2024-12-01
+  EndTime: 2025-01-01
+  RenderTex: {fileID: 8400000, guid: e1c4675103e0d174b8d05e9759392a8c, type: 2}
+  Clip: {fileID: 32900000, guid: d5eaa65d49f64034c9c62e00c351abe8, type: 3}
+  ClipURL: 
   references:
     version: 2
     RefIds: []

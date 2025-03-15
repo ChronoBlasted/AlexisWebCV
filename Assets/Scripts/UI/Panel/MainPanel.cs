@@ -71,7 +71,7 @@ public class MainPanel : Panel
 
     public void OpenSettings()
     {
-
+        UIManager.Instance.ChangeView(UIManager.Instance.SettingView);
     }
 
     public void OpenFriends()

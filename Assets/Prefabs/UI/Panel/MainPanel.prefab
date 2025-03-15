@@ -1311,7 +1311,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1530295709878783467}
         m_TargetAssemblyTypeName: MainPanel, Assembly-CSharp
-        m_MethodName: OpenSettingsDropdown
+        m_MethodName: OpenSettingMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2315,11 +2315,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4791136968355958758, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
-      value: 380663442890752
+      value: 768638962765824
       objectReference: {fileID: 0}
     - target: {fileID: 4791136968355958758, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
-      value: GUID:8e47f340855630048937d8806ed8d4b5
+      value: GUID:4bae1c06d453b4740bc89311cebde150
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -2641,11 +2641,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4791136968355958758, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
-      value: 380724247715840
+      value: 768671686725632
       objectReference: {fileID: 0}
     - target: {fileID: 4791136968355958758, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
-      value: GUID:8e47f340855630048937d8806ed8d4b5
+      value: GUID:4bae1c06d453b4740bc89311cebde150
       objectReference: {fileID: 0}
     - target: {fileID: 6441502433149197433, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size

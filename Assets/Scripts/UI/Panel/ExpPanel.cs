@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class ExpPanel : Panel
 {
+    [SerializeField] NavBar _navBar;
     [SerializeField] Transform _scrollProGames, _scrollJamGames, _scrollSchoolGames;
     [SerializeField] ExpLayout _expLayoutPrefab;
 
@@ -25,6 +26,9 @@ public class ExpPanel : Panel
         base.OpenPanel();
 
         UIManager.Instance.MenuView.TopBar.ShowTopBar();
+
+        _navBar.Init();
+
     }
 
     void InitLayouts()

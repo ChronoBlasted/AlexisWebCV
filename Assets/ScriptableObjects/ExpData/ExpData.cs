@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Localization;
+using UnityEngine.Video;
 
 [CreateAssetMenu(fileName = "NewExpData", menuName = "ScriptableObjects/NewExpDataObject", order = 0)]
 public class ExpData : ScriptableObject
@@ -11,6 +12,6 @@ public class ExpData : ScriptableObject
     public LocalizedString Desc;
     public string StartTime;// Format: YYYY-MM-DD
     public string EndTime;// Format: YYYY-MM-DD
-    public Sprite Splash;
-    public List<Sprite> Screens;
+    public RenderTexture RenderTex;
+    public VideoClip Clip;
 }

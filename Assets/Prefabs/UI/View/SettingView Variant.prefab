@@ -1111,7 +1111,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3269933782802263586}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 264601219912121406}
+        m_TargetAssemblyTypeName: SettingView, Assembly-CSharp
+        m_MethodName: HandleJoinDiscord
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   _type: 1
   _rt: {fileID: 5448496291197211692}
   _timeOfScale: 0.2
@@ -1409,7 +1421,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8320906463227563228}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 264601219912121406}
+        m_TargetAssemblyTypeName: SettingView, Assembly-CSharp
+        m_MethodName: HandleOpenLanguagePopUp
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   _type: 1
   _rt: {fileID: 4850353890071524742}
   _timeOfScale: 0.2
@@ -2413,7 +2437,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1447352529562848425}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 264601219912121406}
+        m_TargetAssemblyTypeName: SettingView, Assembly-CSharp
+        m_MethodName: SwitchMusic
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   _type: 1
   _rt: {fileID: 6758898872065127561}
   _timeOfScale: 0.2
@@ -2429,7 +2465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f29a49e171f099646b3f7cdbadbf01a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _switchIco: {fileID: 0}
+  _switchIco: {fileID: 8186688973223884305}
 --- !u!1 &5119099893080428122
 GameObject:
   m_ObjectHideFlags: 0
@@ -2980,7 +3016,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 5240291790235800999}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 264601219912121406}
+        m_TargetAssemblyTypeName: SettingView, Assembly-CSharp
+        m_MethodName: SwitchSFX
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   _type: 1
   _rt: {fileID: 2317849629435210894}
   _timeOfScale: 0.2
@@ -2996,7 +3044,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f29a49e171f099646b3f7cdbadbf01a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _switchIco: {fileID: 0}
+  _switchIco: {fileID: 6156803848958498873}
 --- !u!1 &7014463467127876078
 GameObject:
   m_ObjectHideFlags: 0
@@ -3990,6 +4038,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 406112481010179750, guid: d890b35f4cfeb39478f9c0e40bf5fdf7, type: 3}
       insertIndex: -1
       addedObject: {fileID: 8152879491358678525}
+    - targetCorrespondingSourceObject: {fileID: 406112481010179750, guid: d890b35f4cfeb39478f9c0e40bf5fdf7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2911223485284393339}
   m_SourcePrefab: {fileID: 100100000, guid: d890b35f4cfeb39478f9c0e40bf5fdf7, type: 3}
 --- !u!1 &1072673185314770747 stripped
 GameObject:
@@ -4048,6 +4099,21 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &2911223485284393339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3853672458052810248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c97afc556caea1c44969477eb7ddec74, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ConformX: 1
+  ConformY: 1
+  Logging: 0
 --- !u!225 &4414903580464015277 stripped
 CanvasGroup:
   m_CorrespondingSourceObject: {fileID: 980888491173809923, guid: d890b35f4cfeb39478f9c0e40bf5fdf7, type: 3}
@@ -4157,10 +4223,22 @@ PrefabInstance:
     - target: {fileID: 2736547751369933511, guid: 69f4de5e6e9ead647bc6cfe171c7e720, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1072673185314770747}
+      objectReference: {fileID: 264601219912121406}
     - target: {fileID: 2736547751369933511, guid: 69f4de5e6e9ead647bc6cfe171c7e720, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2736547751369933511, guid: 69f4de5e6e9ead647bc6cfe171c7e720, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Close
+      objectReference: {fileID: 0}
+    - target: {fileID: 2736547751369933511, guid: 69f4de5e6e9ead647bc6cfe171c7e720, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SettingView, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2736547751369933511, guid: 69f4de5e6e9ead647bc6cfe171c7e720, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 6599332317817835967, guid: 69f4de5e6e9ead647bc6cfe171c7e720, type: 3}
       propertyPath: m_Name
