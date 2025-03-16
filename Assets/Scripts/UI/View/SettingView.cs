@@ -81,7 +81,7 @@ public class SettingView : View
 
     public void HandleJoinDiscord()
     {
-        Application.OpenURL("https://discord.gg/C7KwJJh2FY");
+        Application.OpenURL("https://discord.gg/r3xNwZBbhn");
     }
     public void HandleResetAccount()
     {

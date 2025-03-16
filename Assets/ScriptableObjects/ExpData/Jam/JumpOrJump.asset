@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2022-03-07
   RenderTex: {fileID: 8400000, guid: 4e482e7b6405f364594a43c9bbc15451, type: 2}
   Clip: {fileID: 32900000, guid: 380f96dd3613fd340a3917b847bd580e, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/jump-or-jump
   references:
     version: 2
     RefIds: []

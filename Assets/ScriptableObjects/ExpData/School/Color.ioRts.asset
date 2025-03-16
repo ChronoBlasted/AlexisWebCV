@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2025-01-01
   RenderTex: {fileID: 8400000, guid: e1c4675103e0d174b8d05e9759392a8c, type: 2}
   Clip: {fileID: 32900000, guid: d5eaa65d49f64034c9c62e00c351abe8, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/colorio-rts
   references:
     version: 2
     RefIds: []

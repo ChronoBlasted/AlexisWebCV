@@ -233,8 +233,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
-  _type: 0
-  _rt: {fileID: 0}
+  _type: 1
+  _rt: {fileID: 1512074958427544450}
   _timeOfScale: 0.2
 --- !u!114 &2034785593729695993
 MonoBehaviour:

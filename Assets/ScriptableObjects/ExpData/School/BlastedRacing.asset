@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2022-11-01
   RenderTex: {fileID: 8400000, guid: c0897ec0b25c30b4ab062ef1c46c0705, type: 2}
   Clip: {fileID: 32900000, guid: 7ebafe640147a5642866650000c7baf9, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/blasted-racing
   references:
     version: 2
     RefIds: []

@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2024-10-04
   RenderTex: {fileID: 8400000, guid: 0ecb2a5f27927364eb534f76628a5bc3, type: 2}
   Clip: {fileID: 32900000, guid: 773a661ef12c8554095211168c6a7b4b, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/towerdefenseproject
   references:
     version: 2
     RefIds: []

@@ -16,6 +16,7 @@ public class UIManager : MonoSingleton<UIManager>
     [SerializeField] SettingView _settingView;
 
     [SerializeField] RewardPopup _rewardPopup;
+    [SerializeField] ProfilePopup _profilePopup;
     [SerializeField] ConfirmPopup _confirmPopup;
     [SerializeField] LanguagePopup _languagePopup;
 
@@ -35,6 +36,7 @@ public class UIManager : MonoSingleton<UIManager>
     public RewardPopup RewardPopup { get => _rewardPopup; }
     public ConfirmPopup ConfirmPopup { get => _confirmPopup; }
     public LanguagePopup LanguagePopup { get => _languagePopup; }
+    public ProfilePopup ProfilePopup { get => _profilePopup; }
 
     Tweener _blackShadeTweener;
 
@@ -55,6 +57,7 @@ public class UIManager : MonoSingleton<UIManager>
         _rewardPopup.Init();
         _languagePopup.Init();
         _confirmPopup.Init();
+        _profilePopup.Init();
 
         HideBlackShade();
     }

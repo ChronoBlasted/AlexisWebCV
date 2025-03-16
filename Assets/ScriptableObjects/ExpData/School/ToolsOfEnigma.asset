@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2024-05-01
   RenderTex: {fileID: 8400000, guid: b0d3e5c576c9a0745a1d29980fbae41e, type: 2}
   Clip: {fileID: 32900000, guid: 253ce7360c79cbd45bcf5aa95e15b976, type: 3}
-  ClipURL: 
+  ItchURL: https://shiroteaneko.itch.io/tools-of-enigma
   references:
     version: 2
     RefIds: []

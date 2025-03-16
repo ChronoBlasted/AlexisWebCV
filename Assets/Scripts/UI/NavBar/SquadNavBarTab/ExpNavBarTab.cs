@@ -7,7 +7,6 @@ public enum ExpType { NONE, PRO, JAMS, SCHOOL }
 public class ExpNavBarTab : NavBarTab
 {
     [SerializeField] GameObject _tab;
-    [SerializeField] GameObject _deckTab;
     [SerializeField] ExpType _type;
 
     public override void HandleOnPress()
@@ -15,7 +14,6 @@ public class ExpNavBarTab : NavBarTab
         base.HandleOnPress();
 
         _tab.gameObject.SetActive(true);
-        _deckTab.gameObject.SetActive(true);
     }
 
     public override void HandleOnReset()
@@ -23,6 +21,5 @@ public class ExpNavBarTab : NavBarTab
         base.HandleOnReset();
 
         _tab.gameObject.SetActive(false);
-        _deckTab.gameObject.SetActive(false);
     }
 }

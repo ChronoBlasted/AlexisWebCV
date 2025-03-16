@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2023-10-01
   RenderTex: {fileID: 8400000, guid: 0c572a33254310b44b0a1f5bd93b48af, type: 2}
   Clip: {fileID: 32900000, guid: 6b2dca413944d194a85398340b5c5a56, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/jump-ball
   references:
     version: 2
     RefIds: []

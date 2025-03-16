@@ -72,6 +72,10 @@ public class ExpLayout : MonoBehaviour
         return result.Trim();
     }
 
+    public void HandleOnClick()
+    {
+        Application.OpenURL(_data.ItchURL);
+    }
 
 
     private void OnEnable()

@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2023-04-01
   RenderTex: {fileID: 8400000, guid: 8ebe41ffe52213b47bccdb9d90a013e1, type: 2}
   Clip: {fileID: 32900000, guid: b1bbe30656f9c604e96a84db767e7963, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/digger-danger
   references:
     version: 2
     RefIds: []

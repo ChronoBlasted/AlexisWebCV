@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2023-11-01
   RenderTex: {fileID: 8400000, guid: 1e0ede2c01f10f3468b268210edb19f7, type: 2}
   Clip: {fileID: 32900000, guid: a37c92513df947d4caf0e86ab30d79e5, type: 3}
-  ClipURL: https://www.youtube.com/watch?v=GBtwCTcB_5c
+  ItchURL: https://alexisgelin.itch.io/jean-claude-vandamme-dawn-of-the-chihuahuas
   references:
     version: 2
     RefIds: []

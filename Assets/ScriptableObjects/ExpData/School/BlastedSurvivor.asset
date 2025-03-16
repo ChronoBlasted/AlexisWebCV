@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2023-06-01
   RenderTex: {fileID: 8400000, guid: 13e0da04add791e47a221791b54dc1a8, type: 2}
   Clip: {fileID: 32900000, guid: 07c309a097bc0be41a7f61aff3c49928, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/blasted-survivor
   references:
     version: 2
     RefIds: []

@@ -35,6 +35,7 @@ MonoBehaviour:
   EndTime: 2023-05-04
   RenderTex: {fileID: 8400000, guid: 2810c71468946504eb563bdf44102a0e, type: 2}
   Clip: {fileID: 32900000, guid: 5d2e9de6fb0ba8b409f9f2834c42daec, type: 3}
+  ItchURL: https://manuia.itch.io/jedi-monkey-total-war
   references:
     version: 2
     RefIds: []

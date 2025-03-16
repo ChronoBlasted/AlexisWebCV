@@ -14,4 +14,5 @@ public class ExpData : ScriptableObject
     public string EndTime;// Format: YYYY-MM-DD
     public RenderTexture RenderTex;
     public VideoClip Clip;
+    public string ItchURL = "https://alexisgelin.itch.io/";
 }

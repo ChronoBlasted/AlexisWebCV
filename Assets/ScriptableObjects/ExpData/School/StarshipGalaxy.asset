@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2022-05-01
   RenderTex: {fileID: 8400000, guid: 9145b5a94b387bf438c2a19dd4d08c59, type: 2}
   Clip: {fileID: 32900000, guid: 16a8af13331764540b10da5e8603e29c, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/starship-galaxy
   references:
     version: 2
     RefIds: []

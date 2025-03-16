@@ -35,7 +35,7 @@ MonoBehaviour:
   EndTime: 2023-02-01
   RenderTex: {fileID: 8400000, guid: 1a1858ddb746fa640923f51e44e0f59d, type: 2}
   Clip: {fileID: 32900000, guid: 173b2881c34e7254aa83da679c578b1b, type: 3}
-  ClipURL: 
+  ItchURL: https://alexisgelin.itch.io/tamagotchi-arena
   references:
     version: 2
     RefIds: []

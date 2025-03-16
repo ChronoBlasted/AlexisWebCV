@@ -21,7 +21,7 @@ public class MainPanel : Panel
 
     public void OpenContactInfo()
     {
-
+        UIManager.Instance.AddPopup(UIManager.Instance.ProfilePopup);
     }
 
     public void OpenQuest()
@@ -66,7 +66,7 @@ public class MainPanel : Panel
 
     public void OpenProfile()
     {
-
+        UIManager.Instance.AddPopup(UIManager.Instance.ProfilePopup);
     }
 
     public void OpenSettings()
