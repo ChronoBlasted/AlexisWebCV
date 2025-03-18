@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2025-02-01
   EndTime: 2025-03-01
-  RenderTex: {fileID: 8400000, guid: f20780f69740cca45823b40cbf90a3b2, type: 2}
-  Clip: {fileID: 32900000, guid: 6a5a523e924404a459ee7cde81c6a704, type: 3}
+  Animation: {fileID: 7400000, guid: d821b9f1190cb004497bcf65e52ea387, type: 2}
   ItchURL: https://alexisgelin.itch.io/isandre
   references:
     version: 2

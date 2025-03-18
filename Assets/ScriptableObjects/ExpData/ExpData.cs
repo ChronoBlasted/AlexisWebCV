@@ -12,7 +12,6 @@ public class ExpData : ScriptableObject
     public LocalizedString Desc;
     public string StartTime;// Format: YYYY-MM-DD
     public string EndTime;// Format: YYYY-MM-DD
-    public RenderTexture RenderTex;
-    public VideoClip Clip;
+    public AnimationClip Animation;
     public string ItchURL = "https://alexisgelin.itch.io/";
 }

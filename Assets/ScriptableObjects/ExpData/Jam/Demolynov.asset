@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-03-01
   EndTime: 2022-03-03
-  RenderTex: {fileID: 8400000, guid: f34790c62df6fdd4b9c37dfa7aedf317, type: 2}
-  Clip: {fileID: 32900000, guid: 4760263c47a83af4297ba9360ab50025, type: 3}
+  Animation: {fileID: 7400000, guid: 38675cbee99cf7549be69eec4c9a73c9, type: 2}
   ItchURL: https://damienrzu.itch.io/demolynov
   references:
     version: 2

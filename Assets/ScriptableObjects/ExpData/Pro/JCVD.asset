@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-06-01
   EndTime: 2023-11-01
-  RenderTex: {fileID: 8400000, guid: 1e0ede2c01f10f3468b268210edb19f7, type: 2}
-  Clip: {fileID: 32900000, guid: a37c92513df947d4caf0e86ab30d79e5, type: 3}
+  Animation: {fileID: 7400000, guid: e30542aa6de55f049bbf29b2c4aacfde, type: 2}
   ItchURL: https://alexisgelin.itch.io/jean-claude-vandamme-dawn-of-the-chihuahuas
   references:
     version: 2

@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2023-11-01
   EndTime: 2024-11-01
-  RenderTex: {fileID: 8400000, guid: 0f03f71b866df5d4fa26df2d0c387510, type: 2}
-  Clip: {fileID: 32900000, guid: 456b1b9b013617c4a8a77bb021bd0bd1, type: 3}
+  Animation: {fileID: 7400000, guid: 39931a176f20e7941933e6aed6646ee7, type: 2}
   ItchURL: https://alexisgelin.itch.io/zak-wowo
   references:
     version: 2

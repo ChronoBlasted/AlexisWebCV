@@ -1,0 +1,1283 @@
+fileFormatVersion: 2
+guid: a4bea33bbd0768c44a23e67281af53c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8675107177273856991
+    second: TowerDefense-ezgif.com-gif-to-sprite-converter_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TowerDefense_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e017a4ad2b1a6240b36843b5a4fde65
+      internalID: -2116882400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4032
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0bded63ff474246bf91a735ab9c381
+      internalID: -1302700976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4032
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b12feede6b0b3d47bf31a8793d6e58f
+      internalID: 1554927052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4032
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1934b9530d905640a173a84d7f15f56
+      internalID: -433162780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4032
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0828229222d5f504c88b08d760cf2c67
+      internalID: -1117148616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77c5d31100dac46874f3179d57ec69
+      internalID: -64127017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3584
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eadd4ba7c4107a40a4c0b765f4de138
+      internalID: 1141711090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3584
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd9752d9ef2525489438bc43198c518
+      internalID: -324163026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3584
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46d2ea320c52c48be56bc05cabd102
+      internalID: 807365414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3584
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b109888745d14fa08d5036c77a27e
+      internalID: 902888227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3136
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb3a74712dd59448da65885d923aea
+      internalID: -961254068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3136
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d036444ba39e049b926b2463c27b6f
+      internalID: 807178270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3136
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5859231dda84d74c892aaf4a9d67541
+      internalID: 1310559720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3136
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2af846a3fde4f4ba9d9c8653ed4835
+      internalID: 1984528358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3136
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96452e96849fe5949b57a6e858509ef9
+      internalID: 1453950277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803421302000ab44fbb5cde3da88a224
+      internalID: -1929609708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2688
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c76a5158459bc4483f9efa1501d1f8
+      internalID: 536231932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2688
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7df76de0a4d714da850ef3cb22c0a6
+      internalID: 673960052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2688
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d4ba659c15e04ca992afa34468c2b
+      internalID: 1072165033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2688
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7025200f2ca7d4e8c90029c949ddac
+      internalID: 584831545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d098b8f680016547b32fbe7b1bffd45
+      internalID: -647150503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2240
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8fc3e8b4889044be34ca2a634e524
+      internalID: -1319129907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2240
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb96b31bca1a848bb2bcad82695854
+      internalID: 60679872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2240
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c5df961c96ac749bad78cd39276166
+      internalID: -1988534981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2240
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb1d6289887b04e94c4dc679e0ba7a
+      internalID: -1519907597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ed33360662db4a952dfe65d1fb4d3
+      internalID: 2135741630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1792
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f9ac6b874df4b44a854979f336d104
+      internalID: 668320189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1792
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878699276bb491f4f97b9414930551c5
+      internalID: -20172276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1792
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7836406cad9b341b3e609ce461db45
+      internalID: 1261195245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1792
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea54245d087884996b1bcec4430017
+      internalID: -1456707102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576478804da91124aba6fb3655a19deb
+      internalID: 1168095562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1344
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f831b92999254583cf78dfe046e14
+      internalID: 742339085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1344
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2d7aae549cb7242a4c6a2dea3e7c8c
+      internalID: -1908156003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1344
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6bf7f9a805aa4699349efa97bb5b0
+      internalID: 346451551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1344
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20165e9057e52054fbefa12c6c968b9c
+      internalID: 1362547754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463fbe442017a664193de2e2d6496680
+      internalID: -75514962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 896
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f51a528d5bf3b4a947f6466121d6a5
+      internalID: -638996598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 896
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e068fd37aabb42b92ddeb93553036
+      internalID: -627309922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 896
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda6771ca8a167a42b5bc0f3316e28d5
+      internalID: -1271583169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_39
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 896
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556bd7be453b8b84eba92f8387b937f5
+      internalID: 1849507339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e17559d156e8549acca75e33a4ea9e
+      internalID: -435314485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 448
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d2e882ccebb44d99dc36ca733874d
+      internalID: -1000213204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 448
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08070f4c4f53b644fa227c2dba34ccf0
+      internalID: -1146122268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 448
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2529d39badb83842827b36d4406cd85
+      internalID: 2007638747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 448
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d79d8a64d500b43a672cc7a4328aff
+      internalID: 704439095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8137ea9680436564dbefa8f9346c80ba
+      internalID: 1691230122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241fc1abd20d1d44ace30391d01a40d
+      internalID: 1387223566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_47
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff79c89704da5a4587555fb9c339995
+      internalID: 8029092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6896e58dd9989646bfdac0e2b3be5a1
+      internalID: 1298835106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerDefense_49
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b122fd45d42d041439ac1fe4a2ea1f2d
+      internalID: -114180849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 102a4f443949a9c42a4d2c4cf2d1f00d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TowerDefense_0: -2116882400
+      TowerDefense_1: -1302700976
+      TowerDefense_10: -961254068
+      TowerDefense_11: 807178270
+      TowerDefense_12: 1310559720
+      TowerDefense_13: 1984528358
+      TowerDefense_14: 1453950277
+      TowerDefense_15: -1929609708
+      TowerDefense_16: 536231932
+      TowerDefense_17: 673960052
+      TowerDefense_18: 1072165033
+      TowerDefense_19: 584831545
+      TowerDefense_2: 1554927052
+      TowerDefense_20: -647150503
+      TowerDefense_21: -1319129907
+      TowerDefense_22: 60679872
+      TowerDefense_23: -1988534981
+      TowerDefense_24: -1519907597
+      TowerDefense_25: 2135741630
+      TowerDefense_26: 668320189
+      TowerDefense_27: -20172276
+      TowerDefense_28: 1261195245
+      TowerDefense_29: -1456707102
+      TowerDefense_3: -433162780
+      TowerDefense_30: 1168095562
+      TowerDefense_31: 742339085
+      TowerDefense_32: -1908156003
+      TowerDefense_33: 346451551
+      TowerDefense_34: 1362547754
+      TowerDefense_35: -75514962
+      TowerDefense_36: -638996598
+      TowerDefense_37: -627309922
+      TowerDefense_38: -1271583169
+      TowerDefense_39: 1849507339
+      TowerDefense_4: -1117148616
+      TowerDefense_40: -435314485
+      TowerDefense_41: -1000213204
+      TowerDefense_42: -1146122268
+      TowerDefense_43: 2007638747
+      TowerDefense_44: 704439095
+      TowerDefense_45: 1691230122
+      TowerDefense_46: 1387223566
+      TowerDefense_47: 8029092
+      TowerDefense_48: 1298835106
+      TowerDefense_49: -114180849
+      TowerDefense_5: -64127017
+      TowerDefense_6: 1141711090
+      TowerDefense_7: -324163026
+      TowerDefense_8: 807365414
+      TowerDefense_9: 902888227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

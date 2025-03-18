@@ -1,0 +1,1283 @@
+fileFormatVersion: 2
+guid: a1f81e70ad99468439bf7ae648ca9c94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4589140933167815355
+    second: StarshipGalaxy-ezgif.com-gif-to-sprite-converter_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarshipGalaxy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4023
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b524cac3d0aae649ab37ade70a27035
+      internalID: 1803222333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4023
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60817302aa38248b55aafe19702050
+      internalID: 114381160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4023
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512229fc6aab5de4fa0c5b66e66ccd01
+      internalID: 281449722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4023
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96ad0950ad62844838346856081406
+      internalID: -1756034322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4023
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a510aca2634c8d47a40a5deee3baa23
+      internalID: 631828434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3576
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d53d503b80964b4783f7cd694a6b46e
+      internalID: -194235724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3576
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bf44e029979594e80483dd3bf168b0
+      internalID: 1917719752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3576
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd97bed88b026489e74c13f6e73da4
+      internalID: 1026387059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3576
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07171d5f6e1ff814a9d99d7d94a0fce3
+      internalID: -1469817155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3576
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b47840a33ecec240a5f460e964ba6bd
+      internalID: 1767245802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3129
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928865cfb916fa4c982c3082d64fb69
+      internalID: -1509131913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3129
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a1cb856258eb249aa50bb5b4a86fb7
+      internalID: -1645253002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3129
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874c589cda487864bb7e77d8c4c90409
+      internalID: -1084140338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3129
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef35898a3fb5f40963e1bbc0b7821b
+      internalID: -671688818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3129
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f35d932267ddeb4cb588a71f58778bb
+      internalID: 1791966185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2682
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea74b3dc7afe24f812e7993b9a4697
+      internalID: 1474610247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2682
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307fae34664ab94469e2ef2aed975e9c
+      internalID: -638955967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2682
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8207bd6cbd8134cb0a6e0569014a37
+      internalID: 959344024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2682
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78e268df3832e046aa0a78c6e583b46
+      internalID: -224142043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2682
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331087caed159214980316e0de517de9
+      internalID: 1689516257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2235
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e2321d59265f46a8aaae4bd0ccbe9
+      internalID: 1974413069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2235
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8790688362ca8045b14dfba9364739e
+      internalID: 963434034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2235
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332aa5d5be4a8ee45a2584f62a244a2e
+      internalID: -1897277065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2235
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab65565fabdf3204fbc881628a60eaa1
+      internalID: 1607664003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2235
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e28d15595ae8b4dac34a520a121ca8
+      internalID: 1030398658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee3d40d3c01b8847bea6643e819277d
+      internalID: -1201963159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1788
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5bba0d21fe78141909eda180ff8a97
+      internalID: 1401982972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1788
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b1ef902d8ed1544b1456b4072f159e
+      internalID: 672662701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1788
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4985e45a656b7449aa3f14f1e129285
+      internalID: -1420340256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1788
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a89edd532757040ab790b7bdb181ab
+      internalID: -934190398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1341
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0879bfcecdcc42d4baf2224c3f327e11
+      internalID: 793334056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1341
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e236eace02ebc4987f63df19a59a23
+      internalID: 12455097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1341
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55cf0dc1f2e7634f926df2021e70016
+      internalID: 237960662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1341
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559b2613e17f3234396659876db3619f
+      internalID: 24564358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1341
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f35dc051c04fa94fac781a9fe610e33
+      internalID: 856665625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d47934838374a4fb2463e61397115f
+      internalID: 10576962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 894
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1573f37cd863b54e866cd1828c7d1d7
+      internalID: 329333527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 894
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fbc39d8de1911489cd2d7912889666
+      internalID: 1963499823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 894
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e9e9fe26a704843ae9c73f2e2e77e9
+      internalID: -1598742709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_39
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 894
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484f6e6aa90b9b94195ee424dd541031
+      internalID: 1957473094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e35c4ee1178e8c4bad05bc0577b2ccb
+      internalID: -1034905178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 447
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc373db44de1554aba004cb4c98a56f
+      internalID: -236846506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 447
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1af32c581de36948bd1a7a4b222f2d0
+      internalID: -80023667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 447
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a4b5a0687abd4c91f0a6bedc269ef
+      internalID: 1057482754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 447
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a95e53358bc64e8e90321c34bc231
+      internalID: 545701790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194e668e5f604a4fb780324e392a871
+      internalID: -576365019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367494e86c540864abf18cb15a4eb3a5
+      internalID: 854211118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_47
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ffbb960a08a04fa8ee4e63d0f7acb
+      internalID: 672899427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e876dbdd42bac27448aa3674574e6b1e
+      internalID: -441272349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarshipGalaxy_49
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cd0b19e190e324bbc56e7113460d97
+      internalID: 1518381219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5f7d1152107572248aed479261c4e334
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StarshipGalaxy_0: 1803222333
+      StarshipGalaxy_1: 114381160
+      StarshipGalaxy_10: -1509131913
+      StarshipGalaxy_11: -1645253002
+      StarshipGalaxy_12: -1084140338
+      StarshipGalaxy_13: -671688818
+      StarshipGalaxy_14: 1791966185
+      StarshipGalaxy_15: 1474610247
+      StarshipGalaxy_16: -638955967
+      StarshipGalaxy_17: 959344024
+      StarshipGalaxy_18: -224142043
+      StarshipGalaxy_19: 1689516257
+      StarshipGalaxy_2: 281449722
+      StarshipGalaxy_20: 1974413069
+      StarshipGalaxy_21: 963434034
+      StarshipGalaxy_22: -1897277065
+      StarshipGalaxy_23: 1607664003
+      StarshipGalaxy_24: 1030398658
+      StarshipGalaxy_25: -1201963159
+      StarshipGalaxy_26: 1401982972
+      StarshipGalaxy_27: 672662701
+      StarshipGalaxy_28: -1420340256
+      StarshipGalaxy_29: -934190398
+      StarshipGalaxy_3: -1756034322
+      StarshipGalaxy_30: 793334056
+      StarshipGalaxy_31: 12455097
+      StarshipGalaxy_32: 237960662
+      StarshipGalaxy_33: 24564358
+      StarshipGalaxy_34: 856665625
+      StarshipGalaxy_35: 10576962
+      StarshipGalaxy_36: 329333527
+      StarshipGalaxy_37: 1963499823
+      StarshipGalaxy_38: -1598742709
+      StarshipGalaxy_39: 1957473094
+      StarshipGalaxy_4: 631828434
+      StarshipGalaxy_40: -1034905178
+      StarshipGalaxy_41: -236846506
+      StarshipGalaxy_42: -80023667
+      StarshipGalaxy_43: 1057482754
+      StarshipGalaxy_44: 545701790
+      StarshipGalaxy_45: -576365019
+      StarshipGalaxy_46: 854211118
+      StarshipGalaxy_47: 672899427
+      StarshipGalaxy_48: -441272349
+      StarshipGalaxy_49: 1518381219
+      StarshipGalaxy_5: -194235724
+      StarshipGalaxy_6: 1917719752
+      StarshipGalaxy_7: 1026387059
+      StarshipGalaxy_8: -1469817155
+      StarshipGalaxy_9: 1767245802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

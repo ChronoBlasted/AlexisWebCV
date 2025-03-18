@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-10-01
   EndTime: 2022-11-01
-  RenderTex: {fileID: 8400000, guid: c0897ec0b25c30b4ab062ef1c46c0705, type: 2}
-  Clip: {fileID: 32900000, guid: 7ebafe640147a5642866650000c7baf9, type: 3}
+  Animation: {fileID: 7400000, guid: cf2003251f9fca54d8f9000cea1058bf, type: 2}
   ItchURL: https://alexisgelin.itch.io/blasted-racing
   references:
     version: 2

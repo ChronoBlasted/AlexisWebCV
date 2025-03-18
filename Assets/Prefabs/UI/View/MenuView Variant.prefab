@@ -1442,7 +1442,7 @@ MonoBehaviour:
   <ShopPanel>k__BackingField: {fileID: 3017760778999677348}
   <ExpPanel>k__BackingField: {fileID: 4453265380533022309}
   <MainPanel>k__BackingField: {fileID: 4560381031565667029}
-  <ClanPanel>k__BackingField: {fileID: 5867494005404099938}
+  <TimelinePanel>k__BackingField: {fileID: 5867494005404099938}
   <EventPanel>k__BackingField: {fileID: 4263745382777943997}
 --- !u!224 &4223392334048197385 stripped
 RectTransform:
@@ -2830,54 +2830,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 9210167087789959146}
     m_Modifications:
-    - target: {fileID: 4983999535575594671, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4983999535575594671, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4983999535575594671, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4983999535575594671, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4983999535575594671, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4983999535575594671, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5164070437227102551, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5164070437227102551, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5164070437227102551, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5164070437227102551, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5164070437227102551, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5164070437227102551, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6481513686706691834, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -2899,40 +2851,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6481513686706691834, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8516070464469017697, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8516070464469017697, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8516070464469017697, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8516070464469017697, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8516070464469017697, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8516070464469017697, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8558236139725086434, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
       propertyPath: m_Name
-      value: EntreprisePanel
-      objectReference: {fileID: 0}
-    - target: {fileID: 8976353454196713598, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
-      propertyPath: m_Alpha
-      value: 0
+      value: TimelinePanel
       objectReference: {fileID: 0}
     - target: {fileID: 9069015238154705196, guid: 344d214ee77959f47b8f2a7abe438179, type: 3}
       propertyPath: m_Pivot.x

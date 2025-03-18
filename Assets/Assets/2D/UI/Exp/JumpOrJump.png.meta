@@ -1,0 +1,4021 @@
+fileFormatVersion: 2
+guid: aafe11fde88c24c4293cf9e1d20740e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4263531699903304984
+    second: JumpOrJump-ezgif.com-gif-to-sprite-converter_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpOrJump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14223
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5084e8cbda6dd4a836f3c3b0d5b19f
+      internalID: -1163370203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 14223
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c411ab5bdf7e84458042485104813aa
+      internalID: 1552179243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 14223
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8416a7450de216346a2d20e07dbda81f
+      internalID: -207954063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 14223
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aac7705e5322c4a90cf9e1470ef42f
+      internalID: -1045172517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 14223
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54c3aaa08b670a4bbc29e9dfe71b942
+      internalID: -447572556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13792
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb6f4cb50de6e54896b7786cf488041
+      internalID: -1664853926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 13792
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697052b82a9d4d14387a14f5f95e4011
+      internalID: 90087516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 13792
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca470a819f4e074da6ec6da01be861c
+      internalID: 1617268108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 13792
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6f10e99286b546b9259683bb4273f
+      internalID: -1950513167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_9
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 13792
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516e90b6fe52e0499d72822943b62b0
+      internalID: -1004908631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13361
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5d481f15506e24ba8db7ccc821d02d
+      internalID: 1311832368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 13361
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92738eaa62ce45f42bc6640f9cfb1ec3
+      internalID: 1079157672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 13361
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d88b812c273f449eeb895e2bddce2
+      internalID: -445255987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_13
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 13361
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4603d912cd6f5444ab2ad004fe7315b8
+      internalID: -487285627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_14
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 13361
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935712798f7b12b4dbe316f83720dc38
+      internalID: 1974462599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12930
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebcc23bc33d6c47ad548cd50eb00d2
+      internalID: 1111994009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 12930
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4177e464ac60c0f46a837c11354aa888
+      internalID: -213709373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 12930
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c39213c1546719489e7da1eded1459f
+      internalID: -556586168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_18
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 12930
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef6fe9f791462a4a8190cbe7b190b31
+      internalID: -7476204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_19
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 12930
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322d4e3c0f52ff549b9c0ade3c91101d
+      internalID: -1459251191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12499
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b2d6251cd1df448ab1d03b8e02791
+      internalID: 243518499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 12499
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372db66eb8e20a84eb936aaa7a969d5c
+      internalID: -1694123571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 12499
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb8cbf9f704754d959af3a6a233e23
+      internalID: 848992292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 12499
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de63cc372df2de45a47220aa76ace2a
+      internalID: -1734822133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_24
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 12499
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5201b31719fcb478363d2d2356579a
+      internalID: 1280094081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12068
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f426bf4a6bc3e4199a2c738f6c19aa
+      internalID: -1664668107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 12068
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65778f666e3ff44680c38870a0b52b5
+      internalID: -1076717980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 12068
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35defb809e7097944b9d9f792fc86f50
+      internalID: -68928968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_28
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 12068
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4268ade544e0d4790ca8f41c16ef70
+      internalID: -1883078892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_29
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 12068
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a7434ca4c0d14389e33b7f7e8440a
+      internalID: 13642052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11637
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437c493b51bf9c0479efa24a00433ff2
+      internalID: -1819548958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11637
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ab760e4de8c6443803b22cf1471b6a
+      internalID: 1841196906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 11637
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bad38c873cf334e81a7be9a20d3576
+      internalID: 1023356099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_33
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 11637
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b72552e396de5043a80bfab0a1b3e3c
+      internalID: 1341170239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_34
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 11637
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70472bf76d5675846bb43cfcc115f132
+      internalID: -930746481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11206
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24a5f442dabb84d850bcab427942ab
+      internalID: -840795044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11206
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a7a0762c56d043a79765a494faa88
+      internalID: -1161336656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 11206
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df41199d197e544a88d33731d0536e
+      internalID: 1534594820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 11206
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c096cfe42016fb42b2acf2f43628651
+      internalID: 1928878137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_39
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 11206
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d83ae25aeaadc469a2ad369ff48a59
+      internalID: 972383653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10775
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee47618f212e2438276f0c6eaba415
+      internalID: 761513414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 10775
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e82cd15db692894b957437d49e116d3
+      internalID: 449802267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_42
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 10775
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0183bcc6dc3f0649803bc0e72edd050
+      internalID: -1643193669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_43
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 10775
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722bbe58f4c31ce4bb8c12c47b46d715
+      internalID: -1303538012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_44
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 10775
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e0e04eb05d934d947fc5094dc9a12
+      internalID: 2004150637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10344
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec99380a77a8664781e5acd714a6be7
+      internalID: -1551058106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 10344
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd2d906b76c8694c94fe4b4a4fad359
+      internalID: 553329333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 10344
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9bbe280632e843b5a76c6b9728390
+      internalID: 1963598854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_48
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 10344
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b9826edb5fcf4bb425d7fed29a85d
+      internalID: 1619352155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_49
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 10344
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e9490161ea4b446ae26df90e185f79
+      internalID: -502794406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9913
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1581d0d729651428a40aec3d77977c
+      internalID: -459502959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 9913
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd4665483f2754dadc0252f7fb0816
+      internalID: 440825167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 9913
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197c5ef32b59a574b9bd75fee6b68d7b
+      internalID: -312374986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_53
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 9913
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9fbc1763f333a48a4da582a5d16770
+      internalID: -640045867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_54
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 9913
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a14f6cebc9ba14982213bfa3d8c4b9
+      internalID: -398617350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9482
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0eb10919aca694e98d080fb877dd55
+      internalID: -2091847732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 9482
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160b4be36aadbb249ad9576a4f175009
+      internalID: -676713254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_57
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 9482
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674df57cd7d196e43917edd984687a4b
+      internalID: -727407508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_58
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 9482
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dbee41b4f73db47b679e56e3c0484b
+      internalID: -683366640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 9482
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b5035be98b3814e90a6abb67f9ed11
+      internalID: -1320035628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9051
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0cc82b3a3de4a41a8e2a4ca514492b
+      internalID: 995686385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 9051
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8947d58698954d2438fa243c87e5b02a
+      internalID: 2109411102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_62
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 9051
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c959caa4605742d4d8c49bf5912d8fe2
+      internalID: -781761734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_63
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 9051
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1306751c47e024ea0048a29ad3e55f
+      internalID: 199493646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_64
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 9051
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b01f66e027b841addfe030d24fbbe
+      internalID: -1042328931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8620
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2f4edf64c80784db3b265f227f83a0
+      internalID: -1373914433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 8620
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489648104757efb4795c224ce40edccf
+      internalID: 474443429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 8620
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f7eef9d22f0244fb50801ee5a6e541
+      internalID: -1967575694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_68
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 8620
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a83d70771b070a4cbb9078f260b1df7
+      internalID: 1433127518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_69
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 8620
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe792b6d48c49140b50e18a92f64d2f
+      internalID: 313116599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8189
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1db3a697013c745bce9082595607fc
+      internalID: -1255533014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 8189
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34126445e4abdd6449d6ec747926ab29
+      internalID: 1103407002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 8189
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d48129d1aa0943abb1d6e1672c451
+      internalID: -102707616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_73
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 8189
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b53fa18b68544488cf51ff09fd50aa
+      internalID: 987286322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_74
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 8189
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa8bd4ccf368a44fae774f50f8f583f
+      internalID: -324858845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7758
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb12cbb2905b3c46af227d2a4f80b83
+      internalID: -1168051379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7758
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981baedefa5d39e478ed68cba858d814
+      internalID: 990665371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_77
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 7758
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6bd4be3704a5f428ef7215117ba4dc
+      internalID: -862815619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_78
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 7758
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5793283ae7574a9392df2bbed6215
+      internalID: -344909079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_79
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 7758
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910c806228640d4db9dac60a365f5c2
+      internalID: 1693070575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7327
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841005b7a02816d4096810b4514116c1
+      internalID: -306620745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7327
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c809152c494d7d4ca03f4ecd43b736f
+      internalID: -2088677699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 7327
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af0af2d351a3b4a899ed487d38f28c
+      internalID: -17565247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_83
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 7327
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1095d77b80c95145afdbe9b377226a1
+      internalID: -1106289297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_84
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 7327
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c032fa9da15346844bf3673d32f6f6bc
+      internalID: 743493137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6896
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1e71ca06c61b44befb67a8c82f7f9
+      internalID: 1887810210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6896
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcab492ad96fbb946a00c7a2ed9a411e
+      internalID: -509239358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_87
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6896
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45f1f2c42bfa042aa50100473b9de8
+      internalID: -1061814222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_88
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 6896
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65da9f9fbc96959438f7fa78051bb65a
+      internalID: 1877207610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_89
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 6896
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96db3274acac246b87a80d9a293cc8
+      internalID: 1332845954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6465
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ac284d66f281469b9c987d0c067af
+      internalID: 1348096998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6465
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd2ab2b18d56af449ed589120e0bffb
+      internalID: -173942659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_92
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6465
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec4c836d1aa40246b27919c09fdab93
+      internalID: -1546628423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_93
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 6465
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ee52295d856d24695c5b045351bbcf
+      internalID: -1205040621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_94
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 6465
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6695093024123c941ad08c17b17fc96c
+      internalID: 1259259298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6034
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863884a5303a59348bfc73c3a8348265
+      internalID: 112949377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6034
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481d474855ee06e48823a28e32089cc5
+      internalID: 1405607298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6034
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61f6159c63fef64e8c33a6a11b33f2f
+      internalID: -627327017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_98
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 6034
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9274c4d84cfc04e829d15b58218421
+      internalID: -1767517221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_99
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 6034
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4928e8982c960c149981b17c9e0cddc6
+      internalID: 1390038338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5603
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411702f304163ae4ab3259e4acf9e4b8
+      internalID: -35327044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5603
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb5b2820a2c90d4cb84f3de59a1bea0
+      internalID: -1776111020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 5603
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94548c4d4e05a74fa6c28fc28cdcc7e
+      internalID: 1141671895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_103
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 5603
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a19356d50a48479cead0db48b026b
+      internalID: -1716588657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_104
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 5603
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3358d06f65ab4b47bf393f63e40c303
+      internalID: 475609465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5172
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a49abd66c40f647b566d92419a235b
+      internalID: 1180871280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5172
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b8234255a36c2478093abc5e968f23
+      internalID: 543537949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 5172
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a45c3e7ff8f314e83ae27dc6d4d5c5
+      internalID: 1801023568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_108
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 5172
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09413654721f515408b7f0776b70f598
+      internalID: 1048809913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_109
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 5172
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b7468ea9fcab49bf1770142f6014a
+      internalID: -1710225668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4741
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a68c6bedc5104f8b48234e18a75b3
+      internalID: -46524592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4741
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ec54436a5a018438eaaff43da90af6
+      internalID: -640840896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_112
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 4741
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5144caeac3ee4fbd3ac87b8de4639
+      internalID: -117443730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_113
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 4741
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2dfda9733a81a44806160b938cbc43
+      internalID: 1753201980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_114
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 4741
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac751c55e2881747a5dc32012d9549a
+      internalID: 342484182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4310
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26bd1faa4c6ca4bba7071ad22f641b
+      internalID: -2135887336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4310
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a02e921a0d874a8c01bbdcdd2f84b
+      internalID: 1000987125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_117
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 4310
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e94dbc068fd964d874c6a5c4425f9c
+      internalID: 1170850271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_118
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 4310
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a040cbcc79ae4a980a9d1a4ef6bee
+      internalID: 487035817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_119
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 4310
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307e27aeb13f4324fb80d5bc0685c6c1
+      internalID: -2036825481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3879
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78939b7b8d06ca84c98d019de6504349
+      internalID: 1239604113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3879
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c0304b7707ed4c88b51306e87a0f9
+      internalID: 1440531919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_122
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3879
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e5438674a4dc4e8a10aadd3fbe24d
+      internalID: -1515226163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_123
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3879
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16cac331524fc14896ac18c18535241
+      internalID: -1556854441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_124
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3879
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a49d991a6464148a5fdaf36014705b
+      internalID: -1335369536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3448
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2872b53ffde882d4080f16de500e224f
+      internalID: 1342169352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_126
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3448
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2459d4a931d1a944a8414a118b1f425
+      internalID: 74588677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_127
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3448
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245020f6f4279f34eb9c3a74202bda0a
+      internalID: 1925812961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_128
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3448
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c539775fad30a54e878fba3c7f0c7c8
+      internalID: -1757105072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_129
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3448
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b30659193c6443a87007a0f1022cd
+      internalID: -1969671212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3017
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620eb9cdc97d60f46b42071ebcdd2094
+      internalID: 1581352071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3017
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a52df391304042b7eeed193d739a2
+      internalID: 1899818666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_132
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3017
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cebf7e2096f0147b4786d821ed76b9
+      internalID: 279762863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_133
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3017
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a467d65471a3a478dce27cdf5685a9
+      internalID: -1189854697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_134
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3017
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2100770b20f645b90a49277304f0e
+      internalID: -490545673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2586
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b10d414c6b806b40a6acd08a788f036
+      internalID: -682968987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2586
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b19d524fa474d9488d2f5adbc2c9b73
+      internalID: 1075145585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_137
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2586
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69aca329dd2324baf0fd02544e965f
+      internalID: 217922441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_138
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2586
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7769769118f93749bec383cd15792d9
+      internalID: 332268862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2586
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e5a9760911334b9fd008f8fb47e9a
+      internalID: -1860474615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2155
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b22391954121408796eea1e39bfbc
+      internalID: 1629970405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_141
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2155
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6383c1c319d9b4fb7f8c10a98de2f9
+      internalID: -1510961322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_142
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2155
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b63addf1ac444283881e59d11a2fa
+      internalID: 1963109318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_143
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2155
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ceecda0aabd63429fecd7c14bd6aeb
+      internalID: -1468986451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_144
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2155
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2afe71da845d254481b760d0b6d4e4a
+      internalID: -1989019081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1724
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99bf89116fc75042a688074b0f20240
+      internalID: -821277746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1724
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c69ef468e358e40ab240e7d8297856
+      internalID: -1299949643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_147
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1724
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738146c31b0993946adb44974ccf9f0a
+      internalID: 1752469696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_148
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1724
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cee8254185f194d9d60ba50b0b638a
+      internalID: 251023833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_149
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1724
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54e42c8fc292a744a2854a3f2fb90da
+      internalID: -1721628611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1293
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd136ffbe27f32429dbb3f22efd99da
+      internalID: 1040916922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1293
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8f776ccf909148b7e5d9365da1eb0
+      internalID: 1091423499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_152
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1293
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab61f2a6bf1d8294bb87d122b9a5a9bc
+      internalID: 1665587437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_153
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1293
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a162830d0c3f4a44d87a8ae450249bf4
+      internalID: 1004795966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_154
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1293
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d35ddecf2ea04ebe45b830f3703e4
+      internalID: 207016571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a249479dc97b046bcb70ba8389b803
+      internalID: 1123937277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_156
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 862
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f9117c0b892d4ab21b2370d2acf46
+      internalID: -183536185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 862
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0427bc580f8b0284ab09b2766e9484e8
+      internalID: 1729209892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_158
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 862
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9850596be98058449db47654592dcfc
+      internalID: -417866588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_159
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 862
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78edd373caf6a8e4f8d7600ce2c72ad5
+      internalID: -601959782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225cfc70380c87342ab3f05676eca81e
+      internalID: 452243708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 431
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e90fb768140534a8f5692b1c25399c
+      internalID: -1088209424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_162
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 431
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c945b95cf8a2dfa4cb3f3f20dff2874c
+      internalID: -1627684478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_163
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 431
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a49518e527dd4594dc522ce7c881d
+      internalID: -1559318927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_164
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 431
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba6301e4114bd2458ccfa20d988814f
+      internalID: -145890177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24613e9e7ff8154fa71508b0a5b322e
+      internalID: -475138469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_166
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea22f30b6ad88468934389b0c787d9
+      internalID: -1940193921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_167
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb99c0ca8484d40adffa39d9fe6b2d
+      internalID: 94458021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpOrJump_168
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 352
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a4d80443f8ade438640c28a0214107
+      internalID: 287105397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f234725faef8974b90e6c2527e2bd6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JumpOrJump_0: -1163370203
+      JumpOrJump_1: 1552179243
+      JumpOrJump_10: 1311832368
+      JumpOrJump_100: -35327044
+      JumpOrJump_101: -1776111020
+      JumpOrJump_102: 1141671895
+      JumpOrJump_103: -1716588657
+      JumpOrJump_104: 475609465
+      JumpOrJump_105: 1180871280
+      JumpOrJump_106: 543537949
+      JumpOrJump_107: 1801023568
+      JumpOrJump_108: 1048809913
+      JumpOrJump_109: -1710225668
+      JumpOrJump_11: 1079157672
+      JumpOrJump_110: -46524592
+      JumpOrJump_111: -640840896
+      JumpOrJump_112: -117443730
+      JumpOrJump_113: 1753201980
+      JumpOrJump_114: 342484182
+      JumpOrJump_115: -2135887336
+      JumpOrJump_116: 1000987125
+      JumpOrJump_117: 1170850271
+      JumpOrJump_118: 487035817
+      JumpOrJump_119: -2036825481
+      JumpOrJump_12: -445255987
+      JumpOrJump_120: 1239604113
+      JumpOrJump_121: 1440531919
+      JumpOrJump_122: -1515226163
+      JumpOrJump_123: -1556854441
+      JumpOrJump_124: -1335369536
+      JumpOrJump_125: 1342169352
+      JumpOrJump_126: 74588677
+      JumpOrJump_127: 1925812961
+      JumpOrJump_128: -1757105072
+      JumpOrJump_129: -1969671212
+      JumpOrJump_13: -487285627
+      JumpOrJump_130: 1581352071
+      JumpOrJump_131: 1899818666
+      JumpOrJump_132: 279762863
+      JumpOrJump_133: -1189854697
+      JumpOrJump_134: -490545673
+      JumpOrJump_135: -682968987
+      JumpOrJump_136: 1075145585
+      JumpOrJump_137: 217922441
+      JumpOrJump_138: 332268862
+      JumpOrJump_139: -1860474615
+      JumpOrJump_14: 1974462599
+      JumpOrJump_140: 1629970405
+      JumpOrJump_141: -1510961322
+      JumpOrJump_142: 1963109318
+      JumpOrJump_143: -1468986451
+      JumpOrJump_144: -1989019081
+      JumpOrJump_145: -821277746
+      JumpOrJump_146: -1299949643
+      JumpOrJump_147: 1752469696
+      JumpOrJump_148: 251023833
+      JumpOrJump_149: -1721628611
+      JumpOrJump_15: 1111994009
+      JumpOrJump_150: 1040916922
+      JumpOrJump_151: 1091423499
+      JumpOrJump_152: 1665587437
+      JumpOrJump_153: 1004795966
+      JumpOrJump_154: 207016571
+      JumpOrJump_155: 1123937277
+      JumpOrJump_156: -183536185
+      JumpOrJump_157: 1729209892
+      JumpOrJump_158: -417866588
+      JumpOrJump_159: -601959782
+      JumpOrJump_16: -213709373
+      JumpOrJump_160: 452243708
+      JumpOrJump_161: -1088209424
+      JumpOrJump_162: -1627684478
+      JumpOrJump_163: -1559318927
+      JumpOrJump_164: -145890177
+      JumpOrJump_165: -475138469
+      JumpOrJump_166: -1940193921
+      JumpOrJump_167: 94458021
+      JumpOrJump_168: 287105397
+      JumpOrJump_169: -1696907053
+      JumpOrJump_17: -556586168
+      JumpOrJump_18: -7476204
+      JumpOrJump_19: -1459251191
+      JumpOrJump_2: -207954063
+      JumpOrJump_20: 243518499
+      JumpOrJump_21: -1694123571
+      JumpOrJump_22: 848992292
+      JumpOrJump_23: -1734822133
+      JumpOrJump_24: 1280094081
+      JumpOrJump_25: -1664668107
+      JumpOrJump_26: -1076717980
+      JumpOrJump_27: -68928968
+      JumpOrJump_28: -1883078892
+      JumpOrJump_29: 13642052
+      JumpOrJump_3: -1045172517
+      JumpOrJump_30: -1819548958
+      JumpOrJump_31: 1841196906
+      JumpOrJump_32: 1023356099
+      JumpOrJump_33: 1341170239
+      JumpOrJump_34: -930746481
+      JumpOrJump_35: -840795044
+      JumpOrJump_36: -1161336656
+      JumpOrJump_37: 1534594820
+      JumpOrJump_38: 1928878137
+      JumpOrJump_39: 972383653
+      JumpOrJump_4: -447572556
+      JumpOrJump_40: 761513414
+      JumpOrJump_41: 449802267
+      JumpOrJump_42: -1643193669
+      JumpOrJump_43: -1303538012
+      JumpOrJump_44: 2004150637
+      JumpOrJump_45: -1551058106
+      JumpOrJump_46: 553329333
+      JumpOrJump_47: 1963598854
+      JumpOrJump_48: 1619352155
+      JumpOrJump_49: -502794406
+      JumpOrJump_5: -1664853926
+      JumpOrJump_50: -459502959
+      JumpOrJump_51: 440825167
+      JumpOrJump_52: -312374986
+      JumpOrJump_53: -640045867
+      JumpOrJump_54: -398617350
+      JumpOrJump_55: -2091847732
+      JumpOrJump_56: -676713254
+      JumpOrJump_57: -727407508
+      JumpOrJump_58: -683366640
+      JumpOrJump_59: -1320035628
+      JumpOrJump_6: 90087516
+      JumpOrJump_60: 995686385
+      JumpOrJump_61: 2109411102
+      JumpOrJump_62: -781761734
+      JumpOrJump_63: 199493646
+      JumpOrJump_64: -1042328931
+      JumpOrJump_65: -1373914433
+      JumpOrJump_66: 474443429
+      JumpOrJump_67: -1967575694
+      JumpOrJump_68: 1433127518
+      JumpOrJump_69: 313116599
+      JumpOrJump_7: 1617268108
+      JumpOrJump_70: -1255533014
+      JumpOrJump_71: 1103407002
+      JumpOrJump_72: -102707616
+      JumpOrJump_73: 987286322
+      JumpOrJump_74: -324858845
+      JumpOrJump_75: -1168051379
+      JumpOrJump_76: 990665371
+      JumpOrJump_77: -862815619
+      JumpOrJump_78: -344909079
+      JumpOrJump_79: 1693070575
+      JumpOrJump_8: -1950513167
+      JumpOrJump_80: -306620745
+      JumpOrJump_81: -2088677699
+      JumpOrJump_82: -17565247
+      JumpOrJump_83: -1106289297
+      JumpOrJump_84: 743493137
+      JumpOrJump_85: 1887810210
+      JumpOrJump_86: -509239358
+      JumpOrJump_87: -1061814222
+      JumpOrJump_88: 1877207610
+      JumpOrJump_89: 1332845954
+      JumpOrJump_9: -1004908631
+      JumpOrJump_90: 1348096998
+      JumpOrJump_91: -173942659
+      JumpOrJump_92: -1546628423
+      JumpOrJump_93: -1205040621
+      JumpOrJump_94: 1259259298
+      JumpOrJump_95: 112949377
+      JumpOrJump_96: 1405607298
+      JumpOrJump_97: -627327017
+      JumpOrJump_98: -1767517221
+      JumpOrJump_99: 1390038338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

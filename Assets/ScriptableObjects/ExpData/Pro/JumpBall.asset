@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2023-09-01
   EndTime: 2023-10-01
-  RenderTex: {fileID: 8400000, guid: 0c572a33254310b44b0a1f5bd93b48af, type: 2}
-  Clip: {fileID: 32900000, guid: 6b2dca413944d194a85398340b5c5a56, type: 3}
+  Animation: {fileID: 7400000, guid: c742c33ab3ea4a34093e2328ec030716, type: 2}
   ItchURL: https://alexisgelin.itch.io/jump-ball
   references:
     version: 2

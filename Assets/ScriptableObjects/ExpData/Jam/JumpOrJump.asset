@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-03-01
   EndTime: 2022-03-07
-  RenderTex: {fileID: 8400000, guid: 4e482e7b6405f364594a43c9bbc15451, type: 2}
-  Clip: {fileID: 32900000, guid: 380f96dd3613fd340a3917b847bd580e, type: 3}
+  Animation: {fileID: 7400000, guid: e8ccb39ff04054440815b66e715a8429, type: 2}
   ItchURL: https://alexisgelin.itch.io/jump-or-jump
   references:
     version: 2

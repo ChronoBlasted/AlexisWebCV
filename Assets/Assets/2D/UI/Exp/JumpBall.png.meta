@@ -1,0 +1,1425 @@
+fileFormatVersion: 2
+guid: 1d035de27c6604e48bd9677795ae4b23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2125767602666260245
+    second: FullSizeRender1-ezgif.com-gif-to-sprite-converter_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpBall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f442ce2ad5720f49ac29a8fb86b1eac
+      internalID: -1137906023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 5280
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf33955ef74c414c85609554e60c35e
+      internalID: 330215860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 5280
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8716bb08d5e3b4584f822dfead0cf9
+      internalID: -178828605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 5280
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128bf15ae6de79548bda329bb2256bb0
+      internalID: 8337784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_4
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 5280
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95aa3a844f474c49bb058a18fa210a9
+      internalID: -1680233729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b35c896308b2459385b59829bed4f
+      internalID: -77118078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4800
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b37ee9af1b3abc4eaae2e85e210968b
+      internalID: 2102556935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 4800
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec484586572a3549b51d99d952b2da2
+      internalID: 729601595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_8
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4800
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24463ff094d6aa448b2e8628839d7ae1
+      internalID: 1295956539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_9
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 4800
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ade2888f60f5b7479a8124e21f0a202
+      internalID: -1526050625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91583daa39650604088bf5ad5f9c3cda
+      internalID: 94798771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4320
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe3712e8bc2854d998dd33129fb3fb
+      internalID: 1604261847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 4320
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60133111b8b1f44eaf4fcab3eed1481
+      internalID: 2049849254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4320
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b8fca087bd434681e7ad6a445b5c7
+      internalID: 1376548882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_14
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 4320
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc3f6d65ea6063429bcade22d63cce2
+      internalID: -222124831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa20202eef7f8446a2bf2b63524d847
+      internalID: 1783639091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3840
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb8a66dc005ef4e9d434d8c4ddff24
+      internalID: 1843083026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3840
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be39eb4257d9734a882cdaf2a964d8b
+      internalID: -977641055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3840
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b3814a700abc246a9201d61ddccbed
+      internalID: -1715376561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_19
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 3840
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc31f1e4157de47a63ecec6bdc9d44
+      internalID: -964322909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e217e41341986e4da3ea1d52aa6939d
+      internalID: -234240493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3360
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d769507aaca0be44b0098fd6e67c452
+      internalID: -566023332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3360
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0202198071d8ed24aafb6ea5aea59bf9
+      internalID: 1969681543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3360
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5513f8b62e922fe47beee7514ee2a7b4
+      internalID: 1585042628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_24
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 3360
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff4af006cb70a14db32391fa78ffc81
+      internalID: 1264006974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d298aa1d969da47816cfdde01b2d19
+      internalID: -1931697212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2880
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e5f6827e7665942a8fc8a647f6084b
+      internalID: 529557526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_27
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2880
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3986aee1ed50864c98464f3f78a4882
+      internalID: -27983807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_28
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2880
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af8f56e81bfcd4f97ee4f018d13e2b
+      internalID: 1801511298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_29
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2880
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b258432e5442746b2cedf56f48e592
+      internalID: 892298428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a3e2febc0da6408c89722af08163a
+      internalID: 614441511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2400
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b575d1a7da7c2943b537435a9102017
+      internalID: 1642087497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2400
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e91252466edf2c4e8a42361ebe4c751
+      internalID: 1317771972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2400
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b1691261eadda4da197a2f537d85b1
+      internalID: 829755409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_34
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2400
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204bbbcaa485d4241bb557446a996505
+      internalID: 1803027467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fab008ab151fde4e9e0f80c7efa0eae
+      internalID: 264445201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1920
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c1e6917051294fa6724068f49b68b
+      internalID: -274845521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_37
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1920
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c596fd07edd74d80a96d3085d08ce
+      internalID: 1037828924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_38
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1920
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f27703abddf3e349906029d33994082
+      internalID: 1537502144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_39
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1920
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0824ae5ad5330e4e9e16653bbc662c0
+      internalID: -1810660210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b712ab63dbf9ab4ca745b9167cd4265
+      internalID: 229620451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1440
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea5d373c1374da4f929d27ccd05b085
+      internalID: 266982093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1440
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e498d395898fd634b9e860d1883cd432
+      internalID: 1222510241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1440
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c2fd02f5310346b436e559f7c0576
+      internalID: -1905779713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_44
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1440
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002a45c6eda6694faeeab9e12ec3421
+      internalID: -195688351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2554750fe91db49459a88e5be2b04090
+      internalID: 1844458323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_46
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 960
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092109daea3719948a18442e2acde74f
+      internalID: -1868728748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_47
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 960
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae63295ca3c5fb4db38c31a812d6a9a
+      internalID: 1638773211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 960
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068515661e94eee4f9aa3db1d7e648c2
+      internalID: -1077883497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_49
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 960
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add1f983afc46434d843aff7d4bbe407
+      internalID: -981544372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd02d6e24de2a4c9d1ad79a909b849
+      internalID: 2049145579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 480
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cfe8b9ca3f80144adefa596b942558
+      internalID: -1203151014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 480
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c5491cf24f46448975fc1845f3b973
+      internalID: 567934850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_53
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 480
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75437d7528d045f488aba41bc0ff56c4
+      internalID: -1713146827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_54
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 480
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf390bea67c2c2943a20f631afdbd92e
+      internalID: 1843376740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBall_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 284
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3369bf4c2c45be5479ad6e84ca719637
+      internalID: 992359330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5663984c9ec94be4ca550f9edfbbb150
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JumpBall_0: -1137906023
+      JumpBall_1: 330215860
+      JumpBall_10: 94798771
+      JumpBall_11: 1604261847
+      JumpBall_12: 2049849254
+      JumpBall_13: 1376548882
+      JumpBall_14: -222124831
+      JumpBall_15: 1783639091
+      JumpBall_16: 1843083026
+      JumpBall_17: -977641055
+      JumpBall_18: -1715376561
+      JumpBall_19: -964322909
+      JumpBall_2: -178828605
+      JumpBall_20: -234240493
+      JumpBall_21: -566023332
+      JumpBall_22: 1969681543
+      JumpBall_23: 1585042628
+      JumpBall_24: 1264006974
+      JumpBall_25: -1931697212
+      JumpBall_26: 529557526
+      JumpBall_27: -27983807
+      JumpBall_28: 1801511298
+      JumpBall_29: 892298428
+      JumpBall_3: 8337784
+      JumpBall_30: 614441511
+      JumpBall_31: 1642087497
+      JumpBall_32: 1317771972
+      JumpBall_33: 829755409
+      JumpBall_34: 1803027467
+      JumpBall_35: 264445201
+      JumpBall_36: -274845521
+      JumpBall_37: 1037828924
+      JumpBall_38: 1537502144
+      JumpBall_39: -1810660210
+      JumpBall_4: -1680233729
+      JumpBall_40: 229620451
+      JumpBall_41: 266982093
+      JumpBall_42: 1222510241
+      JumpBall_43: -1905779713
+      JumpBall_44: -195688351
+      JumpBall_45: 1844458323
+      JumpBall_46: -1868728748
+      JumpBall_47: 1638773211
+      JumpBall_48: -1077883497
+      JumpBall_49: -981544372
+      JumpBall_5: -77118078
+      JumpBall_50: 2049145579
+      JumpBall_51: -1203151014
+      JumpBall_52: 567934850
+      JumpBall_53: -1713146827
+      JumpBall_54: 1843376740
+      JumpBall_55: 992359330
+      JumpBall_56: 1396690747
+      JumpBall_57: 1893564917
+      JumpBall_58: 545130669
+      JumpBall_59: -1125647345
+      JumpBall_6: 2102556935
+      JumpBall_7: 729601595
+      JumpBall_8: 1295956539
+      JumpBall_9: -1526050625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

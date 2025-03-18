@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-11-01
   EndTime: 2022-12-01
-  RenderTex: {fileID: 8400000, guid: 11696804d8c68314c9d70356b79a078b, type: 2}
-  Clip: {fileID: 32900000, guid: 8b2d143ebc62617448f26032d6e355e7, type: 3}
+  Animation: {fileID: 7400000, guid: abd97852e55746d4dbf050311ec2c66a, type: 2}
   ItchURL: https://alexisgelin.itch.io/blasterio
   references:
     version: 2

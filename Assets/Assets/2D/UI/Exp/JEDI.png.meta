@@ -1,0 +1,2433 @@
+fileFormatVersion: 2
+guid: b919223eca274dc45b13b045f328dd0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2288900587004819252
+    second: JEDI-ezgif.com-gif-to-sprite-converter (1)_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JEDI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8531
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d0db23d9a5abf4fa0e892bc5724347
+      internalID: -1890915409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 8531
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc278305feb3246b7d72cb6cd2e9b0
+      internalID: -102995626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 8531
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8d0035fb773d4db4131bdf009a274
+      internalID: 849542098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 8531
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd00993e5b35bf4fa3cb6813b210a8a
+      internalID: 2143986775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 8531
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b743afcdb0c61244bbf40573064cbe6f
+      internalID: -593406733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8082
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edbcba5e9a34c240a0a55355d683e03
+      internalID: -1000296202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 8082
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60be83127f3e25b4bb9af2273350da16
+      internalID: -1069264651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 8082
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5300a4543e230c41957955d82cb59ce
+      internalID: 1927374192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 8082
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa31cf7d53f5004a96e337ea3a0f9cc
+      internalID: 1696256623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 8082
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3745af439cf0d46b5ee6d65fd67172
+      internalID: -1508407216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7633
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c710dc255a3c9b4ab40a13c8617c003
+      internalID: 530498765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7633
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff61adb2ccdca847866c0a517d4b89a
+      internalID: -573589678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7633
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088de789dedb715448c2b6041349992c
+      internalID: -509824360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7633
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619f83f78d50c20419c27d62f6bc3be8
+      internalID: -71866116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7633
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e682c6500df7a4fa06970404117327
+      internalID: -699022716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7184
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f219a5c7cf7f42af53a2e2df38f68
+      internalID: 607477524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7184
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e10a76e3511f42bb5be0af7d5a94b
+      internalID: -649677886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7184
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c16cd0040cf894197bc93ef4f3b1af
+      internalID: -1233456990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7184
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8b1e8240ab8af40affd47d7536c6de
+      internalID: -839002223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7184
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f531eee3057e41945ad02630a843c635
+      internalID: -2002536560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6735
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2cc6f7ad660bb4e9d95f3dfcbb2a3d
+      internalID: 313372533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6735
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ca7f885ec4db4a89335e261e7750d
+      internalID: 914499322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6735
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4943a6f4e5b249ba057de7d89bdfb
+      internalID: 1694234376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6735
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d304386ec03bf5408ea227d17b21b99
+      internalID: 949219327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6735
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8127f36f176914f8265ffc73b66692
+      internalID: -1537962770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6286
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a235586c3bc7b4da17d8918dd0b626
+      internalID: 4280260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6286
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf4cb67ba72a9a4382c4d3068b51876
+      internalID: -1557623805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6286
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb939247ddb0b4caf86c9222a8067f
+      internalID: 1878249530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6286
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0791d0c071c33146908daa09450cb43
+      internalID: 294685739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6286
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cddb412f19ab244ba149094371bed4
+      internalID: 914705856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5837
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b24418335bc8274da6d3c9b1ac0e6db
+      internalID: 766661322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5837
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f04efabebbd5429ff1d358b35dae7
+      internalID: -1698348468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5837
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40558254973d2940bc93e139873a5a1
+      internalID: 1992222539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5837
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbd952f59b8cdf4c82de18cbb3774f5
+      internalID: 410544356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5837
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b548c2662673214da20c189a2c1e694
+      internalID: -1129483522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5388
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f5dfa582d9aee4c99c6b1f99d8314d
+      internalID: -510923632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5388
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66eab19c020ad47accfc6fe38f9fd7
+      internalID: 1716832185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5388
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d323164c010f9c4da5754673e70c9c4
+      internalID: -407834265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5388
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae9e40be0b4e24429100b32d552fbaf
+      internalID: 600436707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_39
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5388
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f2211de42f784facf7ad749f3518e
+      internalID: 308139964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4939
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfee9d934985f44b1d45623a126a59
+      internalID: -2131447523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4939
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9d06482c7ba343a3f35a53ee66428
+      internalID: 1817910140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4939
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37d3bcbe9bb3845a8337814bd3a3e6
+      internalID: -1939340656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4939
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96a55ed334e374eb9a7f4b646ef755
+      internalID: -816737449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4939
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b80804dd49618f40aa29d9a45b25a8c
+      internalID: 757160363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4490
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b8761df5b06f94caffd36c853b57ba
+      internalID: -829470005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4490
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72748ec9a4a341747910617e64d6320b
+      internalID: -1261037532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_47
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4490
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de259c71c1ec55249a593e6877c9d704
+      internalID: -2124504017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4490
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed3cfe22956bf9418cf1e6ec9d52aec
+      internalID: -325262312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_49
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4490
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711bc45efd7188b479890f8f0ddca432
+      internalID: 463318407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4041
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab5b5dd53cd40e4a9cf5dee9d4e06ef
+      internalID: 1765122605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4041
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c0c9e77d7a4194cae4ff6f27fcb8da
+      internalID: -1052080628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_52
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4041
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2045bdebf235c47b4316ccec78c233
+      internalID: -410606574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4041
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3875c7f597962488f2ed4942d0e1b9
+      internalID: 782521898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_54
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4041
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c87260c37fc524a9921037477dac3e
+      internalID: -1089649237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3592
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece67dac9cbcd643ade5b42a7cfc379
+      internalID: -1943780799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3592
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9900f00735d214946bb6760de402f5db
+      internalID: -1477027386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_57
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3592
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021fecbcb4d81f348a9ac47a7f4a0388
+      internalID: 932995692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_58
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3592
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3592bcfbf6a640a8990541931a70c
+      internalID: 1792414755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_59
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3592
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8169af5a29a4ad64f8636bb11ca5d347
+      internalID: -1727570680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3143
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d909924e0961aa240a60ba4dddb19713
+      internalID: -2075354068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3143
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be6cb3976036d40976a932c9ba26ec
+      internalID: 666951132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3143
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfe3dce5e95c8442af9f2905c7cae0b
+      internalID: 1270311709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_63
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3143
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e142b7b71e91a408ebf00f4b2f99cf
+      internalID: -960875876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_64
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3143
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c4532c149f914ab11215e9cb0036b
+      internalID: -1020392975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2694
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941478ab2ae26741882120e2d18cc12
+      internalID: -223307523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2694
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf690635739dee49bdc01fa52a86526
+      internalID: -1148436317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_67
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2694
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9e620f4091ee1409880d50a115b1fc
+      internalID: -1137032668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_68
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2694
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335fa89863bd24a4c9409afca474ef4c
+      internalID: 1548023607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_69
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2694
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadcb4b6c0e35144abe109462b066705
+      internalID: 835294541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2245
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193aab4d3bbe50645919aee431e9239f
+      internalID: 1470050740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2245
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270b3be27c9e9764e964317d0f133ad7
+      internalID: 221409083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_72
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2245
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0470082e23ae66a4991bbbfd2590f5cc
+      internalID: -1588066075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_73
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2245
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff036b75c59ed54cbaaabb9ddf8ca3c
+      internalID: 497444840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_74
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2245
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3748901fc2026448632bea9f052e0a
+      internalID: 621713962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1796
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b6069d81ec53479aebd1554618f00
+      internalID: -246705189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1796
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b20e767873f4494c909ca668faee161
+      internalID: -1944239369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_77
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1796
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50884504907e2ee4282f4f036de000cc
+      internalID: -1981182604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_78
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1796
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e241c364f54864ea306d6271a3d7fa
+      internalID: -1270799601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_79
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1796
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3926a58ce883449ab1734f217979b8
+      internalID: 1123008962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1347
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17c14b454157f9449f709121a79f5ca
+      internalID: -941065425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1347
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c67e9ae860202419e0d4324c800731
+      internalID: -66028562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_82
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1347
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c586ddec4b734d4ba0668814dbdf554
+      internalID: 1664109882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_83
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1347
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13980635e4d9d1e4ba7217f8d321e2b4
+      internalID: -98557903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_84
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1347
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63e95ff2d1429f4fb281ea8c5c4af74
+      internalID: 1653856252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c6f24cc69c32a49a3dd61dfc61756e
+      internalID: -2117175438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_86
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 898
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8576a490971c81408dc190a073b41a0
+      internalID: -312430958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_87
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 898
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3718af2e4451348b76ce7f9e5a5f8a
+      internalID: -654191187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_88
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 898
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8b565d0fa7e94b85c475ad890cd57
+      internalID: 1317203392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_89
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 898
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cd9c6425cd04d469971c666479e44f
+      internalID: 2094787213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ddf98e0477dc42bd6820c8380ec9a
+      internalID: 1379015626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_91
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 449
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f31095dc6fcf242ad5b6e46eb5758a
+      internalID: -1066427949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_92
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 449
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6e4d04b3e7b345b5e10f43c74f14c
+      internalID: -525426720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_93
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 449
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e666cbef89b0b9428f0b15b16e6a5b2
+      internalID: 906573400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_94
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 449
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79a6f4dadcad0409398d24f734aaf7
+      internalID: -1651889321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26efb4365f802cb4b9e2df5c10607870
+      internalID: 340835065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_96
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f403c11dc02993d4abbfb0c7b2b18926
+      internalID: -594777458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_97
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b786bd1d6907e4d823f18042bb7f20
+      internalID: 598464315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_98
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933506cd013f7f45a2b3ab8465f8eb6
+      internalID: -2134523000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JEDI_99
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92853c73775574799405ecad5b4f4a
+      internalID: 1407143936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f09c2edbb3a4e554684fc74c86b618b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JEDI_0: -1890915409
+      JEDI_1: -102995626
+      JEDI_10: 530498765
+      JEDI_11: -573589678
+      JEDI_12: -509824360
+      JEDI_13: -71866116
+      JEDI_14: -699022716
+      JEDI_15: 607477524
+      JEDI_16: -649677886
+      JEDI_17: -1233456990
+      JEDI_18: -839002223
+      JEDI_19: -2002536560
+      JEDI_2: 849542098
+      JEDI_20: 313372533
+      JEDI_21: 914499322
+      JEDI_22: 1694234376
+      JEDI_23: 949219327
+      JEDI_24: -1537962770
+      JEDI_25: 4280260
+      JEDI_26: -1557623805
+      JEDI_27: 1878249530
+      JEDI_28: 294685739
+      JEDI_29: 914705856
+      JEDI_3: 2143986775
+      JEDI_30: 766661322
+      JEDI_31: -1698348468
+      JEDI_32: 1992222539
+      JEDI_33: 410544356
+      JEDI_34: -1129483522
+      JEDI_35: -510923632
+      JEDI_36: 1716832185
+      JEDI_37: -407834265
+      JEDI_38: 600436707
+      JEDI_39: 308139964
+      JEDI_4: -593406733
+      JEDI_40: -2131447523
+      JEDI_41: 1817910140
+      JEDI_42: -1939340656
+      JEDI_43: -816737449
+      JEDI_44: 757160363
+      JEDI_45: -829470005
+      JEDI_46: -1261037532
+      JEDI_47: -2124504017
+      JEDI_48: -325262312
+      JEDI_49: 463318407
+      JEDI_5: -1000296202
+      JEDI_50: 1765122605
+      JEDI_51: -1052080628
+      JEDI_52: -410606574
+      JEDI_53: 782521898
+      JEDI_54: -1089649237
+      JEDI_55: -1943780799
+      JEDI_56: -1477027386
+      JEDI_57: 932995692
+      JEDI_58: 1792414755
+      JEDI_59: -1727570680
+      JEDI_6: -1069264651
+      JEDI_60: -2075354068
+      JEDI_61: 666951132
+      JEDI_62: 1270311709
+      JEDI_63: -960875876
+      JEDI_64: -1020392975
+      JEDI_65: -223307523
+      JEDI_66: -1148436317
+      JEDI_67: -1137032668
+      JEDI_68: 1548023607
+      JEDI_69: 835294541
+      JEDI_7: 1927374192
+      JEDI_70: 1470050740
+      JEDI_71: 221409083
+      JEDI_72: -1588066075
+      JEDI_73: 497444840
+      JEDI_74: 621713962
+      JEDI_75: -246705189
+      JEDI_76: -1944239369
+      JEDI_77: -1981182604
+      JEDI_78: -1270799601
+      JEDI_79: 1123008962
+      JEDI_8: 1696256623
+      JEDI_80: -941065425
+      JEDI_81: -66028562
+      JEDI_82: 1664109882
+      JEDI_83: -98557903
+      JEDI_84: 1653856252
+      JEDI_85: -2117175438
+      JEDI_86: -312430958
+      JEDI_87: -654191187
+      JEDI_88: 1317203392
+      JEDI_89: 2094787213
+      JEDI_9: -1508407216
+      JEDI_90: 1379015626
+      JEDI_91: -1066427949
+      JEDI_92: -525426720
+      JEDI_93: 906573400
+      JEDI_94: -1651889321
+      JEDI_95: 340835065
+      JEDI_96: -594777458
+      JEDI_97: 598464315
+      JEDI_98: -2134523000
+      JEDI_99: 1407143936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

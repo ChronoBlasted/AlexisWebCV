@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2024-10-01
   EndTime: 2024-10-04
-  RenderTex: {fileID: 8400000, guid: 0ecb2a5f27927364eb534f76628a5bc3, type: 2}
-  Clip: {fileID: 32900000, guid: 773a661ef12c8554095211168c6a7b4b, type: 3}
+  Animation: {fileID: 7400000, guid: 169cbd46ac4e0ed4a815f3b28ce7eefb, type: 2}
   ItchURL: https://alexisgelin.itch.io/towerdefenseproject
   references:
     version: 2

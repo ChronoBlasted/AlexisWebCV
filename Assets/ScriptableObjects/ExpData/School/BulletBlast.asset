@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-09-01
   EndTime: 2022-11-01
-  RenderTex: {fileID: 8400000, guid: 2801f330d02185445b44c86c47b7f38f, type: 2}
-  Clip: {fileID: 32900000, guid: ab21a548964c15349a7a22507d5f71ac, type: 3}
+  Animation: {fileID: 7400000, guid: 0ce352158cafd104093ba8907d435a43, type: 2}
   ItchURL: https://alexisgelin.itch.io/bullet-blast
   references:
     version: 2

@@ -1,20 +1,16 @@
 using System;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Localization;
-using UnityEngine.UI;
-using UnityEngine.Video;
 
 public class ExpLayout : MonoBehaviour
 {
     [SerializeField] TMP_Text _title, _timeToProduce;
-    [SerializeField] RawImage _rawImage;
-    [SerializeField] VideoPlayer _videoPlayer;
+    [SerializeField] Animator _animator;
 
     [SerializeField] ExpData _data;
 
-    [SerializeField] LocalizedString _yearTrad,_monthTrad,_dayTrad;
+    [SerializeField] LocalizedString _yearTrad, _monthTrad, _dayTrad;
 
     public void Init(ExpData data)
     {
@@ -28,11 +24,6 @@ public class ExpLayout : MonoBehaviour
         string timeToProduce = CalculateDateDifference(startDate, endDate);
 
         _timeToProduce.text = timeToProduce;
-
-        _rawImage.texture = _data.RenderTex;
-        _videoPlayer.targetTexture = _data.RenderTex;
-
-        _videoPlayer.clip = _data.Clip;
     }
 
     public void Init()
@@ -80,12 +71,6 @@ public class ExpLayout : MonoBehaviour
 
     private void OnEnable()
     {
-        _videoPlayer.frame = 0;
-        _videoPlayer.Play();
-    }
-
-    private void OnDisable()
-    {
-        _videoPlayer.Stop();
+        _animator.Play(_data.Animation.name);
     }
 }

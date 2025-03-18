@@ -33,8 +33,7 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-09-01
   EndTime: 2023-05-01
-  RenderTex: {fileID: 8400000, guid: 7574ecb984b21614e9b8017a815ce395, type: 2}
-  Clip: {fileID: 32900000, guid: cae3f19e12eaae24f99d79bda51139c8, type: 3}
+  Animation: {fileID: 7400000, guid: 02ce8b4ec60f953489f426c231078ef4, type: 2}
   ItchURL: https://alexisgelin.itch.io/dedale
   references:
     version: 2

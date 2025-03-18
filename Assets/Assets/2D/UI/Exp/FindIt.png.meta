@@ -1,0 +1,2641 @@
+fileFormatVersion: 2
+guid: d3d9a77ca55636a4191ba25c7e347c3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9001012155449504903
+    second: FindIt-ezgif.com-gif-to-sprite-converter_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FindIt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7077
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcd664da8bb9af4d980ce4eb798c569
+      internalID: 662075230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 7077
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22ee63190f7694bbe91152e7a43a35
+      internalID: 2140078916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 7077
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be4a195b9db1542968190a4599664d
+      internalID: -163243390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 7077
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b867be73858463648ad35e46a1f4ebfd
+      internalID: 1275929213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 7077
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4d86e1a021ca46bd006bb28936f7e
+      internalID: -1084035143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6740
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef52b70da7d2bb49b5ad9e027550b72
+      internalID: 2067107337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 6740
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a72dd289e490cb43af608f652b3b8da
+      internalID: -642673708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6740
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866245875a233f4a850d346c34962f5
+      internalID: -429970141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 6740
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16bf0894347a9142a11932fa33f33a4
+      internalID: -2067041069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 6740
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70060bbbade7b6d488e4a6a2d1e85b69
+      internalID: -1157539620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6403
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136904afdfc88ef45b798f6493390133
+      internalID: -524794488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 6403
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031072078ba4476479f74b93ecaa8856
+      internalID: 1652757245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6403
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef2038ff71a59040885b211610f3163
+      internalID: -111362765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 6403
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618f9b7e59f0d52409cfe9707651dd83
+      internalID: -1291189900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 6403
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ad2a3c4d8e3ae4ca2e35624e7ebb9f
+      internalID: 1751077083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6066
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455c8a53f64c3a047a8524f5f51ec1f5
+      internalID: 198290487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 6066
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e45d190b9d8d214fbe51b0f3322bc27
+      internalID: 2113952388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6066
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a22bb6b9b77a2a478b6ee3759411870
+      internalID: 825735335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_18
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 6066
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd44dc78cd2c80e4e824a18430141961
+      internalID: 586364138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_19
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 6066
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0364c351ea029449a7a7130e781a91
+      internalID: 1904330180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5729
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803084d45efbc5479644ef57f341da9
+      internalID: 1038705281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 5729
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13bc1416c4b081409e97be6ffaa9bfb
+      internalID: -1546357582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 5729
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d9d6ab2e31dd44d96e76f5f8b7e42c
+      internalID: 1920227997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 5729
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e8f26c8197a2342971165d726cf011
+      internalID: 1253738470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_24
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 5729
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c164a7a1c99b24c9431022ccfe8db6
+      internalID: 384826490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5392
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711f844c223851448a3da9d51f4c6185
+      internalID: -6620600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 5392
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa988745f2dd6274e8aaf431855ae70a
+      internalID: 1198170147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 5392
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6736f437cb64674b8b5cf6f962ae689
+      internalID: -1340944885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_28
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 5392
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca02fb187f813640b244c3f84366e6b
+      internalID: -1096197528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 5392
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60c4cf941317e643a69a6feec611c2c
+      internalID: 808293410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5055
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9090c7456b8a844a629440ea906701
+      internalID: -656738374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 5055
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5fe3dd2d17b56469f46ddd46144f34
+      internalID: -1206731208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 5055
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4076a8e72ad4494da2f39d3c3522c54
+      internalID: 1173352739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_33
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 5055
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655bc5ea7746ac64b941faf27565e949
+      internalID: 1918154977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 5055
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfebfe3042b5734a88ce2c2790f34b2
+      internalID: 1026374639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4718
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c29f3c049f639f448ebc649da44cac7
+      internalID: 233395772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4718
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299f892ee6d1ec745a94a778ce08741f
+      internalID: 166051121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4718
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacdf7df70af34447a78fc144c725ffc
+      internalID: -1967055428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_38
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 4718
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39730d01439a0f4391a70921f9b190c
+      internalID: -1200894653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_39
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4718
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3090712dedf44744ba00e65b529909b7
+      internalID: 2049614739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4381
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed0653f3ebe584aa687b1e4c16a7d3
+      internalID: 202197732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4381
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee386cce1bc68a4ba9b9a98d1e5e243
+      internalID: -647214328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4381
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853eb691d71680f439f7ed68b950b0e6
+      internalID: -2117501775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 4381
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0126ae1c743a590478251701dcc9efb6
+      internalID: 2014357361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_44
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4381
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ac0d79e04c601489af2307da49d076
+      internalID: -125134597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4044
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77615cbe0155448b1e8d6df5ba55b0
+      internalID: 1944816124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4044
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb523829462cc47ad26db959e95a3c
+      internalID: 797667321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4044
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5a8c39cc169b24097fe49eb75accf7
+      internalID: 1492730462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_48
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 4044
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d323accbe2ce9648bc7192f8a9df35d
+      internalID: 101514411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_49
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4044
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b13e1fa711c0154c9f37fc2866f0e2d
+      internalID: -1678251909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3707
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17be893522ebdd46b0525719895f187
+      internalID: 507999579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3707
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce764a854a6d747ac9c54d05695fd2
+      internalID: 1677387147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3707
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d13da360ca474f93c37d4f2240b7a
+      internalID: 1298361931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_53
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3707
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeff6342049b9e4e9f32b534689c836
+      internalID: 714055280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_54
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3707
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f4778ccf1cdf4182204231c7bbd58
+      internalID: 1294786521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3370
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17e967dfd3f57242803966da0c89d2c
+      internalID: 2100605595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3370
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6e797fdf571548bedd5cd29e3abe8
+      internalID: -761053443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3370
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac12f56d275c4146b13c680e8642f70
+      internalID: 1604809727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_58
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3370
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f155c3fae70a4fb433da3a6f0b7ae
+      internalID: 1952166084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_59
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3370
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda40dfddcd48c247909a62be1a21058
+      internalID: -472397305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3033
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010eabe3d4ee2eb4a8b7fecf3e7cab9e
+      internalID: 352951604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3033
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f854ac58a636c149a49b54a8afdf9e0
+      internalID: -947398032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_62
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3033
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328f23dab9e71a45848c7c1c205e46b
+      internalID: 556574163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_63
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3033
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f5eef776a71f44bad8ac03e3aa4d25
+      internalID: -320449221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_64
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3033
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218db198f1da6d146b930f72eeece62a
+      internalID: -570726155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2696
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab83d4068e8e2e24497549f1d1893dc9
+      internalID: 492263827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_66
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2696
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6bee608ba9f9448f75f1df17c8ce5
+      internalID: 860405406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2696
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637afeb651c1e644db2827c634064412
+      internalID: -631161047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_68
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2696
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a435c7c5cd829434aac2798b76944ff2
+      internalID: -816830885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_69
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2696
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4782eab78b1b608419f637a3f1e0c927
+      internalID: 1906728838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2359
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b1cbfbd450c3a418991577db1b52b8
+      internalID: -853405676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_71
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2359
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a49f4787633749a7267ba874ce3d2
+      internalID: -1572941327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_72
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2359
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db01b075fb8788f4cb46a35bd4769ab9
+      internalID: -2061181721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_73
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2359
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d681a1dbf9deaa48a3c5da29a9c3ba7
+      internalID: 2137317404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2359
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed9b0e4c94287240bfc39deec963404
+      internalID: 2100246186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2022
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9356e067b5fbcc4e8603bc8fb54d32c
+      internalID: 1810534504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_76
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2022
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09326643bed25478ac69a8043c720a
+      internalID: -2114227415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2022
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ac48efcc605e43a4464283398e9c1
+      internalID: -1501336077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_78
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2022
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0282e600fd1548a79d67546b1ef4b
+      internalID: 1402052221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_79
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2022
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0e1ffd32db424ab8938e1646eb41d
+      internalID: -699975254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1685
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2efdce36510a9b48884babf53f103af
+      internalID: 689782908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_81
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1685
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e7d09a8e11f9409ba376c5a1456cd
+      internalID: -747996817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_82
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1685
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7ceff15b35a7478e87556c72d3b4a
+      internalID: 1003983051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_83
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1685
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258dd50360c272429708abd26e2bfb8
+      internalID: 1131953428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_84
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1685
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a07917f01081429af85f8478a00a7
+      internalID: -363611457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1348
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64e882899a92d54fa77e5b6961a2314
+      internalID: -837814576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1348
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8efd051da9867f4387b188d33dd7220
+      internalID: 1254267349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1348
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28db51e268bf29c438c0ef879e05562f
+      internalID: -1881575862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_88
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1348
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8eebf631d42d47bcc04c696b713c2
+      internalID: 1995874033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_89
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1348
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076efa28b015be34c93435495d723f5e
+      internalID: -8593838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1011
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549d63a5e9fdc4441a0f39caaf32c1ce
+      internalID: -1145847440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1011
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24250cc4fff3a404d87c8d15c23bb533
+      internalID: 794704720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_92
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1011
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a41066b8508243ad1bf32d07b4659
+      internalID: -833553020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_93
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1011
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc238b783fec2742981524e03001895
+      internalID: 1473804113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_94
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1011
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd149571fbedc446936573e04452f99
+      internalID: 1452494046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc47b243188aae4297e28d7d1e9c97a
+      internalID: 2093519243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_96
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 674
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a17b5e86d645d479bd595a819fc82c
+      internalID: 1933379649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 674
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4795f3e85cdbe94d9925209dfed960e
+      internalID: 350635075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_98
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 674
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb14c97db75d394580797a6e5d1423f
+      internalID: 684652209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_99
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 674
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f73729435e114687e43b3a5515446
+      internalID: 495706507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d0b51cf33605418c8feb1107fa960
+      internalID: 1634850580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_101
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 337
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24044c443a53f7747b1967d8d7fb4073
+      internalID: 784536855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_102
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 337
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5766715d39f78c84685216bf7a9a2d6c
+      internalID: 449314923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_103
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 337
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a6d27f64093a142ad59127ff481c51
+      internalID: 1849887987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_104
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 337
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b43785748928e242ae3fb5192696a3e
+      internalID: 1719948842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c860168dcf319df49b9d7b06a6d60370
+      internalID: 1505514479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_106
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f7a16cdf210845a0f8d2d8e115d60
+      internalID: -2035155516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b1e4e9450ede4ba783388b9d9a2a6
+      internalID: -379589559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FindIt_108
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d02dcd6102aa641bec9e13fabd0715
+      internalID: -1307396217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e6d7ddaf4b64c21478b02a6186049232
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FindIt_0: 662075230
+      FindIt_1: 2140078916
+      FindIt_10: -524794488
+      FindIt_100: 1634850580
+      FindIt_101: 784536855
+      FindIt_102: 449314923
+      FindIt_103: 1849887987
+      FindIt_104: 1719948842
+      FindIt_105: 1505514479
+      FindIt_106: -2035155516
+      FindIt_107: -379589559
+      FindIt_108: -1307396217
+      FindIt_109: -375632761
+      FindIt_11: 1652757245
+      FindIt_12: -111362765
+      FindIt_13: -1291189900
+      FindIt_14: 1751077083
+      FindIt_15: 198290487
+      FindIt_16: 2113952388
+      FindIt_17: 825735335
+      FindIt_18: 586364138
+      FindIt_19: 1904330180
+      FindIt_2: -163243390
+      FindIt_20: 1038705281
+      FindIt_21: -1546357582
+      FindIt_22: 1920227997
+      FindIt_23: 1253738470
+      FindIt_24: 384826490
+      FindIt_25: -6620600
+      FindIt_26: 1198170147
+      FindIt_27: -1340944885
+      FindIt_28: -1096197528
+      FindIt_29: 808293410
+      FindIt_3: 1275929213
+      FindIt_30: -656738374
+      FindIt_31: -1206731208
+      FindIt_32: 1173352739
+      FindIt_33: 1918154977
+      FindIt_34: 1026374639
+      FindIt_35: 233395772
+      FindIt_36: 166051121
+      FindIt_37: -1967055428
+      FindIt_38: -1200894653
+      FindIt_39: 2049614739
+      FindIt_4: -1084035143
+      FindIt_40: 202197732
+      FindIt_41: -647214328
+      FindIt_42: -2117501775
+      FindIt_43: 2014357361
+      FindIt_44: -125134597
+      FindIt_45: 1944816124
+      FindIt_46: 797667321
+      FindIt_47: 1492730462
+      FindIt_48: 101514411
+      FindIt_49: -1678251909
+      FindIt_5: 2067107337
+      FindIt_50: 507999579
+      FindIt_51: 1677387147
+      FindIt_52: 1298361931
+      FindIt_53: 714055280
+      FindIt_54: 1294786521
+      FindIt_55: 2100605595
+      FindIt_56: -761053443
+      FindIt_57: 1604809727
+      FindIt_58: 1952166084
+      FindIt_59: -472397305
+      FindIt_6: -642673708
+      FindIt_60: 352951604
+      FindIt_61: -947398032
+      FindIt_62: 556574163
+      FindIt_63: -320449221
+      FindIt_64: -570726155
+      FindIt_65: 492263827
+      FindIt_66: 860405406
+      FindIt_67: -631161047
+      FindIt_68: -816830885
+      FindIt_69: 1906728838
+      FindIt_7: -429970141
+      FindIt_70: -853405676
+      FindIt_71: -1572941327
+      FindIt_72: -2061181721
+      FindIt_73: 2137317404
+      FindIt_74: 2100246186
+      FindIt_75: 1810534504
+      FindIt_76: -2114227415
+      FindIt_77: -1501336077
+      FindIt_78: 1402052221
+      FindIt_79: -699975254
+      FindIt_8: -2067041069
+      FindIt_80: 689782908
+      FindIt_81: -747996817
+      FindIt_82: 1003983051
+      FindIt_83: 1131953428
+      FindIt_84: -363611457
+      FindIt_85: -837814576
+      FindIt_86: 1254267349
+      FindIt_87: -1881575862
+      FindIt_88: 1995874033
+      FindIt_89: -8593838
+      FindIt_9: -1157539620
+      FindIt_90: -1145847440
+      FindIt_91: 794704720
+      FindIt_92: -833553020
+      FindIt_93: 1473804113
+      FindIt_94: 1452494046
+      FindIt_95: 2093519243
+      FindIt_96: 1933379649
+      FindIt_97: 350635075
+      FindIt_98: 684652209
+      FindIt_99: 495706507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
