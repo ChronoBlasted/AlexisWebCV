@@ -35,7 +35,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511873
-    m_Localized: Digger Danger
+    m_Localized: Mobile - Digger Danger
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511874
@@ -43,7 +43,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511875
-    m_Localized: Jump Ball
+    m_Localized: Mobile - Jump Ball
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511876
@@ -59,7 +59,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511879
-    m_Localized: Jedi Monkey
+    m_Localized: Jedi Monkey - Total War
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511880
@@ -99,7 +99,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511889
-    m_Localized: Fruit Merge
+    m_Localized: Proto - Fruit Merge
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511890
@@ -216,22 +216,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 289108850511918
     m_Localized: Survive!
-    m_Metadata:
-      m_Items: []
-  - m_Id: 400819288936448
-    m_Localized: Best Shipped Games
-    m_Metadata:
-      m_Items: []
-  - m_Id: 401019566952448
-    m_Localized: Best Game Jams
-    m_Metadata:
-      m_Items: []
-  - m_Id: 401186697383936
-    m_Localized: Prefered School Project
-    m_Metadata:
-      m_Items: []
-  - m_Id: 401447453069312
-    m_Localized: Other project(s)
     m_Metadata:
       m_Items: []
   references:

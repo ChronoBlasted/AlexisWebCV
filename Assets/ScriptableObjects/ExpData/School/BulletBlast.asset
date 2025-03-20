@@ -35,6 +35,8 @@ MonoBehaviour:
   EndTime: 2022-11-01
   Animation: {fileID: 7400000, guid: 0ce352158cafd104093ba8907d435a43, type: 2}
   ItchURL: https://alexisgelin.itch.io/bullet-blast
+  Attribute: 2
+  Contributors: []
   references:
     version: 2
     RefIds: []

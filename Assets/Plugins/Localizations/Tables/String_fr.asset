@@ -68,7 +68,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 31194839650304
-    m_Localized: Entreprise
+    m_Localized: Chronologie
     m_Metadata:
       m_Items: []
   - m_Id: 31222517862400
@@ -111,6 +111,34 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - rid: 960458949099520085
+  - m_Id: 2602233121607680
+    m_Localized: Lead dev
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2602443231072256
+    m_Localized: Dev solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2602590233038848
+    m_Localized: Dev uniquement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2603011919974400
+    m_Localized: Gros projet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2607571984060416
+    m_Localized: Dev
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2607596378132480
+    m_Localized: Artiste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2607619203534848
+    m_Localized: Market
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

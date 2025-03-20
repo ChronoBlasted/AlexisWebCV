@@ -35,6 +35,16 @@ MonoBehaviour:
   EndTime: 2022-05-01
   Animation: {fileID: 7400000, guid: 39dbac7dccc56d84abd637183a47e029, type: 2}
   ItchURL: https://alexisgelin.itch.io/starship-galaxy
+  Attribute: 8
+  Contributors:
+  - {fileID: 11400000, guid: 53b1a35f778fd2d4a9ae1853bc84381a, type: 2}
+  - {fileID: 11400000, guid: 1c589a50c1fbcaa459b89e91c059b8ce, type: 2}
+  - {fileID: 11400000, guid: 7bbb0a5bb27573449b0717fa8e837e7d, type: 2}
+  - {fileID: 11400000, guid: 35c608cc84388df47a02805ce660dca1, type: 2}
+  - {fileID: 11400000, guid: 7894bd04bb00cd549845195ef7eef604, type: 2}
+  - {fileID: 11400000, guid: f172dce6b87a69b4bb2805cdfdb7c7aa, type: 2}
+  - {fileID: 11400000, guid: 74199b954aa34c140a4aaca550a2694d, type: 2}
+  - {fileID: 11400000, guid: a4968f5b82e8b4247ac03f368ba5eb7b, type: 2}
   references:
     version: 2
     RefIds: []

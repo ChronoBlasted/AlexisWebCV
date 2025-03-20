@@ -35,6 +35,8 @@ MonoBehaviour:
   EndTime: 2022-03-07
   Animation: {fileID: 7400000, guid: e8ccb39ff04054440815b66e715a8429, type: 2}
   ItchURL: https://alexisgelin.itch.io/jump-or-jump
+  Attribute: 2
+  Contributors: []
   references:
     version: 2
     RefIds: []

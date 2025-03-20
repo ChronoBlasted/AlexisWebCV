@@ -6,8 +6,6 @@ public enum ResourceType
 
     ______UI______ = 400,
 
-    Exp = 401,
-    Life = 402,
     Lock = 403,
     Unlock = 404,
     FloatingText = 405,
@@ -16,10 +14,8 @@ public enum ResourceType
     Passion = 408,
     Event = 409,
     ErrorMsg = 410,
-}
 
-public enum Currency
-{
-    Exp = ResourceType.Exp,
-    Life = ResourceType.Life
+    Dev = 411,
+    Artist = 412,
+    Market = 413,
 }

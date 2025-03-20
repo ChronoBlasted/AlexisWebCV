@@ -35,6 +35,16 @@ MonoBehaviour:
   EndTime: 2024-11-01
   Animation: {fileID: 7400000, guid: 39931a176f20e7941933e6aed6646ee7, type: 2}
   ItchURL: https://alexisgelin.itch.io/zak-wowo
+  Attribute: 8
+  Contributors:
+  - {fileID: 11400000, guid: 1d898c7dd8194c147b18c6f6fc3b70f4, type: 2}
+  - {fileID: 11400000, guid: 5bf27cd49f28bd24ba073ff8940ca9fc, type: 2}
+  - {fileID: 11400000, guid: 00f408c8b8e62b74ab66ad2bc21aa78c, type: 2}
+  - {fileID: 11400000, guid: 959d8b72387f3b74b95b70cd5e904990, type: 2}
+  - {fileID: 11400000, guid: 776729718d2103441b518e260ae2efbe, type: 2}
+  - {fileID: 11400000, guid: a95f90004e4e8fd4a8b8e0b6aeba6bf9, type: 2}
+  - {fileID: 11400000, guid: 6ddfbfeb468ce0941b51c54784794ff2, type: 2}
+  - {fileID: 11400000, guid: f97fb86d740be1b44896416ed89e05ed, type: 2}
   references:
     version: 2
     RefIds: []

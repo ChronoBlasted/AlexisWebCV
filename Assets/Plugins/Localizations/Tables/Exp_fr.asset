@@ -27,11 +27,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511872
-    m_Localized: Un runner 3D
+    m_Localized: "Vivez l'excitation du parkour \xE0 grande vitesse dans ce runner
+      3D plein d'action ! Esquivez les obstacles, sautez de toit en toit et r\xE9alisez
+      des cascades spectaculaires en traversant des environnements urbains illumin\xE9s
+      au n\xE9on. Chaque course est un d\xE9fi rempli d'adr\xE9naline o\xF9 vos r\xE9flexes
+      seront mis \xE0 rude \xE9preuve.\n\nAffrontez des rivaux, d\xE9bloquez des
+      tenues exclusives et perfectionnez vos comp\xE9tences pour devenir le ma\xEEtre
+      du parkour. Gr\xE2ce \xE0 ses graphismes dynamiques et son gameplay fluide,
+      JCVD vous plonge dans une exp\xE9rience intense o\xF9 la rapidit\xE9 et la
+      pr\xE9cision sont essentielles."
     m_Metadata:
       m_Items: []
   - m_Id: 132117827584
-    m_Localized: "Un jeu de puzzle coop\xE9ratif"
+    m_Localized: "Rejoignez Zak et Wowo dans une aventure coop\xE9rative o\xF9 le
+      travail d'\xE9quipe est essentiel ! R\xE9solvez des \xE9nigmes complexes, manipulez
+      l\u2019environnement et d\xE9couvrez les secrets du monde myst\xE9rieux de
+      Lendarys. Chaque niveau propose des d\xE9fis qui n\xE9cessitent une parfaite
+      coordination entre les joueurs pour avancer.\n\nGr\xE2ce \xE0 son univers enchanteur
+      et son gameplay ing\xE9nieux, Zak & Wowo offre une exp\xE9rience immersive
+      o\xF9 la communication et la r\xE9flexion sont la cl\xE9 du succ\xE8s. Pr\xE9parez-vous
+      \xE0 explorer des temples anciens, \xE0 affronter des cr\xE9atures mystiques
+      et \xE0 r\xE9v\xE9ler des myst\xE8res oubli\xE9s."
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511873
@@ -39,7 +55,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511874
-    m_Localized: Serez-vous le plus riche ?
+    m_Localized: "Creusez profond\xE9ment sous terre et d\xE9couvrez des tr\xE9sors
+      cach\xE9s dans cette aventure mini\xE8re palpitante. M\xE9fiez-vous des tunnels
+      qui s\u2019effondrent, des cr\xE9atures souterraines et de la diminution de
+      votre oxyg\xE8ne alors que vous explorez des cavernes g\xE9n\xE9r\xE9es al\xE9atoirement.
+      Chaque exp\xE9dition est unique et regorge de surprises.\n\nOptimisez votre
+      \xE9quipement, am\xE9liorez vos outils et d\xE9bloquez des technologies avanc\xE9es
+      pour creuser toujours plus loin. Mais attention : chaque d\xE9cision compte,
+      et seul le plus rus\xE9 des mineurs parviendra \xE0 s\u2019enrichir sans y
+      laisser sa peau !"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511875
@@ -47,7 +71,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511876
-    m_Localized: "Atteignez la derni\xE8re salle !"
+    m_Localized: "Prenez le contr\xF4le d\u2019une balle rebondissante et naviguez
+      \xE0 travers des niveaux de plus en plus complexes remplis de pi\xE8ges et
+      d\u2019obstacles. Ma\xEEtrisez les m\xE9caniques bas\xE9es sur la physique
+      pour r\xE9aliser des sauts pr\xE9cis et \xE9viter les dangers. L\u2019objectif
+      ? Atteindre la derni\xE8re salle en un seul morceau !\n\nAvec une difficult\xE9
+      progressive et des d\xE9fis toujours plus coriaces, Jump Ball mettra vos r\xE9flexes
+      et votre patience \xE0 l\u2019\xE9preuve. Encha\xEEnez les bons timings, exploitez
+      les rebonds et d\xE9jouez les pi\xE8ges pour triompher de cet ultime d\xE9fi
+      !"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511877
@@ -55,7 +87,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511878
-    m_Localized: "Es-tu r\xE9actif ?"
+    m_Localized: "Mettez \xE0 l'\xE9preuve vos capacit\xE9s d'observation dans ce
+      jeu d\u2019objets cach\xE9s rapide et stimulant ! Trouvez des objets sp\xE9cifiques
+      diss\xE9min\xE9s dans des sc\xE8nes magnifiquement con\xE7ues avant que le
+      temps ne s\u2019\xE9puise. Plus vous avancez, plus le jeu devient difficile,
+      demandant une concentration et une rapidit\xE9 d\u2019ex\xE9cution accrues.\n\nAvec
+      une vari\xE9t\xE9 de niveaux et des \xE9nigmes \xE0 r\xE9soudre, Find It! est
+      parfait pour les joueurs en qu\xEAte de d\xE9fis c\xE9r\xE9braux. Entra\xEEnez
+      votre regard de lynx et devenez un expert de la d\xE9tection d\u2019objets
+      !"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511879
@@ -63,7 +103,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511880
-    m_Localized: "D\xE9fendez-vous \xE0 l'aide de la Force !"
+    m_Localized: "Incarnez un puissant Singe Jedi et d\xE9fendez votre jungle contre
+      des forces envahissantes ! Utilisez votre ma\xEEtrise de la Force pour repousser
+      les ennemis, manier des armes \xE9nerg\xE9tiques et d\xE9clencher des attaques
+      d\xE9vastatrices. Chaque bataille est une lutte acharn\xE9e o\xF9 r\xE9flexes
+      et strat\xE9gie sont vos meilleurs alli\xE9s.\n\nAvec ses combats dynamiques
+      et ses pouvoirs impressionnants, Jedi Monkey - Total War vous plonge dans une
+      guerre galactique o\xF9 la survie d\xE9pend de votre habilet\xE9 \xE0 esquiver,
+      contre-attaquer et lib\xE9rer toute la puissance du c\xF4t\xE9 lumineux\u2026
+      ou obscur !"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511881
@@ -216,22 +264,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 289108850511918
     m_Localized: Survivez !
-    m_Metadata:
-      m_Items: []
-  - m_Id: 400819288936448
-    m_Localized: Meilleurs jeux delivre
-    m_Metadata:
-      m_Items: []
-  - m_Id: 401019566952448
-    m_Localized: Meilleur game jam
-    m_Metadata:
-      m_Items: []
-  - m_Id: 401186697383936
-    m_Localized: Projets scolaire prefere
-    m_Metadata:
-      m_Items: []
-  - m_Id: 401447453069312
-    m_Localized: Autre projet(s)
     m_Metadata:
       m_Items: []
   references:

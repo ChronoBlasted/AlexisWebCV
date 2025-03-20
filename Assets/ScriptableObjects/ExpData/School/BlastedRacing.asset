@@ -35,6 +35,8 @@ MonoBehaviour:
   EndTime: 2022-11-01
   Animation: {fileID: 7400000, guid: cf2003251f9fca54d8f9000cea1058bf, type: 2}
   ItchURL: https://alexisgelin.itch.io/blasted-racing
+  Attribute: 2
+  Contributors: []
   references:
     version: 2
     RefIds: []

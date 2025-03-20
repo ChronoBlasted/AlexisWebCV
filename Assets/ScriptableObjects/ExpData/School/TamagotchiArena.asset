@@ -35,6 +35,8 @@ MonoBehaviour:
   EndTime: 2023-02-01
   Animation: {fileID: 7400000, guid: f48af267b90608c40a772f90ec9ca798, type: 2}
   ItchURL: https://alexisgelin.itch.io/tamagotchi-arena
+  Attribute: 2
+  Contributors: []
   references:
     version: 2
     RefIds: []

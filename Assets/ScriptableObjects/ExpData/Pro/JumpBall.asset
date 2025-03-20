@@ -35,6 +35,8 @@ MonoBehaviour:
   EndTime: 2023-10-01
   Animation: {fileID: 7400000, guid: c742c33ab3ea4a34093e2328ec030716, type: 2}
   ItchURL: https://alexisgelin.itch.io/jump-ball
+  Attribute: 2
+  Contributors: []
   references:
     version: 2
     RefIds: []

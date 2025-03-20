@@ -35,6 +35,8 @@ MonoBehaviour:
   EndTime: 2025-01-01
   Animation: {fileID: 7400000, guid: 58a983d461ecc1642851c2004500fe69, type: 2}
   ItchURL: https://alexisgelin.itch.io/colorio-rts
+  Attribute: 2
+  Contributors: []
   references:
     version: 2
     RefIds: []

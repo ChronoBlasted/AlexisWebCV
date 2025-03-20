@@ -35,6 +35,12 @@ MonoBehaviour:
   EndTime: 2022-03-03
   Animation: {fileID: 7400000, guid: 38675cbee99cf7549be69eec4c9a73c9, type: 2}
   ItchURL: https://damienrzu.itch.io/demolynov
+  Attribute: 5
+  Contributors:
+  - {fileID: 11400000, guid: ebd7a8d80ac9c674e9eb447ab15acbd2, type: 2}
+  - {fileID: 11400000, guid: 7319f85aacfadf64292a3575f99c7e02, type: 2}
+  - {fileID: 11400000, guid: 00764d3080f1fcf40835aef1934cc741, type: 2}
+  - {fileID: 11400000, guid: 81d7a914cc74a02409013d36ca1063ce, type: 2}
   references:
     version: 2
     RefIds: []

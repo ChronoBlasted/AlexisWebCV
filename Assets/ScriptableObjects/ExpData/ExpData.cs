@@ -14,4 +14,18 @@ public class ExpData : ScriptableObject
     public string EndTime;// Format: YYYY-MM-DD
     public AnimationClip Animation;
     public string ItchURL = "https://alexisgelin.itch.io/";
+    public Attribute Attribute;
+    public List<ContributorData> Contributors;
 }
+
+[Flags]
+public enum Attribute
+{
+    None = 0,
+    LeadDev = 1,
+    Solodev = 2,
+    OnlyDev = 4,
+    BigProject = 8,
+}
+
+
