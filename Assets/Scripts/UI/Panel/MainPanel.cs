@@ -1,11 +1,20 @@
 using DG.Tweening;
+using NUnit.Framework;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class MainPanel : Panel
 {
     [SerializeField] CanvasGroup _settingMenu;
+    [SerializeField] List<ExpLayout> _expLayout;
 
     Tweener _settingFadeTweener;
+    public override void Init()
+    {
+        base.Init();
+
+        InitExp();
+    }
 
     public override void OpenPanel()
     {
@@ -77,5 +86,13 @@ public class MainPanel : Panel
     public void OpenFriends()
     {
 
+    }
+
+    void InitExp()
+    {
+        foreach (var exp in _expLayout)
+        {
+            exp.Init();
+        }
     }
 }

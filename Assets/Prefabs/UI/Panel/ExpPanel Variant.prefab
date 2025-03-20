@@ -3979,6 +3979,18 @@ PrefabInstance:
       propertyPath: _data
       value: 
       objectReference: {fileID: 11400000, guid: 5923a5d07bfaeda498134d8758c6ec63, type: 2}
+    - target: {fileID: 8318139323635758721, guid: 96abb0c2f1ce96142828953485c303ef, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318139323635758721, guid: 96abb0c2f1ce96142828953485c303ef, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318139323635758721, guid: 96abb0c2f1ce96142828953485c303ef, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5199,16 +5211,16 @@ MonoBehaviour:
   _jamGamesData:
   - {fileID: 11400000, guid: eee77e66c8e1aa24db8687d9896d20ba, type: 2}
   _schoolGamesData:
-  - {fileID: 11400000, guid: 477ead8cb127d6348945ca39074dcd3d, type: 2}
+  - {fileID: 11400000, guid: 3536c0da2c958044093105543435033f, type: 2}
   - {fileID: 11400000, guid: f1c048f6578c15940b8bc1106a3e73d9, type: 2}
-  - {fileID: 11400000, guid: 42d3761cd374b364c8c2e389525f3af5, type: 2}
-  - {fileID: 11400000, guid: 2f81350eea1cabd44909582c9cfae5b6, type: 2}
   - {fileID: 11400000, guid: 97c4d821c8fa44b4ca73a83caa839a1a, type: 2}
+  - {fileID: 11400000, guid: 2f81350eea1cabd44909582c9cfae5b6, type: 2}
   - {fileID: 11400000, guid: af90407762885ce4ba4d75d12ab8c104, type: 2}
   - {fileID: 11400000, guid: df77775ef35cac5468f907f2b7b78a2e, type: 2}
-  - {fileID: 11400000, guid: 31b94dc15fd3d734b890d342c01eae76, type: 2}
-  - {fileID: 11400000, guid: 3536c0da2c958044093105543435033f, type: 2}
+  - {fileID: 11400000, guid: 42d3761cd374b364c8c2e389525f3af5, type: 2}
   - {fileID: 11400000, guid: f0c9b4575806ec74fb4d6459e74db58f, type: 2}
+  - {fileID: 11400000, guid: 477ead8cb127d6348945ca39074dcd3d, type: 2}
+  - {fileID: 11400000, guid: 31b94dc15fd3d734b890d342c01eae76, type: 2}
 --- !u!224 &5498515337234175809 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3386784948550564165, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
@@ -5315,6 +5327,18 @@ PrefabInstance:
       propertyPath: _data
       value: 
       objectReference: {fileID: 11400000, guid: c2817e0f63b20464e87e53add8fb768f, type: 2}
+    - target: {fileID: 8318139323635758721, guid: 96abb0c2f1ce96142828953485c303ef, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318139323635758721, guid: 96abb0c2f1ce96142828953485c303ef, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318139323635758721, guid: 96abb0c2f1ce96142828953485c303ef, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

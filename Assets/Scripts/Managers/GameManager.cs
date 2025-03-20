@@ -1,19 +1,46 @@
 using BaseTemplate.Behaviours;
 using DG.Tweening;
 using System;
+using System.Collections;
 using UnityEngine;
+using UnityEngine.Localization.Settings;
 using UnityEngine.SceneManagement;
 
 
 public class GameManager : MonoSingleton<GameManager>
 {
-    private void Awake()
+    private void Start()
+    {
+        StartCoroutine(Preload());
+    }
+
+    void Init()
     {
         TimeManager.Instance.Init();
 
         PoolManager.Instance.Init();
 
         UIManager.Instance.Init();
+    }
+
+    IEnumerator Preload()
+    {
+        var operation = LocalizationSettings.InitializationOperation;
+
+        do
+        {
+            yield return null;
+        }
+        while (!operation.IsDone);
+
+        if (operation.Status == UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationStatus.Failed)
+        {
+            ReloadScene();
+        }
+        else
+        {
+            Init();
+        }
     }
 
     void Update()

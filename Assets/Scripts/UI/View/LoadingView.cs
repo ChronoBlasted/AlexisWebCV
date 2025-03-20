@@ -4,5 +4,10 @@ using UnityEngine;
 
 public class LoadingView : View
 {
+    public override void Init()
+    {
+        base.Init();
 
+
+    }
 }

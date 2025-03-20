@@ -50,9 +50,9 @@ public class UIManager : MonoSingleton<UIManager>
     public void InitView()
     {
         _menuView.Init();
-        _loadingView.Init();
         _errorView.Init();
         _settingView.Init();
+        _loadingView.Init();
 
         _rewardPopup.Init();
         _languagePopup.Init();
