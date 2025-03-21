@@ -10,11 +10,14 @@ public class UIManager : MonoSingleton<UIManager>
     public RectTransform RectTransformPool;
     [SerializeField] Canvas _mainCanvas;
 
+    [Header("View")]
     [SerializeField] MenuView _menuView;
     [SerializeField] LoadingView _loadingView;
     [SerializeField] ErrorView _errorView;
     [SerializeField] SettingView _settingView;
+    [SerializeField] FriendView _friendView;
 
+    [Header("Popup")]
     [SerializeField] RewardPopup _rewardPopup;
     [SerializeField] ProfilePopup _profilePopup;
     [SerializeField] ConfirmPopup _confirmPopup;
@@ -32,6 +35,7 @@ public class UIManager : MonoSingleton<UIManager>
     public LoadingView LoadingView { get => _loadingView; }
     public ErrorView ErrorView { get => _errorView; }
     public SettingView SettingView { get => _settingView; }
+    public FriendView FriendView { get => _friendView; }
 
     public RewardPopup RewardPopup { get => _rewardPopup; }
     public ConfirmPopup ConfirmPopup { get => _confirmPopup; }
@@ -53,6 +57,7 @@ public class UIManager : MonoSingleton<UIManager>
         _errorView.Init();
         _settingView.Init();
         _loadingView.Init();
+        _friendView.Init();
 
         _rewardPopup.Init();
         _languagePopup.Init();

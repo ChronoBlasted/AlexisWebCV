@@ -10,12 +10,12 @@ public class ExpData : ScriptableObject
     public ExpType ExpType;
     public LocalizedString Name;
     public LocalizedString Desc;
-    public string StartTime;// Format: YYYY-MM-DD
-    public string EndTime;// Format: YYYY-MM-DD
+    public string StartTime;    // Format: YYYY-MM-DD
+    public string EndTime;      // Format: YYYY-MM-DD
     public AnimationClip Animation;
     public string ItchURL = "https://alexisgelin.itch.io/";
     public Attribute Attribute;
-    public List<ContributorData> Contributors;
+    public List<CollaboratorData> Collaborators;
 }
 
 [Flags]

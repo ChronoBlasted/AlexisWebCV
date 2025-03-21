@@ -7,8 +7,8 @@ public class ContributorLayout : MonoBehaviour
     [SerializeField] TMP_Text _name;
     [SerializeField] Image _ico, _bg;
 
-    ContributorData _data;
-    public void Init(ContributorData newContributor)
+    CollaboratorData _data;
+    public void Init(CollaboratorData newContributor)
     {
         _data = newContributor;
 

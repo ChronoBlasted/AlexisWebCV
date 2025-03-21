@@ -49,9 +49,9 @@ public class TimelineLayout : MonoBehaviour
         }
 
 
-        if (_data.Contributors.Count > 0)
+        if (_data.Collaborators.Count > 0)
         {
-            foreach (var contributor in _data.Contributors)
+            foreach (var contributor in _data.Collaborators)
             {
                 var currentContributor = Instantiate(_contributorLayoutPrefab, _contributorContainer);
                 currentContributor.Init(contributor);

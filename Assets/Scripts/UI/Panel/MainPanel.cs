@@ -85,7 +85,7 @@ public class MainPanel : Panel
 
     public void OpenFriends()
     {
-
+        UIManager.Instance.ChangeView(UIManager.Instance.FriendView);
     }
 
     void InitExp()
