@@ -19,11 +19,11 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 9686093824
-    m_Localized: "Survivre a l'\xC9cole Sup\xE9rieure"
+    m_Localized: "Survivre \xE0 l'\xC9cole Sup\xE9rieure"
     m_Metadata:
       m_Items: []
   - m_Id: 451409219584
-    m_Localized: Envoyer son curricul vitae
+    m_Localized: Envoyer son CV
     m_Metadata:
       m_Items: []
   - m_Id: 806503190528

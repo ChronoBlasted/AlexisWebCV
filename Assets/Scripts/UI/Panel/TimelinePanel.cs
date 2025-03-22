@@ -25,8 +25,6 @@ public class TimelinePanel : Panel
     public override void OpenPanel()
     {
         base.OpenPanel();
-
-        UIManager.Instance.MenuView.TopBar.HideTopBar();
     }
 
     void InitLayouts()

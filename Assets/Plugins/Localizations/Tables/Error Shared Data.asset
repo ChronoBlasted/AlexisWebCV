@@ -14,15 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TableCollectionName: Error
   m_TableCollectionNameGuidString: 7e423f99f89da3444a4363d7bed9ef97
-  m_Entries:
-  - m_Id: 5638590464
-    m_Key: NotEnoughExp
-    m_Metadata:
-      m_Items: []
-  - m_Id: 49943023616
-    m_Key: NotEnoughLife
-    m_Metadata:
-      m_Items: []
+  m_Entries: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

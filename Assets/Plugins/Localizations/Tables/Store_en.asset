@@ -35,7 +35,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 11293919940608
-    m_Localized: Ponctuality
+    m_Localized: Punctuality
     m_Metadata:
       m_Items: []
   - m_Id: 11342234128384
@@ -67,11 +67,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18539101949952
-    m_Localized: Soft Skills
+    m_Localized: Soft skills
     m_Metadata:
       m_Items: []
   - m_Id: 18562925596672
-    m_Localized: Hard Skills
+    m_Localized: Hard skills
     m_Metadata:
       m_Items: []
   - m_Id: 21389274124288

@@ -17,15 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 7e423f99f89da3444a4363d7bed9ef97, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData:
-  - m_Id: 5638590464
-    m_Localized: Vous n'avez pas assez d'experience
-    m_Metadata:
-      m_Items: []
-  - m_Id: 49943023616
-    m_Localized: Vous n'avez pas assez de vie
-    m_Metadata:
-      m_Items: []
+  m_TableData: []
   references:
     version: 2
     RefIds: []

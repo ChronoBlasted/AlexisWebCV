@@ -64,7 +64,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 31150216450048
-    m_Localized: Home
+    m_Localized: Accueil
     m_Metadata:
       m_Items: []
   - m_Id: 31194839650304
@@ -72,7 +72,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 31222517862400
-    m_Localized: Evenements
+    m_Localized: "\xC9v\xE9nements"
     m_Metadata:
       m_Items: []
   - m_Id: 160174372687872
@@ -84,7 +84,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 160217565630464
-    m_Localized: Ecole
+    m_Localized: "\xC9cole"
     m_Metadata:
       m_Items: []
   - m_Id: 768638962765824
@@ -92,7 +92,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 768671686725632
-    m_Localized: Parameteres
+    m_Localized: "Param\xE8tres"
     m_Metadata:
       m_Items: []
   - m_Id: 787133100331008
@@ -105,9 +105,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 787234556350464
-    m_Localized: '{0:jour|jours}
-
-'
+    m_Localized: '{0:jour|jours}'
     m_Metadata:
       m_Items:
       - rid: 960458949099520085
@@ -136,11 +134,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2607619203534848
-    m_Localized: Market
+    m_Localized: "March\xE9"
     m_Metadata:
       m_Items: []
   - m_Id: 2909922464763904
-    m_Localized: Meilleur jeu delivree
+    m_Localized: "Meilleur jeu d\xE9livr\xE9"
     m_Metadata:
       m_Items: []
   - m_Id: 2910017801293824
@@ -148,11 +146,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2910473621475328
-    m_Localized: Meilleurs jeux d'ecole
+    m_Localized: "Meilleurs jeux d'\xE9cole"
     m_Metadata:
       m_Items: []
   - m_Id: 2911991716253696
-    m_Localized: Autre projets
+    m_Localized: Autres projets
     m_Metadata:
       m_Items: []
   references:

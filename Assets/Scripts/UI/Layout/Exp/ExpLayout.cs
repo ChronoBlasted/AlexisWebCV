@@ -5,7 +5,7 @@ using UnityEngine.Localization;
 
 public class ExpLayout : MonoBehaviour
 {
-    [SerializeField] TMP_Text _title, _timeToProduce;
+    [SerializeField] TMP_Text _title;
     [SerializeField] Animator _animator;
 
     [SerializeField] ExpData _data;
@@ -20,10 +20,6 @@ public class ExpLayout : MonoBehaviour
 
         var startDate = DateTime.Parse(_data.StartTime);
         var endDate = DateTime.Parse(_data.EndTime);
-
-        string timeToProduce = CalculateDateDifference(startDate, endDate);
-
-        _timeToProduce.text = timeToProduce;
     }
 
     public void Init()

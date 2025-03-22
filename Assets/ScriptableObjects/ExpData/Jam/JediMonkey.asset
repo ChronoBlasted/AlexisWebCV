@@ -36,7 +36,7 @@ MonoBehaviour:
   Animation: {fileID: 7400000, guid: 344fa66f0720ed445ae532abb73c1e7e, type: 2}
   ItchURL: https://manuia.itch.io/jedi-monkey-total-war
   Attribute: 0
-  Contributors:
+  Collaborators:
   - {fileID: 11400000, guid: 5bf27cd49f28bd24ba073ff8940ca9fc, type: 2}
   - {fileID: 11400000, guid: 27c8674525a7cfc4a8f4f1400a107a41, type: 2}
   - {fileID: 11400000, guid: 6ddfbfeb468ce0941b51c54784794ff2, type: 2}

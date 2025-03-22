@@ -7,6 +7,7 @@ public class ColorManager : MonoSingleton<ColorManager>
 {
     [SerializeField] Color _activeColor, _inactiveColor;
     [SerializeField] Color _devColor, _artistColor, _marketColor;
+    [SerializeField] Color _hardColor, _softColor, _passionColor;
     [SerializeField] Color _leadDevColor, _solodevColor, _bigProjectColor, _onlyDevColor;
 
     public Color ActiveColor { get => _activeColor; }
@@ -22,6 +23,21 @@ public class ColorManager : MonoSingleton<ColorManager>
                 return _artistColor;
             case Role.Market:
                 return _marketColor;
+        }
+
+        return Color.white;
+    }
+
+    public Color GetColorBySkills(Skills skills)
+    {
+        switch (skills)
+        {
+            case Skills.Hard:
+                return _hardColor;
+            case Skills.Soft:
+                return _softColor;
+            case Skills.Passion:
+                return _passionColor;
         }
 
         return Color.white;

@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 218835062784
-    m_Localized: A lyon event that brings many actor of the video games industry
+    m_Localized: A Lyon event that brings many actors of the video games industry
     m_Metadata:
       m_Items: []
   - m_Id: 658280681472
@@ -32,7 +32,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1219159789568
-    m_Localized: GameCampDesc
+    m_Localized: An event dedicated to game development where developers meet and
+      showcase their work
     m_Metadata:
       m_Items: []
   - m_Id: 1251799863296
@@ -40,7 +41,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1282443448320
-    m_Localized: SolodevDesc
+    m_Localized: A solo developer event focused on independent game creation and
+      collaboration
     m_Metadata:
       m_Items: []
   - m_Id: 676369932881920
@@ -48,7 +50,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 677041717776384
-    m_Localized: WorldDogShowDesc
+    m_Localized: A prestigious international event showcasing the best dog breeds
+      from around the world
     m_Metadata:
       m_Items: []
   - m_Id: 677145090592768

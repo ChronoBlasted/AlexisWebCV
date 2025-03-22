@@ -101,9 +101,7 @@ MonoBehaviour:
       m_Items:
       - rid: 960458949099520084
   - m_Id: 787180726652928
-    m_Localized: '{0:month|months}
-
-'
+    m_Localized: '{0:month|months}'
     m_Metadata:
       m_Items:
       - rid: 960458949099520084

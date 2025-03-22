@@ -19,15 +19,15 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 4137029632
-    m_Localized: Patience
+    m_Localized: Patient
     m_Metadata:
       m_Items: []
   - m_Id: 11068190887936
-    m_Localized: Attentif
+    m_Localized: "\xC0 l'\xE9coute"
     m_Metadata:
       m_Items: []
   - m_Id: 10991049248768
-    m_Localized: Autonomie
+    m_Localized: Autonome
     m_Metadata:
       m_Items: []
   - m_Id: 11208645545984
@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 11342234128384
-    m_Localized: Polyvalence
+    m_Localized: Polyvalent
     m_Metadata:
       m_Items: []
   - m_Id: 11412207702016
@@ -59,7 +59,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 11658325266432
-    m_Localized: Jeux mobile
+    m_Localized: Jeux mobiles
     m_Metadata:
       m_Items: []
   - m_Id: 11808665899008
@@ -67,11 +67,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18539101949952
-    m_Localized: Soft Skills
+    m_Localized: "Comp\xE9tences comportementales"
     m_Metadata:
       m_Items: []
   - m_Id: 18562925596672
-    m_Localized: Hard Skills
+    m_Localized: "Comp\xE9tences techniques"
     m_Metadata:
       m_Items: []
   - m_Id: 21389274124288

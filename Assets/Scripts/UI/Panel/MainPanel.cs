@@ -19,8 +19,6 @@ public class MainPanel : Panel
     public override void OpenPanel()
     {
         base.OpenPanel();
-
-        UIManager.Instance.MenuView.TopBar.ShowTopBar();
     }
 
     public void OpenLinkedin()
@@ -35,7 +33,7 @@ public class MainPanel : Panel
 
     public void OpenQuest()
     {
-
+        UIManager.Instance.AddPopup(UIManager.Instance.QuestPopup);
     }
 
     public void OpenSettingMenu()

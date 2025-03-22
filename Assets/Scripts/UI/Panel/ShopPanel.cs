@@ -19,8 +19,6 @@ public class ShopPanel : Panel
     public override void OpenPanel()
     {
         base.OpenPanel();
-
-        UIManager.Instance.MenuView.TopBar.ShowTopBar();
     }
 
     public override void ClosePanel()

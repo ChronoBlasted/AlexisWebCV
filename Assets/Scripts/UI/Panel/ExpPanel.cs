@@ -25,8 +25,6 @@ public class ExpPanel : Panel
     {
         base.OpenPanel();
 
-        UIManager.Instance.MenuView.TopBar.ShowTopBar();
-
         _navBar.Init();
 
     }

@@ -24,7 +24,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 218835062784
-    m_Localized: Un evenement lyonnais qui reunnis des acteur du jeu video lyonnais
+    m_Localized: "Un \xE9v\xE9nement lyonnais qui r\xE9unit des acteurs de l'industrie
+      du jeu vid\xE9o \xE0 Lyon"
     m_Metadata:
       m_Items: []
   - m_Id: 658280681472
@@ -32,7 +33,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1219159789568
-    m_Localized: GameCampDesc
+    m_Localized: "Un \xE9v\xE9nement d\xE9di\xE9 au d\xE9veloppement de jeux o\xF9
+      les d\xE9veloppeurs se rencontrent et pr\xE9sentent leurs cr\xE9ations"
     m_Metadata:
       m_Items: []
   - m_Id: 1251799863296
@@ -40,7 +42,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1282443448320
-    m_Localized: SolodevDesc
+    m_Localized: "Un \xE9v\xE9nement pour les d\xE9veloppeurs solo centr\xE9 sur
+      la cr\xE9ation de jeux ind\xE9pendants et la collaboration"
     m_Metadata:
       m_Items: []
   - m_Id: 676369932881920
@@ -48,7 +51,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 677041717776384
-    m_Localized: WorldDogShowDesc
+    m_Localized: "Un \xE9v\xE9nement international prestigieux mettant en avant les
+      meilleures races de chiens du monde"
     m_Metadata:
       m_Items: []
   - m_Id: 677145090592768

@@ -1,10 +1,10 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MenuView : View
 {
+    [SerializeField] Image _pattern;
     [SerializeField] NavBar navBar;
-
-    [SerializeField] Topbar _topBar;
 
     [field: SerializeField] public ShopPanel ShopPanel { get; protected set; }
     [field: SerializeField] public ExpPanel ExpPanel { get; protected set; }
@@ -12,7 +12,6 @@ public class MenuView : View
     [field: SerializeField] public TimelinePanel TimelinePanel { get; protected set; }
     [field: SerializeField] public EventPanel EventPanel { get; protected set; }
     public NavBar NavBar { get => navBar; }
-    public Topbar TopBar { get => _topBar; set => _topBar = value; }
 
     public override void Init()
     {
@@ -35,5 +34,10 @@ public class MenuView : View
     public override void CloseView()
     {
         base.CloseView();
+    }
+
+    public void ChangePattern(Sprite newSpritePattern)
+    {
+        _pattern.sprite = newSpritePattern;
     }
 }
