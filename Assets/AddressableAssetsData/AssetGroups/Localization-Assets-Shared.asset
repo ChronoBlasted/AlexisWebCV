@@ -25,6 +25,11 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 404850aa034be80409ed0157cd7ec966
+    m_Address: Assets/Plugins/Localizations/Tables/Quest Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4bae1c06d453b4740bc89311cebde150
     m_Address: Assets/Plugins/Localizations/Tables/String Shared Data.asset
     m_ReadOnly: 1
