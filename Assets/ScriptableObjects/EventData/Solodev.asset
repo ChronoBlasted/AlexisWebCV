@@ -35,6 +35,8 @@ MonoBehaviour:
     m_LocalVariables: []
   TargetDay: 2
   FirstOfTheMonths: 0
+  EventDate: 
+  EventLink: https://lyongamedev.pro/
   references:
     version: 2
     RefIds: []

@@ -36,6 +36,7 @@ MonoBehaviour:
   TargetDay: 2
   FirstOfTheMonths: 0
   EventDate: 2024-06-24
+  EventLink: https://gamecamp.fr/
   references:
     version: 2
     RefIds: []

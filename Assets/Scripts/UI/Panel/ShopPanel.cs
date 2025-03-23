@@ -34,4 +34,21 @@ public class ShopPanel : Panel
         }
     }
 
+    public void HandleOnSupportCreator()
+    {
+        UIManager.Instance.ConfirmPopup.UpdateDataWithInputField("Support a creator", "Enter a creator name", "Creator name", IsCreatorValid);
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
+    }
+
+    public void IsCreatorValid(string creator)
+    {
+        if (creator == "Veemo")
+        {
+            UIManager.Instance.ErrorView.AddError("! TIABINA !");
+        }
+        else
+        {
+            UIManager.Instance.ErrorView.AddError("This creator doesn't exist");
+        }
+    }
 }

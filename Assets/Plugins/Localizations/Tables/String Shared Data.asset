@@ -19,14 +19,6 @@ MonoBehaviour:
     m_Key: ErrorMsg
     m_Metadata:
       m_Items: []
-  - m_Id: 66380500992
-    m_Key: Exp
-    m_Metadata:
-      m_Items: []
-  - m_Id: 119522332672
-    m_Key: Life
-    m_Metadata:
-      m_Items: []
   - m_Id: 156386070528
     m_Key: Lock
     m_Metadata:
@@ -145,6 +137,74 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2911991716253696
     m_Key: OthersProjects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3653405852962816
+    m_Key: Contact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3653588904972288
+    m_Key: AlexisGelin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3654429632237568
+    m_Key: UpcomingEvents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3654673338077184
+    m_Key: LastEvents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3655865728372736
+    m_Key: TapToContinue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656625329410048
+    m_Key: ChangeLanguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656881978871808
+    m_Key: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657026292289536
+    m_Key: GameShipped
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657199886143488
+    m_Key: TotalYearExp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657373756821504
+    m_Key: TotalProjects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657631299670016
+    m_Key: TotalApplication
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658167214280704
+    m_Key: OutOfRange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658314652454912
+    m_Key: FullName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658501886185472
+    m_Key: Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658571415162880
+    m_Key: Telephone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658655368351744
+    m_Key: E-Mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658772074860544
+    m_Key: Quest
     m_Metadata:
       m_Items: []
   m_Metadata:

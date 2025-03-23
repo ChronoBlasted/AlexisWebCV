@@ -9,11 +9,13 @@ public class LanguageLayout : MonoBehaviour
     [SerializeField] Image _bg;
     [SerializeField] TMP_Text _languageName;
 
+    [SerializeField] Sprite _bgOn, _bgOff;
+
     public TMP_Text LanguageName { get => _languageName; }
 
     public void UpdateState(bool isOn = false)
     {
-        _bg.color = isOn ? ColorManager.Instance.ActiveColor : ColorManager.Instance.InactiveColor;
+        _bg.sprite = isOn ? _bgOn : _bgOff;
     }
 
     public void HandleOnChangeLanguage(int languageIndex)

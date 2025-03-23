@@ -344,3 +344,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _bg: {fileID: 5138880821271097857}
   _languageName: {fileID: 1793885159078390854}
+  _bgOn: {fileID: 21300000, guid: 804461bef59b141dba258fc997c8ca15, type: 3}
+  _bgOff: {fileID: 21300000, guid: 6bbcba4e267be464998897741b81d508, type: 3}

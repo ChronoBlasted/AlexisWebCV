@@ -20,7 +20,7 @@ MonoBehaviour:
     - rid: 960458949099520156
   m_TableData:
   - m_Id: 8180338688
-    m_Localized: Lyon Game Dev
+    m_Localized: Lyon Game Dev <style=c2>(LGD)</style>
     m_Metadata:
       m_Items: []
   - m_Id: 218835062784
@@ -38,7 +38,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1251799863296
-    m_Localized: Solodev
+    m_Localized: Solodev <style=c2>(Via LGD)</style>
     m_Metadata:
       m_Items: []
   - m_Id: 1282443448320

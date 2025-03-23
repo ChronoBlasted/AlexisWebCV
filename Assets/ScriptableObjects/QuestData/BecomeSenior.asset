@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0abd910588c62cd4e9d5869c12bef453, type: 3}
   m_Name: BecomeSenior
   m_EditorClassIdentifier: 
+  QuestIco: {fileID: 21300000, guid: d4a91f9c0dbc94105b9e31d0fd0adf4b, type: 3}
   QuestName:
     m_TableReference:
       m_TableCollectionName: GUID:404850aa034be80409ed0157cd7ec966
@@ -23,7 +24,7 @@ MonoBehaviour:
     m_LocalVariables: []
   Amount: 4
   MaxAmount: 10
-  RewardSprite: {fileID: 0}
+  RewardSprite: {fileID: 21300000, guid: e546e0fb39bdc4b23b9b6efe1c37aa70, type: 3}
   references:
     version: 2
     RefIds: []

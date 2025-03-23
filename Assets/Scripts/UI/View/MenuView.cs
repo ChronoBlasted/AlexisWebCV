@@ -3,7 +3,6 @@ using UnityEngine.UI;
 
 public class MenuView : View
 {
-    [SerializeField] Image _pattern;
     [SerializeField] NavBar navBar;
 
     [field: SerializeField] public ShopPanel ShopPanel { get; protected set; }
@@ -34,10 +33,5 @@ public class MenuView : View
     public override void CloseView()
     {
         base.CloseView();
-    }
-
-    public void ChangePattern(Sprite newSpritePattern)
-    {
-        _pattern.sprite = newSpritePattern;
     }
 }

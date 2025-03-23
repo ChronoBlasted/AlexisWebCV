@@ -6,7 +6,7 @@ public class QuestLayout : MonoBehaviour
 {
     [SerializeField] TMP_Text _questName, _questAmount;
     [SerializeField] Slider _questSlider;
-    [SerializeField] Image _rewardIco;
+    [SerializeField] Image _questIco, _rewardIco;
 
     QuestData data;
 
@@ -29,6 +29,7 @@ public class QuestLayout : MonoBehaviour
             _questSlider.value = data.Amount;
         }
 
+        _questIco.sprite = data.QuestIco;
         _rewardIco.sprite = data.RewardSprite;
     }
 }

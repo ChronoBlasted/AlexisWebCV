@@ -23,12 +23,12 @@ MonoBehaviour:
     m_Localized: ErrorMsg
     m_Metadata:
       m_Items: []
-  - m_Id: 66380500992
-    m_Localized: Exp
+  - m_Id: 3654673338077184
+    m_Localized: Last events
     m_Metadata:
       m_Items: []
-  - m_Id: 119522332672
-    m_Localized: Life
+  - m_Id: 3654429632237568
+    m_Localized: Upcoming events
     m_Metadata:
       m_Items: []
   - m_Id: 156386070528
@@ -152,6 +152,66 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2911991716253696
     m_Localized: Other projects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3653405852962816
+    m_Localized: Contact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3653588904972288
+    m_Localized: <b>Alexis Gelin</b> <style=c2>UI / Gameplay developer </style>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3655865728372736
+    m_Localized: Tap to continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656625329410048
+    m_Localized: Change language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656881978871808
+    m_Localized: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657026292289536
+    m_Localized: Games shipped
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657199886143488
+    m_Localized: Total year experience
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657373756821504
+    m_Localized: Total projects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657631299670016
+    m_Localized: Total applications
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658167214280704
+    m_Localized: <out of range>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658314652454912
+    m_Localized: Full name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658501886185472
+    m_Localized: Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658571415162880
+    m_Localized: Telephone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658655368351744
+    m_Localized: E-Mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658772074860544
+    m_Localized: Quests
     m_Metadata:
       m_Items: []
   references:

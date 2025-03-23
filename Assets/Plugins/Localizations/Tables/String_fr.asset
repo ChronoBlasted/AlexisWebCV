@@ -23,12 +23,12 @@ MonoBehaviour:
     m_Localized: ErrorMsg
     m_Metadata:
       m_Items: []
-  - m_Id: 66380500992
-    m_Localized: Exp
+  - m_Id: 3654673338077184
+    m_Localized: "\xC9v\xE9nements pass\xE9s"
     m_Metadata:
       m_Items: []
-  - m_Id: 119522332672
-    m_Localized: Life
+  - m_Id: 3654429632237568
+    m_Localized: "\xC9v\xE9nements \xE0 venir"
     m_Metadata:
       m_Items: []
   - m_Id: 156386070528
@@ -151,6 +151,66 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2911991716253696
     m_Localized: Autres projets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3653405852962816
+    m_Localized: Contact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3653588904972288
+    m_Localized: <b>Alexis Gelin</b> <style=c2>Devellopeur UI / Gameplay</style>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3655865728372736
+    m_Localized: Appuie pour continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656625329410048
+    m_Localized: Choisis une langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656881978871808
+    m_Localized: Profil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657026292289536
+    m_Localized: "Jeux d\xE9livr\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657199886143488
+    m_Localized: "Ann\xE9e d'exp\xE9rience"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657373756821504
+    m_Localized: Projets totales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3657631299670016
+    m_Localized: Total des candidatures
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658167214280704
+    m_Localized: <trop>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658314652454912
+    m_Localized: "Pr\xE9nom Nom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658501886185472
+    m_Localized: Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658571415162880
+    m_Localized: "T\xE9l\xE9phone"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658655368351744
+    m_Localized: E-Mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658772074860544
+    m_Localized: "Qu\xEAtes"
     m_Metadata:
       m_Items: []
   references:

@@ -3,8 +3,8 @@ guid: 82015e4efd0b2bc4486827e06520439e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4173752292076599080
-    second: GameCamp2024-1 - Copie_0
+      213: 7046285208136578863
+    second: GameCamp2024_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -137,7 +137,29 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: GameCamp2024_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 196
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27f111601f69c160800000000000000
+      internalID: 7046285208136578863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []

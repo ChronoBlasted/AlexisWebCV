@@ -108,4 +108,9 @@ public class EventLayout : MonoBehaviour
         return result.Trim();
     }
 
+    public void HandleOnClick()
+    {
+        Application.OpenURL(_data.EventLink);
+    }
+
 }
