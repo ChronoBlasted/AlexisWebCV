@@ -11,6 +11,6 @@ public class AttributeLayout : MonoBehaviour
     public void Init(Attribute newAttributeName)
     {
         _name.text = LocalizationManager.Instance.GetStringByAttribute(newAttributeName);
-        _bg.color = ColorManager.Instance.GetColorByAttribute(newAttributeName);
+        _bg.sprite = ColorManager.Instance.GetSpriteByAttribute(newAttributeName);
     }
 }

@@ -36,11 +36,12 @@ MonoBehaviour:
   Animation: {fileID: 7400000, guid: 66b0e440f2610bd49b81f0af5c3cfa57, type: 2}
   ItchURL: https://shiroteaneko.itch.io/tools-of-enigma
   Attribute: 8
-  Contributors:
+  Collaborators:
   - {fileID: 11400000, guid: 53b1a35f778fd2d4a9ae1853bc84381a, type: 2}
   - {fileID: 11400000, guid: cdef4fd829505494996393bc4291fa42, type: 2}
   - {fileID: 11400000, guid: 37d57936a472c334fb5816071f1cab41, type: 2}
   - {fileID: 11400000, guid: f2c9cb38e2be62f429d3335ed6d5de52, type: 2}
+  - {fileID: 11400000, guid: 1100481946b7e1342a71dd6f7d2766f4, type: 2}
   - {fileID: 11400000, guid: f172dce6b87a69b4bb2805cdfdb7c7aa, type: 2}
   references:
     version: 2

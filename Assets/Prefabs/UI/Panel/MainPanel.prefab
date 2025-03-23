@@ -1195,7 +1195,7 @@ MonoBehaviour:
     m_Left: 32
     m_Right: 32
     m_Top: 32
-    m_Bottom: 0
+    m_Bottom: 32
   m_ChildAlignment: 0
   m_Spacing: 16
   m_ChildForceExpandWidth: 0
@@ -1502,7 +1502,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 38.1
+  m_fontSize: 46.75
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2640,7 +2640,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335393056509708311, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
       propertyPath: m_Alpha
-      value: 1
+      value: 0.85
       objectReference: {fileID: 0}
     - target: {fileID: 3335393056509708311, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
       propertyPath: m_Interactable
@@ -2768,7 +2768,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b66f24f08482100488d144748e65fb6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _pattern: {fileID: 0}
   _canvasGroup: {fileID: 58068485944209969}
   _settingMenu: {fileID: 5578316281079279457}
   _expLayout:
@@ -2785,10 +2784,10 @@ PrefabInstance:
     - target: {fileID: 1364234286022044506, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 221db54c6537e4c20bbbd4071f86e4fd, type: 3}
+      objectReference: {fileID: 21300000, guid: b570928da823f4d96842cdc283f0b8ae, type: 3}
     - target: {fileID: 2290170074978175360, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: m_fontSize
-      value: 35.4
+      value: 36
       objectReference: {fileID: 0}
     - target: {fileID: 2290170074978175360, guid: e2e0650e65435dd42aa48765d30c2c9b, type: 3}
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'

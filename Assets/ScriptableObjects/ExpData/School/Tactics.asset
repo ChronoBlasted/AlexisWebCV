@@ -36,7 +36,7 @@ MonoBehaviour:
   Animation: {fileID: 7400000, guid: 3027ce2e8d93d344c8727f65e27c69d3, type: 2}
   ItchURL: https://alexisgelin.itch.io/tactics
   Attribute: 5
-  Contributors:
+  Collaborators:
   - {fileID: 11400000, guid: 1029624b00dce274e8be435856c73dea, type: 2}
   references:
     version: 2

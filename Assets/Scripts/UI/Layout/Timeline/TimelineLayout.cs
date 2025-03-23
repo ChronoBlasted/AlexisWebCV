@@ -8,7 +8,7 @@ public class TimelineLayout : MonoBehaviour
 {
     [SerializeField] TMP_Text _title, _date, _desc;
     [SerializeField] Transform _attributeContainer, _contributorContainer;
-    [SerializeField] Animator _animator;
+    [SerializeField] ExpLayout _expLayout;
     [SerializeField] TMP_Text _contributorTitle;
     [SerializeField] AttributeLayout _attributeLayoutPrefab;
     [SerializeField] ContributorLayout _contributorLayoutPrefab;
@@ -23,6 +23,10 @@ public class TimelineLayout : MonoBehaviour
 
         _title.text = _data.Name.GetLocalizedString();
         _desc.text = _data.Desc.GetLocalizedString();
+
+        _expLayout.SetData(_data);
+
+        _expLayout.SetColor();
 
         if (DateTime.TryParse(_data.EndTime, out DateTime date))
         {
@@ -68,10 +72,5 @@ public class TimelineLayout : MonoBehaviour
     public void HandleOnClick()
     {
         Application.OpenURL(_data.ItchURL);
-    }
-
-    private void OnEnable()
-    {
-        _animator.Play(_data.Animation.name);
     }
 }

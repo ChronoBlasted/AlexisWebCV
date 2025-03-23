@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class ContributorLayout : MonoBehaviour
 {
     [SerializeField] TMP_Text _name;
-    [SerializeField] Image _ico, _bg;
+    [SerializeField] Image _ico, _bg, _leftMask;
 
     CollaboratorData _data;
     public void Init(CollaboratorData newContributor)
@@ -28,11 +28,12 @@ public class ContributorLayout : MonoBehaviour
         }
 
         _bg.color = ColorManager.Instance.GetColorByRole(_data.Role);
-        _name.text = _data.Name;
+        _leftMask.color = ColorManager.Instance.GetSecondColorByRole(_data.Role);
+        _name.text = _data.FirstName + " " + _data.LastName;
     }
 
     public void HandleOnClick()
     {
-        Application.OpenURL(_data.LinkedinURL);
+        Application.OpenURL("https://www.linkedin.com/search/results/all/?keywords=" + _data.FirstName + "%20" + _data.LastName);
     }
 }

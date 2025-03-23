@@ -5,11 +5,11 @@ using UnityEngine.UI;
 public class FriendLayout : MonoBehaviour
 {
     [SerializeField] TMP_Text _name, _amountCollaboration;
-    [SerializeField] Image _ico, _bg;
+    [SerializeField] Image _ico, _bg,_leftMask;
 
     CollaboratorData _data;
 
-    public void Init(CollaboratorData newContributor)
+    public void Init(CollaboratorData newContributor, int amountCollab)
     {
         _data = newContributor;
 
@@ -29,13 +29,15 @@ public class FriendLayout : MonoBehaviour
         }
 
         _bg.color = ColorManager.Instance.GetColorByRole(_data.Role);
-        _name.text = _data.Name;
+        _leftMask.color = ColorManager.Instance.GetSecondColorByRole(_data.Role);
 
-        _amountCollaboration.text = "0";
+        _name.text = _data.FirstName + " " + _data.LastName;
+
+        _amountCollaboration.text = amountCollab.ToString();
     }
 
     public void HandleOnClick()
     {
-        Application.OpenURL(_data.LinkedinURL);
+        Application.OpenURL("https://www.linkedin.com/search/results/all/?keywords=" + _data.FirstName + "%20" + _data.LastName);
     }
 }

@@ -6,9 +6,9 @@ using UnityEngine;
 public class ColorManager : MonoSingleton<ColorManager>
 {
     [SerializeField] Color _activeColor, _inactiveColor;
-    [SerializeField] Color _devColor, _artistColor, _marketColor;
-    [SerializeField] Color _hardColor, _softColor, _passionColor;
-    [SerializeField] Color _leadDevColor, _solodevColor, _bigProjectColor, _onlyDevColor;
+    [SerializeField] Color _orangeColor, _blueColor, _greenColor;
+    [SerializeField] Color _orangeGlowColor, _blueGlowColor, _purpleGlowColor, _greenGlowColor;
+    [SerializeField] Sprite _leadDevSprite, _solodevSprite, _bigProjectSprite, _onlyDevSprite;
 
     public Color ActiveColor { get => _activeColor; }
     public Color InactiveColor { get => _inactiveColor; }
@@ -18,45 +18,89 @@ public class ColorManager : MonoSingleton<ColorManager>
         switch (role)
         {
             case Role.Dev:
-                return _devColor;
+                return _blueColor;
             case Role.Artist:
-                return _artistColor;
+                return _greenColor;
             case Role.Market:
-                return _marketColor;
+                return _orangeColor;
         }
 
         return Color.white;
     }
 
-    public Color GetColorBySkills(Skills skills)
+    public Color GetSecondColorByRole(Role role)
+    {
+        switch (role)
+        {
+            case Role.Dev:
+                return _blueGlowColor;
+            case Role.Artist:
+                return _greenGlowColor;
+            case Role.Market:
+                return _orangeGlowColor;
+        }
+
+        return Color.white;
+    }
+
+    public Color GetGlowColorBySkills(Skills skills)
     {
         switch (skills)
         {
             case Skills.Hard:
-                return _hardColor;
+                return _orangeGlowColor;
             case Skills.Soft:
-                return _softColor;
+                return _purpleGlowColor;
             case Skills.Passion:
-                return _passionColor;
+                return _greenGlowColor;
         }
 
         return Color.white;
     }
 
-    public Color GetColorByAttribute(Attribute attribute)
+    public Color GetColorByExp(ExpType expType)
+    {
+        switch (expType)
+        {
+            case ExpType.PRO:
+                return _blueColor;
+            case ExpType.JAMS:
+                return _greenColor;
+            case ExpType.SCHOOL:
+                return _orangeColor;
+        }
+
+        return Color.white;
+    }
+    public Color GetGlowColorByExp(ExpType expType)
+    {
+        switch (expType)
+        {
+            case ExpType.PRO:
+                return _blueGlowColor;
+            case ExpType.SCHOOL:
+                return _orangeGlowColor;
+            case ExpType.JAMS:
+                return _greenGlowColor;
+        }
+
+        return Color.white;
+    }
+
+    public Sprite GetSpriteByAttribute(Attribute attribute)
     {
         switch (attribute)
         {
             case Attribute.LeadDev:
-                return _leadDevColor;
+                return _leadDevSprite;
             case Attribute.Solodev:
-                return _solodevColor;
+                return _solodevSprite;
             case Attribute.OnlyDev:
-                return _onlyDevColor;
+                return _onlyDevSprite;
             case Attribute.BigProject:
-                return _bigProjectColor;
+                return _bigProjectSprite;
         }
 
-        return Color.white;
+        return null;
     }
 }

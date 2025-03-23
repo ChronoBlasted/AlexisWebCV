@@ -417,7 +417,7 @@ MonoBehaviour:
     m_Left: 16
     m_Right: 16
     m_Top: 256
-    m_Bottom: 192
+    m_Bottom: 256
   m_ChildAlignment: 1
   m_Spacing: 32
   m_ChildForceExpandWidth: 0
@@ -679,7 +679,7 @@ MonoBehaviour:
     m_Left: 16
     m_Right: 16
     m_Top: 16
-    m_Bottom: 8
+    m_Bottom: 32
   m_ChildAlignment: 4
   m_Spacing: 16
   m_ChildForceExpandWidth: 0
@@ -1187,7 +1187,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335393056509708311, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
       propertyPath: m_Alpha
-      value: 1
+      value: 0.88
       objectReference: {fileID: 0}
     - target: {fileID: 3335393056509708311, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
       propertyPath: m_Interactable
@@ -2540,6 +2540,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5601271634874804048}
     m_Modifications:
+    - target: {fileID: 3225709265015016163, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 53a1ea3f1d6424c05b8510d75554f3f5, type: 3}
     - target: {fileID: 3590114203601952739, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2638,7 +2642,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8062450073576808466, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
       propertyPath: m_fontSize
-      value: 24.35
+      value: 33.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2877,7 +2881,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8062450073576808466, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
       propertyPath: m_fontSize
-      value: 28.7
+      value: 31.45
       objectReference: {fileID: 0}
     - target: {fileID: 8062450073576808466, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
       propertyPath: m_fontStyle

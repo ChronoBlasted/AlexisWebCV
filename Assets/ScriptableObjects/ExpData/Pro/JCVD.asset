@@ -36,12 +36,13 @@ MonoBehaviour:
   Animation: {fileID: 7400000, guid: e30542aa6de55f049bbf29b2c4aacfde, type: 2}
   ItchURL: https://alexisgelin.itch.io/jean-claude-vandamme-dawn-of-the-chihuahuas
   Attribute: 8
-  Contributors:
+  Collaborators:
   - {fileID: 11400000, guid: 27c8674525a7cfc4a8f4f1400a107a41, type: 2}
   - {fileID: 11400000, guid: ba4676d8c106bad43968b1cafc3cd3a2, type: 2}
-  - {fileID: 11400000, guid: 00298bf15860bf743ae03f20198a0888, type: 2}
+  - {fileID: 11400000, guid: 00f408c8b8e62b74ab66ad2bc21aa78c, type: 2}
   - {fileID: 11400000, guid: b9f95f29547ab704f80cc4a9ff5c1e9f, type: 2}
   - {fileID: 11400000, guid: 6ddfbfeb468ce0941b51c54784794ff2, type: 2}
+  - {fileID: 11400000, guid: 00298bf15860bf743ae03f20198a0888, type: 2}
   references:
     version: 2
     RefIds: []

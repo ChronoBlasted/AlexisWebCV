@@ -30,12 +30,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 7953820069764883250}
+  m_Father: {fileID: 1998495110546813431}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -36}
+  m_SizeDelta: {x: 16, y: 88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &796980126614089781
 CanvasRenderer:
@@ -148,6 +148,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _title: {fileID: 6421885404501272948}
   _animator: {fileID: 8110169993508468332}
+  _glow: {fileID: 6500226697253264823}
+  _fade: {fileID: 4012481023302949404}
+  _bg: {fileID: 866693031091526240}
   _data: {fileID: 0}
   _yearTrad:
     m_TableReference:
@@ -176,6 +179,9 @@ MonoBehaviour:
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
+  _proBG: {fileID: 21300000, guid: 91d37967864564f818aaf9326fcf0302, type: 3}
+  _jamBG: {fileID: 21300000, guid: 08be456a6ddbf458784cf3a37e52822f, type: 3}
+  _schoolBG: {fileID: 21300000, guid: 284f99482071f47839549747513b612b, type: 3}
   references:
     version: 2
     RefIds: []
@@ -379,7 +385,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 946211919980329935}
   - {fileID: 1998495110546813431}
   - {fileID: 2129293903263346043}
   m_Father: {fileID: 2250665824168634254}
@@ -417,7 +422,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 91d37967864564f818aaf9326fcf0302, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 08be456a6ddbf458784cf3a37e52822f, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -426,7 +431,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 2
+  m_PixelsPerUnitMultiplier: 1.3
 --- !u!1 &6369188397501470743
 GameObject:
   m_ObjectHideFlags: 0
@@ -458,6 +463,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 946211919980329935}
   - {fileID: 1628603157592730544}
   - {fileID: 2230002780767399054}
   m_Father: {fileID: 7953820069764883250}
@@ -741,7 +747,7 @@ MonoBehaviour:
   m_fontSizeMax: 36
   m_fontStyle: 1
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_VerticalAlignment: 4096
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0

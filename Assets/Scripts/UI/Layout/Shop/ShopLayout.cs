@@ -35,7 +35,7 @@ public class ShopLayout : MonoBehaviour
 
         }
 
-        _glow.color = ColorManager.Instance.GetColorBySkills((Skills)_data.Type);
+        _glow.color = ColorManager.Instance.GetGlowColorBySkills((Skills)_data.Type);
 
         _nameTxt.text = _data.Name.GetLocalizedString();
     }

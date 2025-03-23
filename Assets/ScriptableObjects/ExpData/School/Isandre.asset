@@ -36,7 +36,7 @@ MonoBehaviour:
   Animation: {fileID: 7400000, guid: d821b9f1190cb004497bcf65e52ea387, type: 2}
   ItchURL: https://alexisgelin.itch.io/isandre
   Attribute: 5
-  Contributors:
+  Collaborators:
   - {fileID: 11400000, guid: bb4bfeae1cec87e458877083578b53e2, type: 2}
   references:
     version: 2

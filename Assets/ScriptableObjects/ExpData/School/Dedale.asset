@@ -36,14 +36,15 @@ MonoBehaviour:
   Animation: {fileID: 7400000, guid: 02ce8b4ec60f953489f426c231078ef4, type: 2}
   ItchURL: https://alexisgelin.itch.io/dedale
   Attribute: 9
-  Contributors:
+  Collaborators:
   - {fileID: 11400000, guid: 00f408c8b8e62b74ab66ad2bc21aa78c, type: 2}
-  - {fileID: 11400000, guid: d2e57856a7e465e4c90c274201ecc5cf, type: 2}
   - {fileID: 11400000, guid: 5ae679ec727828540a7a85c68b39141d, type: 2}
+  - {fileID: 11400000, guid: d2e57856a7e465e4c90c274201ecc5cf, type: 2}
   - {fileID: 11400000, guid: 6ddfbfeb468ce0941b51c54784794ff2, type: 2}
   - {fileID: 11400000, guid: c485ae47deda97441a1764daff62b00f, type: 2}
-  - {fileID: 11400000, guid: 00764d3080f1fcf40835aef1934cc741, type: 2}
   - {fileID: 11400000, guid: c9ef2852dcf75a24f9bb2aa998ddecb8, type: 2}
+  - {fileID: 11400000, guid: 00764d3080f1fcf40835aef1934cc741, type: 2}
+  - {fileID: 11400000, guid: 99f2b9fa6609a884688961c52c5b98be, type: 2}
   references:
     version: 2
     RefIds: []
