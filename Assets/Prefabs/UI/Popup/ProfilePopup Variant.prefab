@@ -3219,6 +3219,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2358265937312687219}
     m_Modifications:
+    - target: {fileID: 4378776080168890204, guid: 3985bc4329e2ee448932c53db37ff801, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 804461bef59b141dba258fc997c8ca15, type: 3}
     - target: {fileID: 5356779021545625217, guid: 3985bc4329e2ee448932c53db37ff801, type: 3}
       propertyPath: m_text
       value: Linkedin
@@ -3417,6 +3421,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2358265937312687219}
     m_Modifications:
+    - target: {fileID: 4378776080168890204, guid: 3985bc4329e2ee448932c53db37ff801, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 804461bef59b141dba258fc997c8ca15, type: 3}
     - target: {fileID: 5356779021545625217, guid: 3985bc4329e2ee448932c53db37ff801, type: 3}
       propertyPath: m_text
       value: Itch.io

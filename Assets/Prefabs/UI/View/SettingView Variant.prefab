@@ -104,6 +104,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   _type: 1
+  _audioName: Click
   _rt: {fileID: 2140348171189508271}
   _timeOfScale: 0.2
 --- !u!1 &82302055149648322
@@ -1050,6 +1051,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
+  _audioName: Click
   _rt: {fileID: 5448496291197211692}
   _timeOfScale: 0.2
 --- !u!1 &937042193001529191
@@ -1360,6 +1362,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
+  _audioName: Click
   _rt: {fileID: 4850353890071524742}
   _timeOfScale: 0.2
 --- !u!1 &2449647829520690144
@@ -2374,6 +2377,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
+  _audioName: Switch
   _rt: {fileID: 6758898872065127561}
   _timeOfScale: 0.2
 --- !u!114 &141421981864643712
@@ -2881,6 +2885,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
+  _audioName: Switch
   _rt: {fileID: 2317849629435210894}
   _timeOfScale: 0.2
 --- !u!114 &4078567508367115723

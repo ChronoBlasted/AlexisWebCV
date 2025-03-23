@@ -140,7 +140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ac018b701a4d53e4c83da1c5e470cec7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 56a70182a4a9c4ac88610b9ee0faacf8, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -234,6 +234,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   _type: 1
+  _audioName: Back
   _rt: {fileID: 1512074958427544450}
   _timeOfScale: 0.2
 --- !u!114 &2034785593729695993

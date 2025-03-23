@@ -17,7 +17,7 @@ public class SwitchButtonLayout : MonoBehaviour
         _switchBG.sprite = _switchBGOn;
 
         _switchTween.Kill(true);
-        _switchTween = _switchIco.rectTransform.DOLocalMoveX(32, .2f);
+        _switchTween = _switchIco.rectTransform.DOLocalMoveX(32, .1f);
     }
 
     public void SetOff()
@@ -25,6 +25,6 @@ public class SwitchButtonLayout : MonoBehaviour
         _switchBG.sprite = _switchBGOff;
 
         _switchTween.Kill(true);
-        _switchTween = _switchIco.rectTransform.DOLocalMoveX(-32, .2f);
+        _switchTween = _switchIco.rectTransform.DOLocalMoveX(-32, .1f);
     }
 }
