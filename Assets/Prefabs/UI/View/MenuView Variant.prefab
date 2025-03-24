@@ -769,7 +769,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8034972853944443502, guid: 1fa1638a4bdd46344aad9a22da22ad19, type: 3}
       propertyPath: m_fontSize
-      value: 32.4
+      value: 34.9
       objectReference: {fileID: 0}
     - target: {fileID: 8131788927203890688, guid: 1fa1638a4bdd46344aad9a22da22ad19, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1145,9 +1145,21 @@ PrefabInstance:
       value: ShopTab
       objectReference: {fileID: 0}
     - target: {fileID: 2358894834846662903, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2358894834846662903, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2358894834846662903, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 2141915819300358275}
+    - target: {fileID: 2358894834846662903, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 2883922448590183732, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
       propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
       value: 30958566117376
@@ -1472,6 +1484,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 110259428253975395, guid: b11e2481e64d73d4888b7a33fae8618b, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 134795295967378307, guid: b11e2481e64d73d4888b7a33fae8618b, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1629,8 +1645,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2535428035922790917, guid: b11e2481e64d73d4888b7a33fae8618b, type: 3}
+      propertyPath: m_text
+      value: <b>Alexis Gelin</b> <style=c2>Devellopeur UI / Gameplay</style>
+      objectReference: {fileID: 0}
+    - target: {fileID: 2535428035922790917, guid: b11e2481e64d73d4888b7a33fae8618b, type: 3}
       propertyPath: m_fontSize
-      value: 35.2
+      value: 51.4
       objectReference: {fileID: 0}
     - target: {fileID: 2817681783446908198, guid: b11e2481e64d73d4888b7a33fae8618b, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2733,6 +2753,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1718290104812506723, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
+      propertyPath: m_text
+      value: Soutenir
+      objectReference: {fileID: 0}
     - target: {fileID: 1761997772833461408, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -2756,6 +2780,14 @@ PrefabInstance:
     - target: {fileID: 1761997772833461408, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2692612956550756100, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
+      propertyPath: m_text
+      value: "Comp\xE9tences comportementales"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2692612956550756100, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
+      propertyPath: m_fontSize
+      value: 25.05
       objectReference: {fileID: 0}
     - target: {fileID: 2746489610891243419, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
       propertyPath: m_Alpha
@@ -2841,6 +2873,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3087818794617788977, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
+      propertyPath: m_text
+      value: Passions
+      objectReference: {fileID: 0}
     - target: {fileID: 3191893505966250247, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
       propertyPath: m_Name
       value: ShopPanel
@@ -2917,6 +2953,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4071289391090772652, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
+      propertyPath: m_text
+      value: "Comp\xE9tences techniques"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4071289391090772652, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
+      propertyPath: m_fontSize
+      value: 26.65
+      objectReference: {fileID: 0}
     - target: {fileID: 4191140801831556976, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -2940,6 +2984,10 @@ PrefabInstance:
     - target: {fileID: 4191140801831556976, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758375700034591363, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
+      propertyPath: m_text
+      value: "Soutiens un cr\xE9ateur"
       objectReference: {fileID: 0}
     - target: {fileID: 4880472312004846696, guid: c424c2a80a892674eb96e5a776e0907a, type: 3}
       propertyPath: m_AnchorMax.y
@@ -3541,9 +3589,17 @@ PrefabInstance:
       value: MainTab
       objectReference: {fileID: 0}
     - target: {fileID: 2358894834846662903, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2358894834846662903, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 2141915819300358275}
+    - target: {fileID: 2358894834846662903, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 2358894834846662903, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ChangeTab
@@ -3641,7 +3697,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3983473183555839123, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d24f8a8b07685bc4cbc86b098526c476, type: 3}

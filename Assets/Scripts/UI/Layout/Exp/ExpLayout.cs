@@ -55,7 +55,8 @@ public class ExpLayout : MonoBehaviour
 
     public void HandleOnClick()
     {
-        Application.OpenURL(_data.ItchURL);
+        UIManager.Instance.ConfirmPopup.UpdateData(LocalizationManager.Instance.OpenURL.GetLocalizedString(), LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(), () => Application.OpenURL(_data.ItchURL));
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
     }
 
 

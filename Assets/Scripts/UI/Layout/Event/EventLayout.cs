@@ -110,7 +110,7 @@ public class EventLayout : MonoBehaviour
 
     public void HandleOnClick()
     {
-        Application.OpenURL(_data.EventLink);
+        UIManager.Instance.ConfirmPopup.UpdateData(LocalizationManager.Instance.OpenURL.GetLocalizedString(), LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(), () => Application.OpenURL(_data.EventLink));
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
     }
-
 }

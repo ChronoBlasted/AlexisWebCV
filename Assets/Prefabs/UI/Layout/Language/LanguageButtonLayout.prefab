@@ -87,7 +87,7 @@ MonoBehaviour:
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: 2429
+  m_TextStyleHashCode: -1183493901
   m_overrideHtmlColors: 0
   m_faceColor:
     serializedVersion: 2
@@ -308,6 +308,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
+  _audioName: Click
   _rt: {fileID: 663103959738096495}
   _timeOfScale: 0.2
 --- !u!114 &1751956240379073005

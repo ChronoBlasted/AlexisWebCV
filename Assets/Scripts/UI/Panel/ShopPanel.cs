@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 
 public class ShopPanel : Panel
 {
     [SerializeField] List<ShopLayout> _hardShopLayouts, _softShopLayouts, _passionShopLayouts;
     [SerializeField] List<StoreData> _hardShopData, _softShopData, _passionShopData;
 
+    [SerializeField] LocalizedString _supportCreator, _enterCreator, _creatorName, _errorCreator;
     public override void Init()
     {
         base.Init();
@@ -36,7 +38,7 @@ public class ShopPanel : Panel
 
     public void HandleOnSupportCreator()
     {
-        UIManager.Instance.ConfirmPopup.UpdateDataWithInputField("Support a creator", "Enter a creator name", "Creator name", IsCreatorValid);
+        UIManager.Instance.ConfirmPopup.UpdateDataWithInputField(_supportCreator.GetLocalizedString(), _enterCreator.GetLocalizedString(), _creatorName.GetLocalizedString(), IsCreatorValid);
         UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
     }
 
@@ -44,11 +46,23 @@ public class ShopPanel : Panel
     {
         if (creator == "Veemo")
         {
-            UIManager.Instance.ErrorView.AddError("! TIABINA !");
+            UIManager.Instance.ErrorView.AddMessage("! TIABINA !");
+        }
+        else if (creator == "Clarisse" || creator == "Mortifera")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! JE T'AIME !");
+        }
+        else if (creator == "Marius")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! WORLD SKILLS !");
+        }
+        else if (creator == "Emie")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! BM-EMI-X !");
         }
         else
         {
-            UIManager.Instance.ErrorView.AddError("This creator doesn't exist");
+            UIManager.Instance.ErrorView.AddError(_errorCreator.GetLocalizedString());
         }
     }
 }

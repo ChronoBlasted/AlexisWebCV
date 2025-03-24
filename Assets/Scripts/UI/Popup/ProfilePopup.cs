@@ -61,12 +61,22 @@ public class ProfilePopup : Popup
 
     public void HandleOnAlexisGelin()
     {
-        Application.OpenURL("https://www.google.com/search?sca_esv=d2a9abe7b60a3dd2&sxsrf=AHTn8zryeSuyQNva5do30fqSdSk72CLx7g:1742077948499&q=Alexis+gelin&udm=2&fbs=ABzOT_BnMAgCWdhr5zilP5f1cnRvJ3SHQcDVxkdpDyHwlRhdNfno-ClRh0PKqyvFYyTkfIfJOoyi6rL2ScSJ67dNoiLlma6nffqoENgGX1Qo-QK1HEFg3ItZnm6x0TVwu0vcGVLvKsTHoTPzsjl_vfkMTseLPtEAPAxx8yNBq8YShV_TbB2QQ98UL-rud6c8jEJL-mQnahUL&sa=X&ved=2ahUKEwiGi6qKko2MAxWNLPsDHVqqMNUQtKgLegQIExAB&biw=1436&bih=1144&dpr=1#vhid=QXBJ5uHXwuMqoM&vssid=mosaic");
+        UIManager.Instance.ConfirmPopup.UpdateData(
+            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
+            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
+            () => Application.OpenURL("https://www.google.com/search?sca_esv=d2a9abe7b60a3dd2&sxsrf=AHTn8zryeSuyQNva5do30fqSdSk72CLx7g:1742077948499&q=Alexis+gelin&udm=2&fbs=ABzOT_BnMAgCWdhr5zilP5f1cnRvJ3SHQcDVxkdpDyHwlRhdNfno-ClRh0PKqyvFYyTkfIfJOoyi6rL2ScSJ67dNoiLlma6nffqoENgGX1Qo-QK1HEFg3ItZnm6x0TVwu0vcGVLvKsTHoTPzsjl_vfkMTseLPtEAPAxx8yNBq8YShV_TbB2QQ98UL-rud6c8jEJL-mQnahUL&sa=X&ved=2ahUKEwiGi6qKko2MAxWNLPsDHVqqMNUQtKgLegQIExAB&biw=1436&bih=1144&dpr=1#vhid=QXBJ5uHXwuMqoM&vssid=mosaic"));
+
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
     }
 
     public void HandleOnAgeClick()
     {
-        Application.OpenURL("https://codepen.io/ggglll/full/oJbMja");
+        UIManager.Instance.ConfirmPopup.UpdateData(
+            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
+            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
+            () => Application.OpenURL("https://codepen.io/ggglll/full/oJbMja"));
+
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
     }
 
     public void HandleOnTelephone()
@@ -81,11 +91,23 @@ public class ProfilePopup : Popup
 
     public void HandleOnLinkedin()
     {
-        Application.OpenURL("https://www.linkedin.com/in/gelin-alexis/");
+        UIManager.Instance.ConfirmPopup.UpdateData(
+            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
+            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
+            () => Application.OpenURL("https://www.linkedin.com/in/gelin-alexis/"));
+
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
     }
 
     public void HandleOnItchio()
     {
-        Application.OpenURL("https://alexisgelin.itch.io/");
+        UIManager.Instance.ConfirmPopup.UpdateData(
+            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
+            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
+            () => Application.OpenURL("https://alexisgelin.itch.io/"));
+
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
+
+        
     }
 }

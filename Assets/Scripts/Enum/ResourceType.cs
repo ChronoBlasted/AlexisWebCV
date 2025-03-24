@@ -20,6 +20,8 @@ public enum ResourceType
     Dev = 411,
     Artist = 412,
     Market = 413,
+
+    Chat = 414,
 }
 
 public enum Skills

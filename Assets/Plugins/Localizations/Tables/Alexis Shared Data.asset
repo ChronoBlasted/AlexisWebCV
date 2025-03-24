@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Alexis Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Alexis
+  m_TableCollectionNameGuidString: e2092943b4c497c45af0cb5ee3274d62
+  m_Entries:
+  - m_Id: 6537224192
+    m_Key: EatPizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114234368000
+    m_Key: LikeTFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 309454053376
+    m_Key: YouAreInMyPorto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359840227328
+    m_Key: Hello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 711276765184
+    m_Key: AlexisIsBusy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6750030143488
+    m_Key: RefreshPage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6936274018304
+    m_Key: ChangeLanguageInSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7110480240640
+    m_Key: MysteryCreator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7340764307456
+    m_Key: AlexisLikeBassHouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7509236916224
+    m_Key: AlexisLikeRanked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8109064331264
+    m_Key: MalAQuiNeProfiteJamais
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8560278023180124305
+  references:
+    version: 2
+    RefIds:
+    - rid: 8560278023180124305
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1742832906046

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Confirm_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: d3d10a9a0d713f0488319be9fdb2101f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10295320576
+    m_Localized: "Soutiens un cr\xE9ateur !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138544553984
+    m_Localized: "Ecris un nom de cr\xE9ateur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326210297856
+    m_Localized: "Nom du cr\xE9ateur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 414911438848
+    m_Localized: "Ce cr\xE9ateur n'\xE9xiste pas !\n<style=c2>(Dans ma base de donn\xE9es)</style>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 950922518528
+    m_Localized: Ouvrir l'URL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051011194880
+    m_Localized: "Tu va \xEAtre redirig\xE9 vers un autre site web, veux-tu continuer
+      ?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

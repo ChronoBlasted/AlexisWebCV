@@ -1,7 +1,4 @@
 using DG.Tweening;
-using System.Collections;
-using System.Collections.Generic;
-using System.Drawing;
 using TMPro;
 using UnityEngine;
 
@@ -10,14 +7,17 @@ public class ErrorLayout : MonoBehaviour
 {
     [SerializeField] TMP_Text errorText;
 
+    [SerializeField] Color _errorColor;
+
     Sequence _tween;
 
-    public void Init(string errorMsg, Transform endTransform)
+    public void Init(string errorMsg, Transform endTransform, bool isError = true)
     {
         RectTransform rectTransform = (RectTransform)gameObject.transform;
         rectTransform.sizeDelta = new Vector2(0, 256);
 
         errorText.alpha = 1;
+        errorText.color = isError ? _errorColor : Color.white;
         transform.localScale = Vector3.one;
         errorText.text = errorMsg;
 

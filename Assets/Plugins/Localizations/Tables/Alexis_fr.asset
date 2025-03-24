@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Alexis_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: e2092943b4c497c45af0cb5ee3274d62, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6537224192
+    m_Localized: Alexis raffole de pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114234368000
+    m_Localized: Alexis passe diamand sur TFT chaque saison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359840227328
+    m_Localized: Bonjour !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 309454053376
+    m_Localized: "Vous \xEAtes dans le portofoglio d'Alexis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 711276765184
+    m_Localized: "Alexis, m'a dit de vous laisser d\xE9couvrir chaque onglet par
+      vous-m\xEAme !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6750030143488
+    m_Localized: Rafraichis la page si tu veux recommencer l'experience
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6936274018304
+    m_Localized: "Tu peux changer de langue dans les param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7110480240640
+    m_Localized: "Il y a plein de cr\xE9ateur \xE0 soutenir !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7340764307456
+    m_Localized: 'Alexis aime les musique bass house '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7509236916224
+    m_Localized: "Alexis adore les mode de jeux comp\xE9titifs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8109064331264
+    m_Localized: Mal a qui, ne profite jamais !
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

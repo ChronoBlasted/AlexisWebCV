@@ -81,7 +81,12 @@ public class SettingView : View
 
     public void HandleJoinDiscord()
     {
-        Application.OpenURL("https://discord.gg/r3xNwZBbhn");
+        UIManager.Instance.ConfirmPopup.UpdateData(
+            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
+            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
+            () => Application.OpenURL("https://discord.gg/nRBRHgN4SY"));
+
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
     }
     public void HandleResetAccount()
     {

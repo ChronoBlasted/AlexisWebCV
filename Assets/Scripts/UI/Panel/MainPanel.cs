@@ -1,12 +1,25 @@
 using DG.Tweening;
 using NUnit.Framework;
+using System;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.Localization;
+using UnityEngine.UI;
+using Random = UnityEngine.Random;
 
 public class MainPanel : Panel
 {
     [SerializeField] CanvasGroup _settingMenu;
     [SerializeField] List<ExpLayout> _expLayout;
+
+    [SerializeField] Transform _characterTransform;
+    [SerializeField] List<LocalizedString> _alexisChatTuto;
+    [SerializeField] List<LocalizedString> _alexisChat;
+    [SerializeField] Transform _spawnChatTransformRight, _spawnChatTransformLeft;
+
+    int indexTuto;
+    bool isCharacterLeftSide;
 
     Tweener _settingFadeTweener;
     public override void Init()
@@ -23,7 +36,12 @@ public class MainPanel : Panel
 
     public void OpenLinkedin()
     {
-        Application.OpenURL("https://www.linkedin.com/in/gelin-alexis/");
+        UIManager.Instance.ConfirmPopup.UpdateData(
+            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
+            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
+            () => Application.OpenURL("https://www.linkedin.com/in/gelin-alexis/"));
+
+        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
     }
 
     public void OpenContactInfo()
@@ -92,5 +110,53 @@ public class MainPanel : Panel
         {
             exp.Init();
         }
+    }
+
+    public void SendChat()
+    {
+        var currentChat = PoolManager.Instance[ResourceType.Chat].Get().GetComponent<ChatLayout>();
+
+        var swapX = Random.Range(0, 2);
+        if (swapX == 0)
+        {
+            _characterTransform.transform.localScale = new Vector3(-1, 1, 1);
+            isCharacterLeftSide = true;
+        }
+        if (swapX == 1)
+        {
+            _characterTransform.transform.localScale = new Vector3(1, 1, 1);
+            isCharacterLeftSide = false;
+        }
+
+        currentChat.transform.parent = isCharacterLeftSide ? _spawnChatTransformLeft : _spawnChatTransformRight;
+        currentChat.transform.localPosition = Vector3.zero;
+
+        currentChat.Init(GetRandomMessage(), !isCharacterLeftSide);
+
+        DOTween.Sequence()
+            .Join(currentChat.transform.DOLocalMoveY(256, 5f).SetEase(Ease.OutSine))
+            .Join(currentChat.Cg.DOFade(0f, 2f).SetDelay(4f))
+            .OnComplete(() =>
+            {
+                PoolManager.Instance[ResourceType.Chat].Release(currentChat.gameObject);
+            });
+    }
+
+    string GetRandomMessage()
+    {
+        string response;
+
+        if (indexTuto < _alexisChatTuto.Count)
+        {
+            response = _alexisChatTuto[indexTuto].GetLocalizedString();
+
+            indexTuto++;
+        }
+        else
+        {
+            response = _alexisChat[Random.Range(0, _alexisChat.Count)].GetLocalizedString();
+        }
+
+        return response;
     }
 }

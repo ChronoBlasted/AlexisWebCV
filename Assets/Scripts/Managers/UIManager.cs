@@ -50,6 +50,8 @@ public class UIManager : MonoSingleton<UIManager>
     {
         InitView();
 
+        _currentView = _loadingView;
+
         ChangeView(_menuView);
     }
 
@@ -58,7 +60,6 @@ public class UIManager : MonoSingleton<UIManager>
         _menuView.Init();
         _errorView.Init();
         _settingView.Init();
-        _loadingView.Init();
         _friendView.Init();
 
         _rewardPopup.Init();

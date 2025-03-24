@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GameCamp2024_0: 7046285208136578863
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,3 +1,4 @@
+using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -33,5 +34,12 @@ public class MenuView : View
     public override void CloseView()
     {
         base.CloseView();
+    }
+
+    public void DoEntrance(float delay)
+    {
+        MainPanel.transform.localScale = new Vector3(.2f, .2f, .2f);
+
+        MainPanel.transform.DOScale(Vector3.one, 1f).SetEase(Ease.OutSine).SetDelay(delay);
     }
 }

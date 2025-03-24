@@ -5,13 +5,9 @@ using UnityEngine;
 
 public class ColorManager : MonoSingleton<ColorManager>
 {
-    [SerializeField] Color _activeColor, _inactiveColor;
     [SerializeField] Color _orangeColor, _blueColor, _greenColor;
     [SerializeField] Color _orangeGlowColor, _blueGlowColor, _purpleGlowColor, _greenGlowColor;
     [SerializeField] Sprite _leadDevSprite, _solodevSprite, _bigProjectSprite, _onlyDevSprite;
-
-    public Color ActiveColor { get => _activeColor; }
-    public Color InactiveColor { get => _inactiveColor; }
 
     public Color GetColorByRole(Role role)
     {

@@ -8,6 +8,8 @@ public class LocalizationManager : MonoSingleton<LocalizationManager>
     [SerializeField] LocalizedString _leadDevTrad;
     [SerializeField] LocalizedString _solodevTrad, _onlyDevTrad, _bigProject;
 
+    public LocalizedString OpenURL, GonnaBeRedirect;
+
     string errorString = "Error";
 
     public string GetStringByAttribute(Attribute attribute)

@@ -207,6 +207,10 @@ MonoBehaviour:
     m_Key: Quest
     m_Metadata:
       m_Items: []
+  - m_Id: 3922081308090368
+    m_Key: Collab
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

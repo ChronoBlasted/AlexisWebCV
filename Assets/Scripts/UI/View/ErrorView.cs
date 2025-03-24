@@ -11,7 +11,7 @@ public class ErrorView : View
     {
     }
 
-    public void AddError(string error)
+    public void AddError(string error, bool isError = true)
     {
         var currentErrorGO = PoolManager.Instance[ResourceType.ErrorMsg].Get();
 
@@ -21,6 +21,11 @@ public class ErrorView : View
 
         currentError.transform.position = _startTransform.position;
 
-        currentError.Init(error, _endTransform);
+        currentError.Init(error, _endTransform, isError);
+    }
+
+    public void AddMessage(string error)
+    {
+        AddError(error, false);
     }
 }

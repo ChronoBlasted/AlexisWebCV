@@ -22,7 +22,7 @@ MonoBehaviour:
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
-  Sprite: {fileID: 21300000, guid: 0933b228a7015c141b69e565eac6dd54, type: 3}
+  Sprite: {fileID: 21300000, guid: 9f49a3f24e85b45a290ce92a5769db89, type: 3}
   Prefab: {fileID: 0}
   references:
     version: 2

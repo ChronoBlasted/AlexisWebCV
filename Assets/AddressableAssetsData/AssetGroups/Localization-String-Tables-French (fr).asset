@@ -22,6 +22,13 @@ MonoBehaviour:
     - Locale-fr
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42600956d4c317f40934dbd49e41fca5
+    m_Address: Alexis_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 495f9e606b2dc6a44b69087f10eb5a0b
     m_Address: Exp_fr
     m_ReadOnly: 1
@@ -45,6 +52,13 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8786ebfbb3e0b4e42bf4d1420f743b11
     m_Address: Store_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dec12dbc8685e447b184b0d0dc9b6cf
+    m_Address: Confirm_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr

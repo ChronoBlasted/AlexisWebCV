@@ -214,6 +214,10 @@ MonoBehaviour:
     m_Localized: Quests
     m_Metadata:
       m_Items: []
+  - m_Id: 3922081308090368
+    m_Localized: Collab
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
