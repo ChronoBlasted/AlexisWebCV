@@ -46,13 +46,7 @@ public class GameManager : MonoSingleton<GameManager>
         }
     }
 
-    void Update()
-    {
-        if (Input.GetKeyUp(KeyCode.R))
-        {
-            ReloadScene();
-        }
-    }
+
     public void ReloadScene()
     {
         DOTween.KillAll();
@@ -62,6 +56,14 @@ public class GameManager : MonoSingleton<GameManager>
     public void QuitApp() => Application.Quit();
 
 #if UNITY_EDITOR
+    void Update()
+    {
+        if (Input.GetKeyUp(KeyCode.R))
+        {
+            ReloadScene();
+        }
+    }
+
     [MenuItem("Tools/Find Missing Scripts")]
     static void FindMissingScriptsInScene()
     {

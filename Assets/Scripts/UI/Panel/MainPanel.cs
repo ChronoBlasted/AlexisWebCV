@@ -108,7 +108,7 @@ public class MainPanel : Panel
     {
         foreach (var exp in _expLayout)
         {
-            exp.Init();
+            exp.Init(false);
         }
     }
 
@@ -128,7 +128,7 @@ public class MainPanel : Panel
             isCharacterLeftSide = false;
         }
 
-        currentChat.transform.parent = isCharacterLeftSide ? _spawnChatTransformLeft : _spawnChatTransformRight;
+        currentChat.transform.SetParent(isCharacterLeftSide ? _spawnChatTransformLeft : _spawnChatTransformRight);
         currentChat.transform.localPosition = Vector3.zero;
 
         currentChat.Init(GetRandomMessage(), !isCharacterLeftSide);

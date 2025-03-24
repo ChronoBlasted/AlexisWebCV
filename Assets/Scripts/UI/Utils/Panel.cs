@@ -6,6 +6,7 @@ using UnityEngine;
 public abstract class Panel : MonoBehaviour
 {
     [SerializeField] CanvasGroup _canvasGroup;
+    public ChronoTweenSequence ChronoTweenSequence;
 
     Tweener _fadeTweener;
 
@@ -33,6 +34,8 @@ public abstract class Panel : MonoBehaviour
             _canvasGroup.blocksRaycasts = true;
             _canvasGroup.interactable = true;
         }).SetUpdate(UpdateType.Normal, true);
+
+        ChronoTweenSequence.Init();
     }
 
     public virtual void ClosePanel()

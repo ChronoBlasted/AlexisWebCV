@@ -6,6 +6,7 @@ using UnityEngine;
 public abstract class View : MonoBehaviour
 {
     [SerializeField] protected CanvasGroup _canvasGroup;
+    public ChronoTweenSequence ChronoTweenSequence;
 
     public virtual void Init()
     {
@@ -27,6 +28,8 @@ public abstract class View : MonoBehaviour
             _canvasGroup.blocksRaycasts = true;
             _canvasGroup.interactable = true;
         }).SetUpdate(UpdateType.Normal, true);
+
+        ChronoTweenSequence.Init();
     }
 
     public virtual void CloseView()

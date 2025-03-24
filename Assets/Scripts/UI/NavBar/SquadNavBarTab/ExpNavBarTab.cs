@@ -13,6 +13,7 @@ public class ExpNavBarTab : NavBarTab
     [SerializeField] Color _inactiveColor;
     [SerializeField] Image _activeBar;
     [SerializeField] ExpType _type;
+    [SerializeField] ChronoTweenSequence _sequence;
 
     public override void HandleOnPress()
     {
@@ -24,6 +25,8 @@ public class ExpNavBarTab : NavBarTab
 
         _tab.gameObject.SetActive(true);
         _header.gameObject.SetActive(true);
+
+        _sequence.Init();
     }
 
     public override void HandleOnReset()

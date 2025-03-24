@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class ExpPanel : Panel
 {
+    public ChronoTweenSequence ProSeq, JamSeq, SchoolSeq;
+
     [SerializeField] NavBar _navBar;
     [SerializeField] Transform _scrollProGames, _scrollJamGames, _scrollSchoolGames;
     [SerializeField] ExpLayout _expLayoutPrefab;
@@ -27,13 +29,14 @@ public class ExpPanel : Panel
 
         _navBar.Init();
 
+        ProSeq.Init();
     }
 
     void InitLayouts()
     {
         foreach (var layout in _expLayoutInDecks)
         {
-            layout.Init();
+            layout.Init(true);
         }
 
         InstantiateLayouts(_proGamesData, _scrollProGames);
@@ -47,7 +50,7 @@ public class ExpPanel : Panel
         {
             var currentExpLayout = Instantiate(_expLayoutPrefab, spawnTransform);
 
-            currentExpLayout.Init(data);
+            currentExpLayout.Init(data,true);
         }
     }
 }

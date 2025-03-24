@@ -13,10 +13,27 @@ public class ExpLayout : MonoBehaviour
     [SerializeField] ExpData _data;
 
     [SerializeField] Sprite _proBG, _jamBG, _schoolBG;
+    [SerializeField] ChronoTweenObject _chronoObject;
 
-    public void Init(ExpData data)
+    public void Init(ExpData data, bool isInExpPanel)
     {
         SetData(data);
+
+        if (isInExpPanel)
+        {
+            switch (_data.ExpType)
+            {
+                case ExpType.PRO:
+                    UIManager.Instance.MenuView.ExpPanel.ProSeq.ObjectsToTween.Add(_chronoObject);
+                    break;
+                case ExpType.JAMS:
+                    UIManager.Instance.MenuView.ExpPanel.JamSeq.ObjectsToTween.Add(_chronoObject);
+                    break;
+                case ExpType.SCHOOL:
+                    UIManager.Instance.MenuView.ExpPanel.SchoolSeq.ObjectsToTween.Add(_chronoObject);
+                    break;
+            }
+        }
 
         _title.text = _data.Name.GetLocalizedString();
 
@@ -47,9 +64,9 @@ public class ExpLayout : MonoBehaviour
         }
     }
 
-    public void Init()
+    public void Init(bool isInExpPanel)
     {
-        Init(_data);
+        Init(_data, isInExpPanel);
     }
 
 

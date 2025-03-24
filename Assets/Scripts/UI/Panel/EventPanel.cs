@@ -12,6 +12,8 @@ public class EventPanel : Panel
     {
         base.Init();
 
+        SortEvent();
+
         foreach (var eventLayout in _eventLayouts)
         {
             eventLayout.Init();
@@ -22,7 +24,6 @@ public class EventPanel : Panel
             eventLayout.Init();
         }
 
-        SortEvent();
     }
 
     public override void OpenPanel()

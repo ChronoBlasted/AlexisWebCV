@@ -383,6 +383,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2602849501355409035, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
       insertIndex: -1
       addedObject: {fileID: 80757753325956012}
+    - targetCorrespondingSourceObject: {fileID: 2602849501355409035, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7798337111406166689}
   m_SourcePrefab: {fileID: 100100000, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
 --- !u!1 &8558236139725086434 stripped
 GameObject:
@@ -402,6 +405,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _canvasGroup: {fileID: 8976353454196713598}
+  ChronoTweenSequence: {fileID: 7798337111406166689}
   _allExp:
   - {fileID: 11400000, guid: eee77e66c8e1aa24db8687d9896d20ba, type: 2}
   - {fileID: 11400000, guid: c488fc94861abe74ca02d6e6dfaf22a7, type: 2}
@@ -425,6 +429,19 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f0c9b4575806ec74fb4d6459e74db58f, type: 2}
   _timelineLayoutPrefab: {fileID: 7717220473005883157, guid: 63c76d5f25ec7304bae1d2846bf24430, type: 3}
   _contentLayout: {fileID: 7551570218076626747}
+--- !u!114 &7798337111406166689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8558236139725086434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b9c8b143b588744eb492d7ba72f59f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObjectsToTween: []
 --- !u!225 &8976353454196713598 stripped
 CanvasGroup:
   m_CorrespondingSourceObject: {fileID: 3335393056509708311, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}

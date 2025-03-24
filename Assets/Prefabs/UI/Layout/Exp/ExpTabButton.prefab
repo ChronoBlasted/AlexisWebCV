@@ -264,6 +264,7 @@ GameObject:
   - component: {fileID: 6937774109156343532}
   - component: {fileID: 5022881711227036954}
   - component: {fileID: 3879870071687448401}
+  - component: {fileID: 2660049466508581020}
   m_Layer: 0
   m_Name: ExpTabButton
   m_TagString: Untagged
@@ -337,6 +338,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   _type: 1
+  _audioName: Click
   _rt: {fileID: 7136056952387068860}
   _timeOfScale: 0.2
 --- !u!114 &5022881711227036954
@@ -377,3 +379,17 @@ MonoBehaviour:
   _inactiveColor: {r: 0.2901961, g: 0.6745098, b: 0.96862745, a: 1}
   _activeBar: {fileID: 96645525761516623}
   _type: 1
+  _sequence: {fileID: 2660049466508581020}
+--- !u!114 &2660049466508581020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8970998383324674241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b9c8b143b588744eb492d7ba72f59f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObjectsToTween: []

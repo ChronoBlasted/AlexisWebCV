@@ -5,9 +5,12 @@ using UnityEngine.UI;
 public class FriendLayout : MonoBehaviour
 {
     [SerializeField] TMP_Text _name, _amountCollaboration;
-    [SerializeField] Image _ico, _bg,_leftMask;
+    [SerializeField] Image _ico, _bg, _leftMask;
+    [SerializeField] ChronoTweenObject _tweenObject;
 
     CollaboratorData _data;
+
+
 
     public void Init(CollaboratorData newContributor, int amountCollab)
     {
@@ -34,13 +37,15 @@ public class FriendLayout : MonoBehaviour
         _name.text = _data.FirstName + " " + _data.LastName;
 
         _amountCollaboration.text = amountCollab.ToString();
+
+        UIManager.Instance.FriendView.ChronoTweenSequence.ObjectsToTween.Add(_tweenObject);
     }
 
     public void HandleOnClick()
     {
         UIManager.Instance.ConfirmPopup.UpdateData(
-            LocalizationManager.Instance.OpenURL.GetLocalizedString(), 
-            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(), 
+            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
+            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
             () => Application.OpenURL("https://www.linkedin.com/search/results/all/?keywords=" + _data.FirstName + "%20" + _data.LastName));
 
         UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);

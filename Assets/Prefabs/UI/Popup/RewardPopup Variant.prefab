@@ -912,6 +912,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2285152607345297428, guid: b6d9eedd2639c624d9a31cf1e6cda009, type: 3}
       insertIndex: -1
       addedObject: {fileID: 6746958782600245417}
+    - targetCorrespondingSourceObject: {fileID: 2285152607345297428, guid: b6d9eedd2639c624d9a31cf1e6cda009, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 702359685289997636}
   m_SourcePrefab: {fileID: 100100000, guid: b6d9eedd2639c624d9a31cf1e6cda009, type: 3}
 --- !u!1 &5484397885112450621 stripped
 GameObject:
@@ -931,10 +934,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _canvasGroup: {fileID: 5957241184060439290}
+  ChronoTweenSequence: {fileID: 702359685289997636}
   _continueBtn: {fileID: 1756611721805119106}
   _titleTxt: {fileID: 4128203830322328325}
   _tapToContinueTxt: {fileID: 1366365355290366873}
   _ico: {fileID: 4157976618076768006}
+--- !u!114 &702359685289997636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484397885112450621}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b9c8b143b588744eb492d7ba72f59f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObjectsToTween: []
 --- !u!225 &5957241184060439290 stripped
 CanvasGroup:
   m_CorrespondingSourceObject: {fileID: 73851629902220499, guid: b6d9eedd2639c624d9a31cf1e6cda009, type: 3}

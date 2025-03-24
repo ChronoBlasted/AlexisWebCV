@@ -18,6 +18,8 @@ public class FriendView : View
         InitFriendLayout();
     }
 
+
+
     public void Close()
     {
         UIManager.Instance.ChangeView(UIManager.Instance.MenuView);

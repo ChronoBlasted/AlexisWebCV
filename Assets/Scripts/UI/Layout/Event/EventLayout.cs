@@ -16,6 +16,8 @@ public class EventLayout : MonoBehaviour
     [SerializeField] LocalizedString _inDaysTrad, _wasTrad;
     [SerializeField] LocalizedString _yearTrad, _monthTrad, _dayTrad;
 
+    [SerializeField] ChronoTweenObject _tweenObject;
+
     public void Init()
     {
         _ico.sprite = _data.Sprite;
@@ -34,6 +36,8 @@ public class EventLayout : MonoBehaviour
         {
             _dateTxt.text = _inDaysTrad.GetLocalizedString() + " " + DaysBeforeEvent + " " + _dayTrad.GetLocalizedString(DaysBeforeEvent);
         }
+
+        UIManager.Instance.MenuView.EventPanel.ChronoTweenSequence.ObjectsToTween.Add(_tweenObject);
     }
 
     int DaysUntilFirstX(DayOfWeek day)
