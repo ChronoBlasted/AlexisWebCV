@@ -1,5 +1,9 @@
 using DG.Tweening;
+using System;
+using System.Collections;
 using UnityEngine;
+using UnityEngine.Localization;
+using UnityEngine.Localization.Settings;
 using UnityEngine.UI;
 
 public class MenuView : View
@@ -42,4 +46,6 @@ public class MenuView : View
 
         MainPanel.transform.DOScale(Vector3.one, 1f).SetEase(Ease.OutSine).SetDelay(delay);
     }
+
+
 }

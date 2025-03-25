@@ -211,6 +211,18 @@ MonoBehaviour:
     m_Key: Collab
     m_Metadata:
       m_Items: []
+  - m_Id: 4406281189593088
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4406856304168960
+    m_Key: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4406994506485760
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

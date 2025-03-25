@@ -217,6 +217,18 @@ MonoBehaviour:
     m_Localized: Collab
     m_Metadata:
       m_Items: []
+  - m_Id: 4406281189593088
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4406856304168960
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4406994506485760
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

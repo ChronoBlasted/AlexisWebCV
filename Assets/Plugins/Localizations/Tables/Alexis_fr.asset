@@ -19,11 +19,12 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 6537224192
-    m_Localized: Alexis raffole de pizza
+    m_Localized: Alexis raffole\nde pizza
     m_Metadata:
       m_Items: []
   - m_Id: 114234368000
-    m_Localized: Alexis passe diamand sur TFT chaque saison
+    m_Localized: "Quand Alexis ne\\ncode pas, il est\\nprobablement en train de jouer\\n\xE0
+      TFT !"
     m_Metadata:
       m_Items: []
   - m_Id: 359840227328
@@ -31,36 +32,64 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 309454053376
-    m_Localized: "Vous \xEAtes dans le portofoglio d'Alexis"
+    m_Localized: "Vous \xEAtes dans le\\nportfolio d'Alexis"
     m_Metadata:
       m_Items: []
   - m_Id: 711276765184
-    m_Localized: "Alexis, m'a dit de vous laisser d\xE9couvrir chaque onglet par
+    m_Localized: "Alexis m'a dit de vous\\nlaisser d\xE9couvrir chaque\\nonglet par
       vous-m\xEAme !"
     m_Metadata:
       m_Items: []
   - m_Id: 6750030143488
-    m_Localized: Rafraichis la page si tu veux recommencer l'experience
+    m_Localized: "Rafra\xEEchis la page si\\ntu veux recommencer depuis z\xE9ro"
     m_Metadata:
       m_Items: []
   - m_Id: 6936274018304
-    m_Localized: "Tu peux changer de langue dans les param\xE8tres"
+    m_Localized: "Tu peux changer\\nde langue dans les\\nparam\xE8tres"
     m_Metadata:
       m_Items: []
   - m_Id: 7110480240640
-    m_Localized: "Il y a plein de cr\xE9ateur \xE0 soutenir !"
+    m_Localized: "Il y a plein de cr\xE9ateurs \xE0\\nsoutenir !"
     m_Metadata:
       m_Items: []
   - m_Id: 7340764307456
-    m_Localized: 'Alexis aime les musique bass house '
+    m_Localized: Alexis aime la musique\nbass house
     m_Metadata:
       m_Items: []
   - m_Id: 7509236916224
-    m_Localized: "Alexis adore les mode de jeux comp\xE9titifs"
+    m_Localized: "Alexis adore les modes\\nde jeux comp\xE9titifs"
     m_Metadata:
       m_Items: []
   - m_Id: 8109064331264
-    m_Localized: Mal a qui, ne profite jamais !
+    m_Localized: Mal acquis, ne profite\njamais !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816419332096
+    m_Localized: "Alexis aime collaborer\\navec des\\n\xE9quipes cr\xE9atives."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692224
+    m_Localized: "Alexis a une grande\\npassion pour\\nles jeux de strat\xE9gie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692225
+    m_Localized: "Alexis croit en la puissance\\nde l'apprentissage par\\nl'exp\xE9rimentation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692226
+    m_Localized: "Alexis trouve toujours\\nune solution\\naux probl\xE8mes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692227
+    m_Localized: Alexis adore partager ses\nconnaissances avec\nles autres.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692228
+    m_Localized: "Alexis cherche toujours\\ndes moyens\\nd'am\xE9liorer ses comp\xE9tences."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692229
+    m_Localized: "Alexis a mont\xE9 plusieurs\\nPC."
     m_Metadata:
       m_Items: []
   references:

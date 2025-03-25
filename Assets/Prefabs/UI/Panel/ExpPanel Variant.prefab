@@ -2264,6 +2264,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3641982133231460579, guid: cac911e8ee21dc54ab2fc8c99ef76a50, type: 3}
+      propertyPath: m_Padding.m_Top
+      value: 80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -2907,7 +2911,7 @@ PrefabInstance:
     - target: {fileID: 916974945085789370, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
       propertyPath: _data
       value: 
-      objectReference: {fileID: 11400000, guid: e12c85ba5dd64c34d8d5ee291ee7e329, type: 2}
+      objectReference: {fileID: 11400000, guid: 5fff5fb02150059498280b6f71a5cd46, type: 2}
     - target: {fileID: 3046284208945387975, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
       propertyPath: m_Name
       value: SchoolHeader
@@ -3127,7 +3131,7 @@ PrefabInstance:
     - target: {fileID: 7250402818842622281, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
       propertyPath: _data
       value: 
-      objectReference: {fileID: 11400000, guid: 3536c0da2c958044093105543435033f, type: 2}
+      objectReference: {fileID: 11400000, guid: e12c85ba5dd64c34d8d5ee291ee7e329, type: 2}
     - target: {fileID: 8857968570070452973, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
       propertyPath: m_Color.b
       value: 0

@@ -2163,7 +2163,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 42.75
+  m_fontSize: 51.4
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4289,8 +4289,58 @@ MonoBehaviour:
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
+  - m_TableReference:
+      m_TableCollectionName: GUID:e2092943b4c497c45af0cb5ee3274d62
+    m_TableEntryReference:
+      m_KeyId: 459816448692227
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  - m_TableReference:
+      m_TableCollectionName: GUID:e2092943b4c497c45af0cb5ee3274d62
+    m_TableEntryReference:
+      m_KeyId: 459816448692224
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  - m_TableReference:
+      m_TableCollectionName: GUID:e2092943b4c497c45af0cb5ee3274d62
+    m_TableEntryReference:
+      m_KeyId: 459816448692225
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  - m_TableReference:
+      m_TableCollectionName: GUID:e2092943b4c497c45af0cb5ee3274d62
+    m_TableEntryReference:
+      m_KeyId: 459816448692228
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  - m_TableReference:
+      m_TableCollectionName: GUID:e2092943b4c497c45af0cb5ee3274d62
+    m_TableEntryReference:
+      m_KeyId: 459816448692226
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  - m_TableReference:
+      m_TableCollectionName: GUID:e2092943b4c497c45af0cb5ee3274d62
+    m_TableEntryReference:
+      m_KeyId: 459816419332096
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _alexisLayout: {fileID: 3866194735625771156}
   _spawnChatTransformRight: {fileID: 4066085178378670407}
   _spawnChatTransformLeft: {fileID: 5016255629343511740}
+  IndexTuto: 0
   references:
     version: 2
     RefIds: []

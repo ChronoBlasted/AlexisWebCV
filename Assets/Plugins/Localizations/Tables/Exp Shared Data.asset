@@ -127,14 +127,6 @@ MonoBehaviour:
     m_Key: ColorioRTSDesc
     m_Metadata:
       m_Items: []
-  - m_Id: 289108850511897
-    m_Key: ProjectRD
-    m_Metadata:
-      m_Items: []
-  - m_Id: 289108850511898
-    m_Key: ProjectRDDesc
-    m_Metadata:
-      m_Items: []
   - m_Id: 289108850511899
     m_Key: ToolsOfEnigma
     m_Metadata:

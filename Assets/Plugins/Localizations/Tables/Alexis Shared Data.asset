@@ -59,6 +59,34 @@ MonoBehaviour:
     m_Key: MalAQuiNeProfiteJamais
     m_Metadata:
       m_Items: []
+  - m_Id: 459816419332096
+    m_Key: CollabTeam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692224
+    m_Key: StrategieGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692225
+    m_Key: LearnThroughExp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692226
+    m_Key: FindProblem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692227
+    m_Key: ShareKnowledge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692228
+    m_Key: ImproveSkills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459816448692229
+    m_Key: BuiltPCs
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Localization;
+using UnityEngine.Localization.Settings;
 
 public class Topbar : MonoBehaviour
 {
@@ -42,4 +44,21 @@ public class Topbar : MonoBehaviour
             .Join(_cg.DOFade(0, .1f));
     }
 
+    public void HandleOnLanguageClick()
+    {
+        Locale currentLocale = LocalizationSettings.SelectedLocale;
+
+        int index = LocalizationSettings.AvailableLocales.Locales.IndexOf(currentLocale);
+
+        int nextIndex = (index + 1) % LocalizationSettings.AvailableLocales.Locales.Count;
+
+        LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[nextIndex];
+
+        GameManager.Instance.ReloadScene();
+    }
+
+    public void ToggleFullScreen()
+    {
+        Screen.fullScreen = !Screen.fullScreen;
+    }
 }

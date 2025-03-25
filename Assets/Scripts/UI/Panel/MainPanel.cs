@@ -1,6 +1,7 @@
 using DG.Tweening;
 using NUnit.Framework;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -16,12 +17,16 @@ public class MainPanel : Panel
     [SerializeField] Transform _characterTransform;
     [SerializeField] List<LocalizedString> _alexisChatTuto;
     [SerializeField] List<LocalizedString> _alexisChat;
-    [SerializeField] Transform _spawnChatTransformRight, _spawnChatTransformLeft;
+    [SerializeField] Transform _alexisLayout, _spawnChatTransformRight, _spawnChatTransformLeft;
 
-    int indexTuto;
+    public int IndexTuto;
     bool isCharacterLeftSide;
 
     Tweener _settingFadeTweener;
+    Coroutine _talkCor;
+
+    public List<LocalizedString> AlexisChatTuto { get => _alexisChatTuto; }
+
     public override void Init()
     {
         base.Init();
@@ -120,8 +125,8 @@ public class MainPanel : Panel
 
         _characterTransform.transform.localScale = isCharacterLeftSide ? new Vector3(-1, 1, 1) : Vector3.one;
 
-        currentChat.transform.SetParent(isCharacterLeftSide ? _spawnChatTransformLeft : _spawnChatTransformRight);
-        currentChat.transform.localPosition = Vector3.zero;
+        currentChat.transform.SetParent(_alexisLayout);
+        currentChat.transform.localPosition = isCharacterLeftSide ? _spawnChatTransformLeft.localPosition : _spawnChatTransformRight.localPosition;
 
         currentChat.Init(GetRandomMessage(), !isCharacterLeftSide);
 
@@ -132,17 +137,23 @@ public class MainPanel : Panel
             {
                 PoolManager.Instance[ResourceType.Chat].Release(currentChat.gameObject);
             });
+
+        if (IndexTuto < AlexisChatTuto.Count)
+        {
+            if (_talkCor != null) StopCoroutine(_talkCor);
+            _talkCor = StartCoroutine(DOTalk());
+        }
     }
 
     string GetRandomMessage()
     {
         string response;
 
-        if (indexTuto < _alexisChatTuto.Count)
+        if (IndexTuto < _alexisChatTuto.Count)
         {
-            response = _alexisChatTuto[indexTuto].GetLocalizedString();
+            response = _alexisChatTuto[IndexTuto].GetLocalizedString();
 
-            indexTuto++;
+            IndexTuto++;
         }
         else
         {
@@ -150,5 +161,25 @@ public class MainPanel : Panel
         }
 
         return response;
+    }
+
+    private void OnEnable()
+    {
+        if (IndexTuto < AlexisChatTuto.Count) _talkCor = StartCoroutine(DOTalk());
+    }
+
+    private void OnDisable()
+    {
+        if (_talkCor != null) StopCoroutine(_talkCor);
+    }
+
+    public IEnumerator DOTalk()
+    {
+        while (IndexTuto < AlexisChatTuto.Count)
+        {
+            yield return new WaitForSeconds(2f);
+
+            if (IndexTuto < AlexisChatTuto.Count) SendChat();
+        }
     }
 }

@@ -19,5 +19,6 @@ public class ChatLayout : MonoBehaviour
         _text.text = text;
 
         _bg.transform.localScale = isLeftSide ? new Vector3(-1,1,1) : new Vector3(1,1,1);
+        _text.transform.localScale = isLeftSide ? new Vector3(-1,1,1) : new Vector3(1,1,1);
     }
 }

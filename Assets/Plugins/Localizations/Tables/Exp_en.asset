@@ -27,11 +27,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511872
-    m_Localized: A 3D runner
+    m_Localized: "Project type | Endless runner, stylized 3D\r\nWhat I did on the
+      project | UI Integration: \r\n- Main menu\r\n- Shelter\r\n- Skins\r\n- Shop\r\n-
+      Login\r\n- In-game\r\n- Pause\r\n- Game over\r\n- Power-ups\r\n- Season Pass\r\n-
+      ...\r\nAnd certainly others\r\nRefining the feel of certain mechanics like
+      the scooter or some camera transitions.\r\nAt the beginning, we did several
+      iterations, many elements evolved.\r\nI joined at the start of the project.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 132117827584
-    m_Localized: A city builder game
+    m_Localized: "Project type | City builder / Action / RPG, stylized 3D\r\nWhat
+      I did on the project | UI Integration: \r\n- Main menu\r\n- Skins\r\n- Equipment\r\n-
+      Shop\r\n- Login\r\n- In-game\r\n- Pause\r\n- Game over\r\n- Level selection\r\n-
+      ...\r\nAnd certainly others\r\nRefining the feel of certain mechanics like
+      fishing or some camera transitions.\r\nI joined at the end of the beginning
+      of the project.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511873
@@ -39,7 +49,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511874
-    m_Localized: Will you be the richest?
+    m_Localized: 'Project type | Idle / Quick play, 2D Cartoon
+
+      I developed
+      the game from A to Z:
+
+      - Player movement
+
+      - Patterns
+
+      -
+      Obstacles
+
+      - Minerals
+
+      - Balancing
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511875
@@ -47,7 +73,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511876
-    m_Localized: Reach the last room!
+    m_Localized: 'Project type | Adventure, 2D Cartoon
+
+      I developed the game
+      from A to Z:
+
+      - Player movement
+
+      - Patterns
+
+      - Obstacles
+
+      
+
+      This
+      was a test/prototype to decide on a direction within the studio.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511877
@@ -55,7 +97,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511878
-    m_Localized: Are you reactive?
+    m_Localized: 'Project type | Quick play, 2D Cartoon
+
+      I developed:
+
+      -
+      Object movement
+
+      - Patterns
+
+      - Score
+
+      
+
+      This is
+      a contest game for the Oona platform.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511879
@@ -63,7 +121,26 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511880
-    m_Localized: Defend yourself using the Force!
+    m_Localized: 'Project type | Quick play, 2D Cartoon
+
+      I developed:
+
+      -
+      The interfaces
+
+      - The game flow
+
+      - The gamefeel (Slow motion,
+      camera shake, post-process)
+
+      - The audio
+
+      
+
+      This is a
+      game from the Random Title Jam 2023.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511881
@@ -71,7 +148,24 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511882
-    m_Localized: Destroy them all!
+    m_Localized: 'Project type | Quick local multiplayer, stylized 3D
+
+      I developed:
+
+      -
+      The interfaces
+
+      - The game flow
+
+      - The gamefeel (Slow motion,
+      camera shake, post-process)
+
+      
+
+      And supervised the entire team,
+      to move forward together and gather the work when needed.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511883
@@ -79,7 +173,30 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511884
-    m_Localized: Do you have to jump?
+    m_Localized: 'Project type | Quick play, 2D Pixel Art
+
+      I developed:
+
+      -
+      The interfaces
+
+      - The game flow
+
+      - The level
+
+      - The score
+
+      -
+      The revive
+
+      - The skins
+
+      
+
+      This is my first solo game,
+      it served as a technical test to join Oona.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511885
@@ -87,7 +204,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511886
-    m_Localized: An epic battle against a barbarian!
+    m_Localized: 'Project type | Action, 2D Cartoon
+
+      This project is a test
+      to learn Finite State Machines.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511887
@@ -95,7 +217,46 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511888
-    m_Localized: PvP/PvE monster fighting game on mobile
+    m_Localized: 'Project type | Quick multiplayer game with authoritative server,
+      2D Cartoon
+
+      I developed the following interfaces:
+
+      - Login
+
+      -
+      Daily login
+
+      - Leaderboard
+
+      - Friends
+
+      - Settings
+
+      -
+      Language change
+
+      - Main menu
+
+      - Equipment
+
+      - Shop
+
+      -
+      Combat
+
+      - ...
+
+      And certainly others
+
+      
+
+      - The game
+      flow
+
+      - The server
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511889
@@ -103,7 +264,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511890
-    m_Localized: Group the fruits!
+    m_Localized: 'Project type | Quick play, 2D Cartoon
+
+      Based on a game I
+      played when I was young: Cops vs Mafia
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511891
@@ -111,7 +277,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511892
-    m_Localized: Kill them all!
+    m_Localized: 'Project type | Idle, 3D Cartoon
+
+      A game for fun, and to
+      discover the DoTween library along the way
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511893
@@ -119,7 +290,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511894
-    m_Localized: Action game
+    m_Localized: 'Project type | Action, Stylized 3D
+
+      I developed:
+
+      -
+      The character
+
+      - The shooting
+
+      - The weapons
+
+      - The level
+
+      -
+      The custom editor window'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511895
@@ -127,15 +312,28 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511896
-    m_Localized: Choose your color and conquer the map!
-    m_Metadata:
-      m_Items: []
-  - m_Id: 289108850511897
-    m_Localized: Project R&D
-    m_Metadata:
-      m_Items: []
-  - m_Id: 289108850511898
-    m_Localized: Role-playing game
+    m_Localized: 'Project type | Quick play, Stylized 3D
+
+      I developed:
+
+      -
+      The character states
+
+      - The level
+
+      - The game flow
+
+      -
+      The camera
+
+      - The game feel
+
+      
+
+      This project was an AI
+      experiment (Flocking, FSM, and pathfinding)
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511899
@@ -143,7 +341,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511900
-    m_Localized: Puzzle game
+    m_Localized: 'Project type | Adventure, Stylized 3D
+
+      I developed:
+
+      -
+      Puzzles
+
+      - The village AI
+
+      - The menus'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511901
@@ -151,7 +358,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511902
-    m_Localized: Control the elements!
+    m_Localized: 'Project type | Cards / Quick play, 2D Cartoon
+
+      This project
+      is the result of 3 days of development focused on the Strategy design pattern
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511903
@@ -159,7 +371,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511904
-    m_Localized: Defend your kingdom!
+    m_Localized: 'Project type | Tower Defense, Stylized 3D
+
+      This project
+      is the result of 3 days of development focused on the Factory design pattern
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511905
@@ -167,7 +384,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511906
-    m_Localized: A mysterious labyrinth?!
+    m_Localized: 'Project type | Rogue like, Stylized 2D
+
+      I developed:
+
+      -
+      The character
+
+      - The interfaces
+
+      
+
+      While coordinating
+      the dev team, to gather the work and test their functionalities
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511907
@@ -175,7 +406,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511908
-    m_Localized: Survive the disease!
+    m_Localized: 'Project type | Survivor, 2D Cartoon
+
+      I developed:
+
+      -
+      The character
+
+      - The interfaces
+
+      - The upgrades
+
+      - The
+      leaderboard
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511909
@@ -183,7 +428,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511910
-    m_Localized: Shoot'em Up
+    m_Localized: 'Project type | Shoot''Em Up, 2D Cartoon
+
+      This project is
+      the result of several days of cross-departmental teamwork (YDays)
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511911
@@ -191,7 +441,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511912
-    m_Localized: Train your warrior!
+    m_Localized: 'Project type | Adventure, Stylized 3D
+
+      This project was
+      my final evaluation for the Unreal Engine module'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511913
@@ -199,7 +452,20 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511914
-    m_Localized: Be the fastest!
+    m_Localized: 'Project type | Action, Stylized 3D
+
+      I developed:
+
+      -
+      The levels
+
+      - The interfaces
+
+      - The game flow
+
+      - The score
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511915
@@ -207,7 +473,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511916
-    m_Localized: The fastest wins!
+    m_Localized: 'Project type | Racing, Stylized 3D
+
+      I developed:
+
+      -
+      The levels
+
+      - The interfaces
+
+      - The game flow
+
+      - The laps
+
+      -
+      The checkpoints
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511917
@@ -215,7 +497,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511918
-    m_Localized: Survive!
+    m_Localized: 'Project type | Shoot''em up, 2D Cartoon
+
+      I developed:
+
+      -
+      The levels
+
+      - The enemies
+
+      - The ships
+
+      - The power-ups
+
+      -
+      The shop
+
+'
     m_Metadata:
       m_Items: []
   references:

@@ -27,27 +27,24 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511872
-    m_Localized: "Vivez l'excitation du parkour \xE0 grande vitesse dans ce runner
-      3D plein d'action ! Esquivez les obstacles, sautez de toit en toit et r\xE9alisez
-      des cascades spectaculaires en traversant des environnements urbains illumin\xE9s
-      au n\xE9on. Chaque course est un d\xE9fi rempli d'adr\xE9naline o\xF9 vos r\xE9flexes
-      seront mis \xE0 rude \xE9preuve.\n\nAffrontez des rivaux, d\xE9bloquez des
-      tenues exclusives et perfectionnez vos comp\xE9tences pour devenir le ma\xEEtre
-      du parkour. Gr\xE2ce \xE0 ses graphismes dynamiques et son gameplay fluide,
-      JCVD vous plonge dans une exp\xE9rience intense o\xF9 la rapidit\xE9 et la
-      pr\xE9cision sont essentielles."
+    m_Localized: "Est un : endless runner , 3D stylis\xE9e\r\nCe que j'ai fait sur
+      le projet : L'int\xE9gration de l'interface :\r\n- D'accueil\r\n- Du refuge\r\n-
+      Des skins\r\n- De la boutique\r\n- De connexion\r\n- En jeu\r\n- De pause\r\n-
+      De d\xE9faite\r\n- Des power-ups\r\n- Du Pass de Saison\r\n- ...\r\nEt certainement
+      d'autres\r\nAinsi que le ressenti de certaines m\xE9caniques comme la trottinette
+      ou certaines transitions de cam\xE9ra.\r\nAu d\xE9but, on a fait plusieurs
+      it\xE9rations, beaucoup d'\xE9l\xE9ments ont \xE9volu\xE9.\r\nJe suis arriv\xE9
+      au d\xE9but du projet.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 132117827584
-    m_Localized: "Rejoignez Zak et Wowo dans une aventure coop\xE9rative o\xF9 le
-      travail d'\xE9quipe est essentiel ! R\xE9solvez des \xE9nigmes complexes, manipulez
-      l\u2019environnement et d\xE9couvrez les secrets du monde myst\xE9rieux de
-      Lendarys. Chaque niveau propose des d\xE9fis qui n\xE9cessitent une parfaite
-      coordination entre les joueurs pour avancer.\n\nGr\xE2ce \xE0 son univers enchanteur
-      et son gameplay ing\xE9nieux, Zak & Wowo offre une exp\xE9rience immersive
-      o\xF9 la communication et la r\xE9flexion sont la cl\xE9 du succ\xE8s. Pr\xE9parez-vous
-      \xE0 explorer des temples anciens, \xE0 affronter des cr\xE9atures mystiques
-      et \xE0 r\xE9v\xE9ler des myst\xE8res oubli\xE9s."
+    m_Localized: "Est un : City builder / Action / RPG, 3D stylis\xE9e\r\nCe que
+      j'ai fait sur le projet : Int\xE9gration de l'interface :\r\n- D'accueil\r\n-
+      Des skins\r\n- De l'\xE9quipement\r\n- De la boutique\r\n- De connexion\r\n-
+      En jeu\r\n- De pause\r\n- De d\xE9faite\r\n- De s\xE9lection de niveau\r\n-
+      ...\r\nEt certainement d'autres\r\nAinsi que le ressenti et de certaines m\xE9caniques
+      comme la p\xEAche ou certaines transitions de cam\xE9ra.\r\nJe suis arriv\xE9
+      en fin de d\xE9but de projet.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511873
@@ -55,15 +52,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511874
-    m_Localized: "Creusez profond\xE9ment sous terre et d\xE9couvrez des tr\xE9sors
-      cach\xE9s dans cette aventure mini\xE8re palpitante. M\xE9fiez-vous des tunnels
-      qui s\u2019effondrent, des cr\xE9atures souterraines et de la diminution de
-      votre oxyg\xE8ne alors que vous explorez des cavernes g\xE9n\xE9r\xE9es al\xE9atoirement.
-      Chaque exp\xE9dition est unique et regorge de surprises.\n\nOptimisez votre
-      \xE9quipement, am\xE9liorez vos outils et d\xE9bloquez des technologies avanc\xE9es
-      pour creuser toujours plus loin. Mais attention : chaque d\xE9cision compte,
-      et seul le plus rus\xE9 des mineurs parviendra \xE0 s\u2019enrichir sans y
-      laisser sa peau !"
+    m_Localized: "Est un : Idle / Partie rapide, 2D Cartoon\r\nJ'ai d\xE9velopp\xE9
+      le jeu de A \xE0 Z :\r\n- Mouvement du joueur\r\n- Patterns\r\n- Obstacles\r\n-
+      Minerais\r\n- \xC9quilibrage\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511875
@@ -71,15 +62,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511876
-    m_Localized: "Prenez le contr\xF4le d\u2019une balle rebondissante et naviguez
-      \xE0 travers des niveaux de plus en plus complexes remplis de pi\xE8ges et
-      d\u2019obstacles. Ma\xEEtrisez les m\xE9caniques bas\xE9es sur la physique
-      pour r\xE9aliser des sauts pr\xE9cis et \xE9viter les dangers. L\u2019objectif
-      ? Atteindre la derni\xE8re salle en un seul morceau !\n\nAvec une difficult\xE9
-      progressive et des d\xE9fis toujours plus coriaces, Jump Ball mettra vos r\xE9flexes
-      et votre patience \xE0 l\u2019\xE9preuve. Encha\xEEnez les bons timings, exploitez
-      les rebonds et d\xE9jouez les pi\xE8ges pour triompher de cet ultime d\xE9fi
-      !"
+    m_Localized: "Est un : Aventure, 2D Cartoon\r\nJ'ai d\xE9velopp\xE9 le jeu de
+      A \xE0 Z :\r\n- Mouvement du joueur\r\n- Patterns\r\n- Obstacles\r\n\r\nCeci
+      \xE9tait un test / proto pour d\xE9cider d'une direction au sein du studio.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511877
@@ -87,15 +72,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511878
-    m_Localized: "Mettez \xE0 l'\xE9preuve vos capacit\xE9s d'observation dans ce
-      jeu d\u2019objets cach\xE9s rapide et stimulant ! Trouvez des objets sp\xE9cifiques
-      diss\xE9min\xE9s dans des sc\xE8nes magnifiquement con\xE7ues avant que le
-      temps ne s\u2019\xE9puise. Plus vous avancez, plus le jeu devient difficile,
-      demandant une concentration et une rapidit\xE9 d\u2019ex\xE9cution accrues.\n\nAvec
-      une vari\xE9t\xE9 de niveaux et des \xE9nigmes \xE0 r\xE9soudre, Find It! est
-      parfait pour les joueurs en qu\xEAte de d\xE9fis c\xE9r\xE9braux. Entra\xEEnez
-      votre regard de lynx et devenez un expert de la d\xE9tection d\u2019objets
-      !"
+    m_Localized: "Est un : Partie rapide, 2D Cartoon\r\nJ'ai d\xE9velopp\xE9 :\r\n-
+      Mouvement des objets\r\n- Patterns\r\n- Score\r\n\r\nCeci est un jeu concours
+      pour la plateforme d'Oona.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511879
@@ -103,15 +82,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511880
-    m_Localized: "Incarnez un puissant Singe Jedi et d\xE9fendez votre jungle contre
-      des forces envahissantes ! Utilisez votre ma\xEEtrise de la Force pour repousser
-      les ennemis, manier des armes \xE9nerg\xE9tiques et d\xE9clencher des attaques
-      d\xE9vastatrices. Chaque bataille est une lutte acharn\xE9e o\xF9 r\xE9flexes
-      et strat\xE9gie sont vos meilleurs alli\xE9s.\n\nAvec ses combats dynamiques
-      et ses pouvoirs impressionnants, Jedi Monkey - Total War vous plonge dans une
-      guerre galactique o\xF9 la survie d\xE9pend de votre habilet\xE9 \xE0 esquiver,
-      contre-attaquer et lib\xE9rer toute la puissance du c\xF4t\xE9 lumineux\u2026
-      ou obscur !"
+    m_Localized: "Est un : Partie rapide, 2D Cartoon\r\nJ'ai d\xE9velopp\xE9 :\r\n-
+      Les interfaces\r\n- Le game flow\r\n- Le gamefeel (Slow motion, camera shake,
+      post-process)\r\n- L'audio\r\n\r\nCeci est un jeu issu de la Random Title Jam
+      2023.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511881
@@ -119,7 +93,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511882
-    m_Localized: "D\xE9truisez tous !"
+    m_Localized: "Est un : Partie rapide en multi local, 3D stylis\xE9e\r\nJ'ai d\xE9velopp\xE9
+      :\r\n- Les interfaces\r\n- Le game flow\r\n- Le gamefeel (Slow motion, camera
+      shake, post-process)\r\n\r\nEt supervis\xE9 l'ensemble du groupe, pour avancer
+      ensemble et r\xE9unir le travail quand il le fallait.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511883
@@ -127,7 +104,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511884
-    m_Localized: Il faut sauter ?
+    m_Localized: "Est un : Partie rapide, 2D Pixel Art\r\nJ'ai d\xE9velopp\xE9 :\r\n-
+      Les interfaces\r\n- Le game flow\r\n- Le level\r\n- Le score\r\n- Le revive\r\n-
+      Les skins\r\n\r\nCeci est mon premier jeu solo, il m'a servi de test technique
+      pour rentrer chez Oona.\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511885
@@ -135,7 +115,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511886
-    m_Localized: "Une bataille \xE9pique contre un barbare !"
+    m_Localized: 'Est un : Action, 2D Cartoon
+
+      Ce projet est un test pour
+      apprendre les Finite State Machines.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511887
@@ -143,7 +128,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511888
-    m_Localized: Jeu de combat de monstre PvP/PvE sur mobile
+    m_Localized: "Est un : Partie rapide multijoueur en serveur autoritaire, 2D Cartoon\r\nJ'ai
+      d\xE9velopp\xE9 les interfaces de :\r\n- Connexion\r\n- Connexion quotidienne\r\n-
+      Classement\r\n- Amis\r\n- Param\xE8tres\r\n- Changement de langue\r\n- Menu
+      principal\r\n- \xC9quipement\r\n- Boutique\r\n- Combats\r\n- ...\r\nEt certainement
+      d'autres\r\n\r\n- Le game flow\r\n- Le serveur\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511889
@@ -151,7 +140,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511890
-    m_Localized: Regroupez les fruits !
+    m_Localized: "Est un : Partie rapide, 2D Cartoon\r\nBas\xE9e sur un jeu que je
+      jouais quand j'\xE9tais petit : Cops vs Mafia\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511891
@@ -159,7 +149,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511892
-    m_Localized: Tuez-les tous !
+    m_Localized: "Est un : Idle, 3D Cartoon\r\nUn jeu pour le fun, et d\xE9couvrir
+      la librairie DoTween au passage\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511893
@@ -167,7 +158,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511894
-    m_Localized: Jeu d'action
+    m_Localized: "Est un : Action, 3D Stylis\xE9e\nJ'ai d\xE9velopp\xE9 :\n- Le personnage\n-
+      Les tirs\n- Les armes\n- Le level\n- La fen\xEAtre custom editor"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511895
@@ -175,15 +167,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511896
-    m_Localized: "Choisissez votre couleur et conqu\xE9rez la carte !"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 289108850511897
-    m_Localized: Project R&D
-    m_Metadata:
-      m_Items: []
-  - m_Id: 289108850511898
-    m_Localized: "Jeu de r\xF4le"
+    m_Localized: "Est un : Partie rapide, 3D Stylis\xE9e\r\nJ'ai d\xE9velopp\xE9
+      :\r\n- Les \xE9tats des personnages\r\n- Le level\r\n- Le game flow\r\n- La
+      cam\xE9ra\r\n- Le game feel\r\n\r\nCe projet \xE9tait un essai \xE0 l'IA (Flocking,
+      FSM, et pathfinding)\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511899
@@ -191,7 +178,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511900
-    m_Localized: Jeu de puzzle
+    m_Localized: "Est un : Aventure, 3D Stylis\xE9e\r\nJ'ai d\xE9velopp\xE9 :\r\n-
+      Des \xE9nigmes\r\n- Les IA du village\r\n- Les menus"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511901
@@ -199,7 +187,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511902
-    m_Localized: "Contr\xF4lez les \xE9l\xE9ments !"
+    m_Localized: "Est un : Cartes / Partie rapide, 2D Cartoon\r\nCe projet est l\u2019issue
+      de 3 jours de d\xE9veloppement ax\xE9 sur le design pattern Strategy\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511903
@@ -207,7 +196,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511904
-    m_Localized: "D\xE9fendez votre royaume !"
+    m_Localized: "Est un : Tower Defense, 3D Stylis\xE9e\r\nCe projet est l\u2019issue
+      de 3 jours de d\xE9veloppement ax\xE9 sur le design pattern Factory\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511905
@@ -215,7 +205,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511906
-    m_Localized: "Un myst\xE9rieux labyrinthe ?!"
+    m_Localized: "Est un : Rogue like, 2D Stylis\xE9e\r\nJ'ai d\xE9velopp\xE9 :\r\n-
+      Le personnage\r\n- Les interfaces\r\n\r\nTout en orchestrant l'\xE9quipe dev,
+      pour r\xE9unir le travail et tester leurs fonctionnalit\xE9s\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511907
@@ -223,7 +215,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511908
-    m_Localized: "Survivez \xE0 la maladie !"
+    m_Localized: "Est un : Survivor, 2D Cartoon\r\nJ'ai d\xE9velopp\xE9 :\r\n- Le
+      personnage\r\n- Les interfaces\r\n- Les am\xE9liorations\r\n- Le classement\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511909
@@ -231,7 +224,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511910
-    m_Localized: Shoot'em Up
+    m_Localized: "Est un : Shoot'Em Up, 2D Cartoon\r\nCe projet est le r\xE9sultat
+      de plusieurs jours de travail commun inter fili\xE8re (YDays)\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511911
@@ -239,7 +233,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511912
-    m_Localized: "Entra\xEEnez votre guerrier !"
+    m_Localized: "Est un : Aventure, 3D Stylis\xE9e\r\nCe projet \xE9tait mon \xE9valuation
+      de fin de module Unreal Engine\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511913
@@ -247,7 +242,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511914
-    m_Localized: Soyez le plus rapide !
+    m_Localized: "Est un : Action, 3D Stylis\xE9e\r\nJ'ai d\xE9velopp\xE9 :\r\n-
+      Les niveaux\r\n- Les interfaces\r\n- Le game flow\r\n- Le score\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511915
@@ -255,7 +251,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511916
-    m_Localized: Le plus rapide l'emporte !
+    m_Localized: "Est un : Course, 3D Stylis\xE9e\r\nJ'ai d\xE9velopp\xE9 :\r\n-
+      Les niveaux\r\n- Les interfaces\r\n- Le game flow\r\n- Les tours\r\n- Les checkpoints\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511917
@@ -263,7 +260,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511918
-    m_Localized: Survivez !
+    m_Localized: "Est un : Shoot'em up, 2D Cartoon\r\nJ'ai d\xE9velopp\xE9 :\r\n-
+      Les niveaux\r\n- Les ennemis\r\n- Les vaisseaux\r\n- Les power-ups\r\n- La
+      boutique\r\n"
     m_Metadata:
       m_Items: []
   references:

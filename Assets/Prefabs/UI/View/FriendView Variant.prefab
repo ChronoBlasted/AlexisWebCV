@@ -700,6 +700,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3818653179073278737, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 768638962765824
+      objectReference: {fileID: 0}
+    - target: {fileID: 3818653179073278737, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
+      propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
+      value: GUID:4bae1c06d453b4740bc89311cebde150
+      objectReference: {fileID: 0}
     - target: {fileID: 4118401069521978212, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
