@@ -116,17 +116,9 @@ public class MainPanel : Panel
     {
         var currentChat = PoolManager.Instance[ResourceType.Chat].Get().GetComponent<ChatLayout>();
 
-        var swapX = Random.Range(0, 2);
-        if (swapX == 0)
-        {
-            _characterTransform.transform.localScale = new Vector3(-1, 1, 1);
-            isCharacterLeftSide = true;
-        }
-        if (swapX == 1)
-        {
-            _characterTransform.transform.localScale = new Vector3(1, 1, 1);
-            isCharacterLeftSide = false;
-        }
+        isCharacterLeftSide = !isCharacterLeftSide;
+
+        _characterTransform.transform.localScale = isCharacterLeftSide ? new Vector3(-1, 1, 1) : Vector3.one;
 
         currentChat.transform.SetParent(isCharacterLeftSide ? _spawnChatTransformLeft : _spawnChatTransformRight);
         currentChat.transform.localPosition = Vector3.zero;
