@@ -1,6 +1,7 @@
 using DG.Tweening;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Localization;
@@ -9,6 +10,8 @@ using UnityEngine.Localization.Settings;
 public class Topbar : MonoBehaviour
 {
     [SerializeField] CanvasGroup _cg;
+    public string pdfFileName = "AlexisCV.pdf";
+
 
     Sequence _showHideTopbarTween;
     public void ShowTopBar()
@@ -60,5 +63,17 @@ public class Topbar : MonoBehaviour
     public void ToggleFullScreen()
     {
         Screen.fullScreen = !Screen.fullScreen;
+    }
+
+    public void DownloadCV()
+    {
+        string sourcePath = Path.Combine(Application.streamingAssetsPath, pdfFileName);
+        string destinationPath = Path.Combine(Application.persistentDataPath, pdfFileName);
+
+        if (File.Exists(sourcePath))
+        {
+            File.Copy(sourcePath, destinationPath, true);
+            Application.OpenURL(destinationPath);
+        }
     }
 }
