@@ -2,9 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Localization;
+using UnityEngine.UI;
 
 public class ShopPanel : Panel
 {
+    [SerializeField] ScrollRect _scrollRect;
     [SerializeField] List<ShopLayout> _hardShopLayouts, _softShopLayouts, _passionShopLayouts;
     [SerializeField] List<StoreData> _hardShopData, _softShopData, _passionShopData;
 
@@ -21,6 +23,8 @@ public class ShopPanel : Panel
     public override void OpenPanel()
     {
         base.OpenPanel();
+
+        UIManager.ResetScroll(_scrollRect);
     }
 
     public override void ClosePanel()

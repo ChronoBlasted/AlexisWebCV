@@ -3,6 +3,7 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Localization.Settings;
+using UnityEngine.Rendering;
 using UnityEngine.UI;
 
 public class UIManager : MonoSingleton<UIManager>
@@ -143,11 +144,16 @@ public class UIManager : MonoSingleton<UIManager>
         _blackShadeButton.onClick.RemoveAllListeners();
     }
 
-    public static void ScrollToItemX(ScrollRect scrollRect, Transform content, int indexToScroll)
+    public static void ScrollToItemY(ScrollRect scrollRect, Transform content, int indexToScroll)
     {
         float step = 1f / (content.childCount - 1);
 
         scrollRect.normalizedPosition = new Vector2(scrollRect.normalizedPosition.x, step * indexToScroll);
+    }
+
+    public static void ResetScroll(ScrollRect scrollRect)
+    {
+        scrollRect.normalizedPosition = new Vector2(scrollRect.normalizedPosition.x, 1);
     }
 
     public static string GetFormattedInt(float amount)

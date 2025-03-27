@@ -713,7 +713,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8062450073576808466, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
       propertyPath: m_fontSize
-      value: 34.95
+      value: 36
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1446,6 +1446,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _canvasGroup: {fileID: 8468451612980469728}
   ChronoTweenSequence: {fileID: 2642525288028313926}
+  _scrollRect: {fileID: 5459807509886153744}
   _eventLayouts:
   - {fileID: 2345249843519060672}
   - {fileID: 6965116755119574245}

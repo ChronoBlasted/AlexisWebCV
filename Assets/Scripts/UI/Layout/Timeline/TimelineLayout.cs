@@ -30,7 +30,7 @@ public class TimelineLayout : MonoBehaviour
 
         if (DateTime.TryParse(_data.EndTime, out DateTime date))
         {
-            _date.text = date.ToString("MMMM yyyy", CultureInfo.InvariantCulture);
+            _date.text = date.ToString("MMMM yyyy", CultureInfo.CurrentCulture);
         }
 
         bool hasAnyFlag = false;

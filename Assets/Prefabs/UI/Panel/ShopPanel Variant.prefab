@@ -2103,6 +2103,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _canvasGroup: {fileID: 2746489610891243419}
   ChronoTweenSequence: {fileID: 904120044745697921}
+  _scrollRect: {fileID: 4615178099551253833}
   _hardShopLayouts:
   - {fileID: 15440971010844893}
   - {fileID: 1791234575078654605}

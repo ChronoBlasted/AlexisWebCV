@@ -8,6 +8,10 @@ public class LocalizationManager : MonoSingleton<LocalizationManager>
     [SerializeField] LocalizedString _leadDevTrad;
     [SerializeField] LocalizedString _solodevTrad, _onlyDevTrad, _bigProject;
 
+    [Header("Role")]
+    [SerializeField] LocalizedString _dev;
+    [SerializeField] LocalizedString _artist, _market;
+
     public LocalizedString OpenURL, GonnaBeRedirect;
 
     string errorString = "Error";
@@ -24,6 +28,21 @@ public class LocalizationManager : MonoSingleton<LocalizationManager>
                 return _onlyDevTrad.GetLocalizedString();
             case Attribute.BigProject:
                 return _bigProject.GetLocalizedString();
+        }
+
+        return errorString;
+    }
+
+    public string GetStringByRole(Role role)
+    {
+        switch (role)
+        {
+            case Role.Dev:
+                return _dev.GetLocalizedString();
+            case Role.Artist:
+                return _artist.GetLocalizedString();
+            case Role.Market:
+                return _market.GetLocalizedString();
         }
 
         return errorString;

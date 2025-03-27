@@ -52,8 +52,8 @@ MonoBehaviour:
   m_Padding:
     m_Left: 32
     m_Right: 32
-    m_Top: 0
-    m_Bottom: 16
+    m_Top: 80
+    m_Bottom: 48
   m_ChildAlignment: 1
   m_Spacing: 0
   m_ChildForceExpandWidth: 0
@@ -406,6 +406,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _canvasGroup: {fileID: 8976353454196713598}
   ChronoTweenSequence: {fileID: 7798337111406166689}
+  _scrollRect: {fileID: 5154501412729088832}
   _allExp:
   - {fileID: 11400000, guid: eee77e66c8e1aa24db8687d9896d20ba, type: 2}
   - {fileID: 11400000, guid: c488fc94861abe74ca02d6e6dfaf22a7, type: 2}

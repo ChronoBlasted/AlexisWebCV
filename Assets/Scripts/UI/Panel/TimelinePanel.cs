@@ -4,9 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class TimelinePanel : Panel
 {
+    [SerializeField] ScrollRect _scrollRect;
     [SerializeField] List<ExpData> _allExp = new List<ExpData>();
     [SerializeField] TimelineLayout _timelineLayoutPrefab;
 
@@ -25,6 +27,8 @@ public class TimelinePanel : Panel
     public override void OpenPanel()
     {
         base.OpenPanel();
+
+        UIManager.ResetScroll(_scrollRect);
     }
 
     void InitLayouts()

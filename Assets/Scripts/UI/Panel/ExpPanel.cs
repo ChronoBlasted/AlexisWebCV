@@ -1,9 +1,11 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ExpPanel : Panel
 {
     public ChronoTweenSequence ProSeq, JamSeq, SchoolSeq;
+    [SerializeField] ScrollRect _scrollRect;
 
     [SerializeField] NavBar _navBar;
     [SerializeField] Transform _scrollProGames, _scrollJamGames, _scrollSchoolGames;
@@ -50,7 +52,12 @@ public class ExpPanel : Panel
         {
             var currentExpLayout = Instantiate(_expLayoutPrefab, spawnTransform);
 
-            currentExpLayout.Init(data,true);
+            currentExpLayout.Init(data, true);
         }
+    }
+
+    public void ResetScroll()
+    {
+        UIManager.ResetScroll(_scrollRect);
     }
 }

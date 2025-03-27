@@ -2,9 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EventPanel : Panel
 {
+    [SerializeField] ScrollRect _scrollRect;
     [SerializeField] List<EventLayout> _eventLayouts = new List<EventLayout>();
     [SerializeField] List<EventLayout> _pastEvents = new List<EventLayout>();
 
@@ -23,12 +25,13 @@ public class EventPanel : Panel
         {
             eventLayout.Init();
         }
-
     }
 
     public override void OpenPanel()
     {
         base.OpenPanel();
+
+        UIManager.ResetScroll(_scrollRect);
     }
 
     void SortEvent()

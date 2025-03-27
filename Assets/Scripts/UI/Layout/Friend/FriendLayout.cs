@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class FriendLayout : MonoBehaviour
 {
-    [SerializeField] TMP_Text _name, _amountCollaboration;
+    [SerializeField] TMP_Text _name, _roleTxt, _amountCollaboration;
     [SerializeField] Image _ico, _bg, _leftMask;
     [SerializeField] ChronoTweenObject _tweenObject;
 
@@ -31,6 +31,7 @@ public class FriendLayout : MonoBehaviour
                 break;
         }
 
+        _roleTxt.text = LocalizationManager.Instance.GetStringByRole(newContributor.Role);
         _bg.color = ColorManager.Instance.GetColorByRole(_data.Role);
         _leftMask.color = ColorManager.Instance.GetSecondColorByRole(_data.Role);
 
