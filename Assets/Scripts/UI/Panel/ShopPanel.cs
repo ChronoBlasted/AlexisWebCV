@@ -60,6 +60,10 @@ public class ShopPanel : Panel
         {
             UIManager.Instance.ErrorView.AddMessage("! BM-EMI-X !");
         }
+        else if (creator == "LePoulet")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! COT COT !");
+        }
         else
         {
             UIManager.Instance.ErrorView.AddError(_errorCreator.GetLocalizedString());
