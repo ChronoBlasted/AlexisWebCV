@@ -33,7 +33,7 @@ public class AudioManager : MonoSingleton<AudioManager>
     {
         _effectDict.TryGetValue(audioClip, out _effectToPlay);
 
-        if (_effectToPlay.Count > 1)
+        if (_effectToPlay.Count > 0)
         {
             int indexSound = Random.Range(0, _effectToPlay.Count);
             _effectSource.PlayOneShot(_effectToPlay[indexSound]);

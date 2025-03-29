@@ -33,8 +33,9 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2021-09-01
   EndTime: 2022-05-01
-  Animation: {fileID: 7400000, guid: 39dbac7dccc56d84abd637183a47e029, type: 2}
   ItchURL: https://alexisgelin.itch.io/starship-galaxy
+  RenderTexture: {fileID: 8400000, guid: 4b0bb41a64fb8b8498ab06e2201500f5, type: 2}
+  URL_ID: https://www.dropbox.com/scl/fi/hyze600dxsp6mmt7ecwvb/StarshipGalaxy.mp4
   Attribute: 8
   Collaborators:
   - {fileID: 11400000, guid: 53b1a35f778fd2d4a9ae1853bc84381a, type: 2}

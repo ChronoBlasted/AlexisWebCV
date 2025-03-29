@@ -48,25 +48,69 @@ public class ShopPanel : Panel
 
     public void IsCreatorValid(string creator)
     {
-        if (creator == "Veemo")
+        creator = creator.ToLower();
+
+        if (creator == "veemo")
         {
             UIManager.Instance.ErrorView.AddMessage("! TIABINA !");
         }
-        else if (creator == "Clarisse" || creator == "Mortifera")
+        else if (creator == "clarisse timotic" || creator == "mortifera")
         {
             UIManager.Instance.ErrorView.AddMessage("! JE T'AIME !");
         }
-        else if (creator == "Marius")
+        else if (creator == "marius perrier")
         {
             UIManager.Instance.ErrorView.AddMessage("! WORLD SKILLS !");
         }
-        else if (creator == "Emie")
+        else if (creator == "emie masnata")
         {
             UIManager.Instance.ErrorView.AddMessage("! BM-EMI-X !");
         }
-        else if (creator == "LePoulet")
+        else if (creator == "lepoulet" || creator == "ralph nicolas")
         {
             UIManager.Instance.ErrorView.AddMessage("! COT COT !");
+
+            Application.OpenURL("https://store.steampowered.com/app/3140120/Wordatro/");
+        }
+        else if (creator == "alexandre montel")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! CACA PIPI PROUT !");
+        }
+        else if (creator == "gwenaelle devriendt" || creator == "arcaname")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! GOUT HAINE !");
+
+            Application.OpenURL("https://arcaname.itch.io/");
+        }
+        else if (creator == "damien rouzeau" || creator == "fritalo")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! DAMSITO !");
+
+            Application.OpenURL("https://damienrzu.itch.io/khorteus");
+        }
+        else if (creator == "jena poree" || creator == "naejdoree")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! CONTENIR !");
+
+            Application.OpenURL("https://www.contenir.studio.naejdoree.art/");
+        }
+        else if (creator == "ludovic bas" || creator == "loudo")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! CRANKSTONE !");
+
+            Application.OpenURL("https://shop.lugludum.com/en-eur/pages/playdate-games");
+        }
+        else if (creator == "cédric roux" || creator == "tyron")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! THE REAL HERO !");
+
+            Application.OpenURL("https://store.steampowered.com/app/3403090/Fire_Hero__Pixel_Rescue");
+        }
+        else if (creator == "sharuu"  || creator == "eric miclo")
+        {
+            UIManager.Instance.ErrorView.AddMessage("! THE ONLINE INDIE PROG !");
+
+            Application.OpenURL("https://store.steampowered.com/app/2999130/Flex_Riders");
         }
         else
         {

@@ -33,10 +33,11 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-10-01
   EndTime: 2022-11-01
-  Animation: {fileID: 7400000, guid: cf2003251f9fca54d8f9000cea1058bf, type: 2}
   ItchURL: https://alexisgelin.itch.io/blasted-racing
+  RenderTexture: {fileID: 8400000, guid: f478656a95681f648aebf45611f5ab40, type: 2}
+  URL_ID: https://www.dropbox.com/scl/fi/23kcbthy6o7sfer4qngsa/BlastedRacing.mp4
   Attribute: 2
-  Contributors: []
+  Collaborators: []
   references:
     version: 2
     RefIds: []

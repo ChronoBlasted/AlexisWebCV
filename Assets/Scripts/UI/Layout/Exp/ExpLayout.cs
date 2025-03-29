@@ -3,17 +3,21 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.Localization;
 using UnityEngine.UI;
+using UnityEngine.Video;
+using static System.Net.WebRequestMethods;
 
 public class ExpLayout : MonoBehaviour
 {
     [SerializeField] TMP_Text _title;
-    [SerializeField] Animator _animator;
     [SerializeField] Image _glow, _fade, _bg;
 
     [SerializeField] ExpData _data;
 
     [SerializeField] Sprite _proBG, _jamBG, _schoolBG;
     [SerializeField] ChronoTweenObject _chronoObject;
+    [SerializeField] VideoPlayer _videoPlayer;
+    [SerializeField] RawImage _rawImage;
+
 
     public void Init(ExpData data, bool isInExpPanel)
     {
@@ -43,6 +47,13 @@ public class ExpLayout : MonoBehaviour
     public void SetData(ExpData data)
     {
         _data = data;
+
+        _rawImage.texture = _data.RenderTexture;
+        _videoPlayer.targetTexture = _data.RenderTexture;
+
+        _videoPlayer.url = "https://cdn.jsdelivr.net/gh/chronoblasted/videos-unity/" + _data.name + ".mp4";
+
+        _videoPlayer.Play();
     }
 
     public void SetColor()
@@ -79,6 +90,5 @@ public class ExpLayout : MonoBehaviour
 
     private void OnEnable()
     {
-        _animator.Play(_data.Animation.name);
     }
 }

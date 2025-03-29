@@ -33,8 +33,9 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2023-03-01
   EndTime: 2023-04-01
-  Animation: {fileID: 7400000, guid: e56ae465f2cae5f458005b81f8a4594c, type: 2}
   ItchURL: https://alexisgelin.itch.io/digger-danger
+  RenderTexture: {fileID: 8400000, guid: 929f74474a467fb4fb10c93bf7e0d0c7, type: 2}
+  URL_ID: https://www.dropbox.com/scl/fi/2r3qoqjglam62jbsg4f7r/FullSizeRender.mp4
   Attribute: 2
   Collaborators:
   - {fileID: 11400000, guid: 4a6a9caeb0064c142a66ae77a4fcd195, type: 2}

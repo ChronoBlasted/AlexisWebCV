@@ -33,8 +33,9 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2024-10-01
   EndTime: 2024-10-04
-  Animation: {fileID: 7400000, guid: 3027ce2e8d93d344c8727f65e27c69d3, type: 2}
   ItchURL: https://alexisgelin.itch.io/tactics
+  RenderTexture: {fileID: 8400000, guid: 6cfb676f42bad534f9759b58413935f3, type: 2}
+  URL_ID: 1RKvRJrN497puROq1QJCFgJ9aTRsdQTWg
   Attribute: 5
   Collaborators:
   - {fileID: 11400000, guid: 1029624b00dce274e8be435856c73dea, type: 2}

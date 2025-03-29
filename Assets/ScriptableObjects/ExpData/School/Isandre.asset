@@ -33,8 +33,9 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2025-02-01
   EndTime: 2025-03-01
-  Animation: {fileID: 7400000, guid: d821b9f1190cb004497bcf65e52ea387, type: 2}
   ItchURL: https://alexisgelin.itch.io/isandre
+  RenderTexture: {fileID: 8400000, guid: ccfc5acc3a2a80341bebf98fe8f30a8f, type: 2}
+  URL_ID: https://www.dropbox.com/scl/fi/rgqca4fqwa0aabfg88qf6/Isandre.mp4
   Attribute: 5
   Collaborators:
   - {fileID: 11400000, guid: bb4bfeae1cec87e458877083578b53e2, type: 2}

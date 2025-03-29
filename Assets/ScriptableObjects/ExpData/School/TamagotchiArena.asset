@@ -33,10 +33,11 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2023-01-01
   EndTime: 2023-02-01
-  Animation: {fileID: 7400000, guid: f48af267b90608c40a772f90ec9ca798, type: 2}
   ItchURL: https://alexisgelin.itch.io/tamagotchi-arena
+  RenderTexture: {fileID: 8400000, guid: 37e5f4eca5c96554e9945fa7c6329950, type: 2}
+  URL_ID: https://www.dropbox.com/scl/fi/30v9lgt61860a8pujre2t/TamagotchiArena.mp4
   Attribute: 2
-  Contributors: []
+  Collaborators: []
   references:
     version: 2
     RefIds: []

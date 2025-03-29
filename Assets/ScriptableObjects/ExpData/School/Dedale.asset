@@ -33,8 +33,9 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2022-09-01
   EndTime: 2023-05-01
-  Animation: {fileID: 7400000, guid: 02ce8b4ec60f953489f426c231078ef4, type: 2}
   ItchURL: https://alexisgelin.itch.io/dedale
+  RenderTexture: {fileID: 8400000, guid: 10383bc74da1b2a41b03b3cb0da2e0bb, type: 2}
+  URL_ID: https://www.dropbox.com/scl/fi/ydi69skv1cuyjfwoi1ojw/Dedale.mp4
   Attribute: 9
   Collaborators:
   - {fileID: 11400000, guid: 00f408c8b8e62b74ab66ad2bc21aa78c, type: 2}

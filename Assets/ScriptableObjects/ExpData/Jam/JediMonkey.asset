@@ -33,8 +33,9 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2023-05-01
   EndTime: 2023-05-04
-  Animation: {fileID: 7400000, guid: 344fa66f0720ed445ae532abb73c1e7e, type: 2}
   ItchURL: https://manuia.itch.io/jedi-monkey-total-war
+  RenderTexture: {fileID: 8400000, guid: 775d85487fac04d468bd691b2cac4940, type: 2}
+  URL_ID: https://www.dropbox.com/scl/fi/q2mi7emzjqn8b2j63kyl9/JEDI.mp4
   Attribute: 0
   Collaborators:
   - {fileID: 11400000, guid: 5bf27cd49f28bd24ba073ff8940ca9fc, type: 2}

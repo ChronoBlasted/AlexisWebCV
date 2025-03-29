@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class ContributorLayout : MonoBehaviour
 {
-    [SerializeField] TMP_Text _name;
+    [SerializeField] TMP_Text _name, _role;
     [SerializeField] Image _ico, _bg, _leftMask;
 
     CollaboratorData _data;
@@ -30,6 +30,7 @@ public class ContributorLayout : MonoBehaviour
         _bg.color = ColorManager.Instance.GetColorByRole(_data.Role);
         _leftMask.color = ColorManager.Instance.GetSecondColorByRole(_data.Role);
         _name.text = _data.FirstName + " " + _data.LastName;
+        _role.text = LocalizationManager.Instance.GetStringByRole(_data.Role);
     }
 
     public void HandleOnClick()

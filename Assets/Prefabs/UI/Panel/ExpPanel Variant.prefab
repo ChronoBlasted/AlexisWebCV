@@ -77,7 +77,7 @@ MonoBehaviour:
   m_Elasticity: 0.1
   m_Inertia: 1
   m_DecelerationRate: 0.135
-  m_ScrollSensitivity: 1
+  m_ScrollSensitivity: 50
   m_Viewport: {fileID: 8751224774399555770}
   m_HorizontalScrollbar: {fileID: 0}
   m_VerticalScrollbar: {fileID: 0}
@@ -1633,6 +1633,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1478680104329057062}
     m_Modifications:
+    - target: {fileID: 2157694319533452405, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
+      propertyPath: m_fontSize
+      value: 19
+      objectReference: {fileID: 0}
     - target: {fileID: 3046284208945387975, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
       propertyPath: m_Name
       value: ProHeader
@@ -1856,6 +1860,10 @@ PrefabInstance:
     - target: {fileID: 6892310354368405107, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491130985095889286, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
+      propertyPath: m_fontSize
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 8857968570070452973, guid: 7d2271fa817d09e488960fe297ac0ebb, type: 3}
       propertyPath: m_Color.b

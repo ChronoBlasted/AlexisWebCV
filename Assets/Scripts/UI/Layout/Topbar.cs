@@ -67,13 +67,7 @@ public class Topbar : MonoBehaviour
 
     public void DownloadCV()
     {
-        string sourcePath = Path.Combine(Application.streamingAssetsPath, pdfFileName);
-        string destinationPath = Path.Combine(Application.persistentDataPath, pdfFileName);
 
-        if (File.Exists(sourcePath))
-        {
-            File.Copy(sourcePath, destinationPath, true);
-            Application.OpenURL(destinationPath);
-        }
+        Application.OpenURL("https://cdn.jsdelivr.net/gh/chronoblasted/videos-unity/AlexisCV.pdf");
     }
 }

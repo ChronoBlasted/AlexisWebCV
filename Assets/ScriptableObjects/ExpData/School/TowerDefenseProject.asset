@@ -33,8 +33,9 @@ MonoBehaviour:
     m_LocalVariables: []
   StartTime: 2024-10-01
   EndTime: 2024-10-04
-  Animation: {fileID: 7400000, guid: 169cbd46ac4e0ed4a815f3b28ce7eefb, type: 2}
   ItchURL: https://alexisgelin.itch.io/towerdefenseproject
+  RenderTexture: {fileID: 8400000, guid: 291c302c4937a644fae0dc175d564180, type: 2}
+  URL_ID: https://www.dropbox.com/scl/fi/9mz27gxnusmght87e6g7s/TowerDefense.mp4
   Attribute: 5
   Collaborators:
   - {fileID: 11400000, guid: bb4bfeae1cec87e458877083578b53e2, type: 2}

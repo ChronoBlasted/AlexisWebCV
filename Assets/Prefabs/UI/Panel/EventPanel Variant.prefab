@@ -117,7 +117,7 @@ MonoBehaviour:
   m_Elasticity: 0.1
   m_Inertia: 1
   m_DecelerationRate: 0.135
-  m_ScrollSensitivity: 1
+  m_ScrollSensitivity: 50
   m_Viewport: {fileID: 488647180667046334}
   m_HorizontalScrollbar: {fileID: 0}
   m_VerticalScrollbar: {fileID: 0}
@@ -713,7 +713,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8062450073576808466, guid: 73a2e6c8d8338264b9efb46e58ade67c, type: 3}
       propertyPath: m_fontSize
-      value: 36
+      value: 25.05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -733,6 +733,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6652183163036799534}
     m_Modifications:
+    - target: {fileID: 1126387365181088898, guid: ddb9813ab4e291543b9e1ff881b3482c, type: 3}
+      propertyPath: m_fontSize
+      value: 35.4
+      objectReference: {fileID: 0}
     - target: {fileID: 1456805023521439463, guid: ddb9813ab4e291543b9e1ff881b3482c, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -910,6 +914,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6408719417521519912}
     m_Modifications:
+    - target: {fileID: 1126387365181088898, guid: ddb9813ab4e291543b9e1ff881b3482c, type: 3}
+      propertyPath: m_fontSize
+      value: 35.4
+      objectReference: {fileID: 0}
     - target: {fileID: 1456805023521439463, guid: ddb9813ab4e291543b9e1ff881b3482c, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1087,6 +1095,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6408719417521519912}
     m_Modifications:
+    - target: {fileID: 1126387365181088898, guid: ddb9813ab4e291543b9e1ff881b3482c, type: 3}
+      propertyPath: m_fontSize
+      value: 35.4
+      objectReference: {fileID: 0}
     - target: {fileID: 1456805023521439463, guid: ddb9813ab4e291543b9e1ff881b3482c, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1474,6 +1486,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6652183163036799534}
     m_Modifications:
+    - target: {fileID: 1126387365181088898, guid: ddb9813ab4e291543b9e1ff881b3482c, type: 3}
+      propertyPath: m_fontSize
+      value: 35.4
+      objectReference: {fileID: 0}
     - target: {fileID: 1456805023521439463, guid: ddb9813ab4e291543b9e1ff881b3482c, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
