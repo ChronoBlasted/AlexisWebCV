@@ -20,8 +20,6 @@ public class ConfirmPopup : Popup
     public override void OpenPopup()
     {
         base.OpenPopup();
-
-        AudioManager.Instance.PlaySound("Confirm");
     }
 
     public override void ClosePopup()

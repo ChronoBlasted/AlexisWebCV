@@ -448,7 +448,6 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
-  _audioName: Click
   _rt: {fileID: 3124972244333771956}
   _timeOfScale: 0.2
 --- !u!114 &4068780065989121673
@@ -801,7 +800,6 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
-  _audioName: Click
   _rt: {fileID: 3119441942618486939}
   _timeOfScale: 0.2
 --- !u!114 &5756301759362828559
@@ -1620,7 +1618,6 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
-  _audioName: Click
   _rt: {fileID: 2817681783446908198}
   _timeOfScale: 0.2
 --- !u!114 &3135704940896717568
@@ -1956,7 +1953,6 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
-  _audioName: Click
   _rt: {fileID: 1723513179427534912}
   _timeOfScale: 0.2
 --- !u!1 &5215426790726806870
@@ -2804,7 +2800,6 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
-  _audioName: Click
   _rt: {fileID: 1115901795061355953}
   _timeOfScale: 0.2
 --- !u!1 &7213307808467004078
@@ -3326,7 +3321,6 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _type: 1
-  _audioName: Click
   _rt: {fileID: 933903823862636127}
   _timeOfScale: 0.2
 --- !u!1001 &91579243043030885
@@ -4220,6 +4214,14 @@ MonoBehaviour:
       m_TableCollectionName: GUID:e2092943b4c497c45af0cb5ee3274d62
     m_TableEntryReference:
       m_KeyId: 6936274018304
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  - m_TableReference:
+      m_TableCollectionName: GUID:e2092943b4c497c45af0cb5ee3274d62
+    m_TableEntryReference:
+      m_KeyId: 2267026891870208
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0

@@ -26,16 +26,15 @@ MonoBehaviour:
     m_TableReference:
       m_TableCollectionName: GUID:31e487fa25ad2c54b8d7305021d93e3b
     m_TableEntryReference:
-      m_KeyId: 289108850511881
+      m_KeyId: 289108850511882
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
-  StartTime: 2022-03-01
-  EndTime: 2022-03-03
+  StartTime: 2023-03-01
+  EndTime: 2023-03-03
   ItchURL: https://damienrzu.itch.io/demolynov
   RenderTexture: {fileID: 8400000, guid: d6525eab177499241afe470bc02cad11, type: 2}
-  URL_ID: https://www.dropbox.com/scl/fi/26zwhfcg427ilezdqgywa/Demolynov.mp4
   Attribute: 5
   Collaborators:
   - {fileID: 11400000, guid: 7319f85aacfadf64292a3575f99c7e02, type: 2}

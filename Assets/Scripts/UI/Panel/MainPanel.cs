@@ -41,12 +41,7 @@ public class MainPanel : Panel
 
     public void OpenLinkedin()
     {
-        UIManager.Instance.ConfirmPopup.UpdateData(
-            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
-            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
-            () => Application.OpenURL("https://www.linkedin.com/in/gelin-alexis/"));
-
-        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
+        Application.OpenURL("https://www.linkedin.com/in/gelin-alexis/");
     }
 
     public void OpenContactInfo()

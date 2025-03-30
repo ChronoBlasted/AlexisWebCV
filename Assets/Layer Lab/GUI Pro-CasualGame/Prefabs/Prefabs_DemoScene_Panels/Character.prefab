@@ -5542,7 +5542,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -219.2998, y: -82}
+  m_AnchoredPosition: {x: -219.2998, y: 624}
   m_SizeDelta: {x: 0, y: 100}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &3834988441183125839
@@ -5897,7 +5897,7 @@ GameObject:
   - component: {fileID: 3834988441454791995}
   - component: {fileID: 3834988441454791942}
   m_Layer: 5
-  m_Name: Stats_Gold
+  m_Name: w
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17111,7 +17111,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15, y: 32.300003}
+  m_AnchoredPosition: {x: 14.7, y: 32.6}
   m_SizeDelta: {x: 668, y: 846}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7871257991468182986

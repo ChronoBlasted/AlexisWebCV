@@ -79,21 +79,6 @@ public class SettingView : View
         }
     }
 
-    public void HandleJoinDiscord()
-    {
-        UIManager.Instance.ConfirmPopup.UpdateData(
-            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
-            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
-            () => Application.OpenURL("https://discord.gg/nRBRHgN4SY"));
-
-        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
-    }
-    public void HandleResetAccount()
-    {
-        UIManager.Instance.ConfirmPopup.OpenPopup();
-        UIManager.Instance.ConfirmPopup.UpdateData("DELETE ACCOUNT", "Are you sure to delete your account ?", GameManager.Instance.ReloadScene);
-    }
-
     public void HandleOpenLanguagePopUp()
     {
         UIManager.Instance.LanguagePopup.OpenPopup();

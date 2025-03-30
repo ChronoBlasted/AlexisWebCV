@@ -35,7 +35,6 @@ public class ContributorLayout : MonoBehaviour
 
     public void HandleOnClick()
     {
-        UIManager.Instance.ConfirmPopup.UpdateData(LocalizationManager.Instance.OpenURL.GetLocalizedString(), LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(), () => Application.OpenURL("https://www.linkedin.com/search/results/all/?keywords=" + _data.FirstName + "%20" + _data.LastName));
-        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
+        Application.OpenURL("https://www.linkedin.com/search/results/all/?keywords=" + _data.FirstName + "%20" + _data.LastName);
     }
 }

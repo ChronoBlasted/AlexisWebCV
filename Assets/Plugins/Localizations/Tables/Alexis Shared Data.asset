@@ -87,6 +87,10 @@ MonoBehaviour:
     m_Key: BuiltPCs
     m_Metadata:
       m_Items: []
+  - m_Id: 2267026891870208
+    m_Key: CanDownloadMyResume
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

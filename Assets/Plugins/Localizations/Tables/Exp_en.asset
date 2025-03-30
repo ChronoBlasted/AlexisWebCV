@@ -58,10 +58,10 @@ MonoBehaviour:
 
       - Patterns
 
-      -
-      Obstacles
+      - Obstacles
 
-      - Minerals
+      -
+      Minerals
 
       - Balancing
 
@@ -84,7 +84,7 @@ MonoBehaviour:
 
       - Obstacles
 
-      
+
 
       This
       was a test/prototype to decide on a direction within the studio.
@@ -108,10 +108,10 @@ MonoBehaviour:
 
       - Score
 
-      
 
-      This is
-      a contest game for the Oona platform.
+
+      This is a contest
+      game for the Oona platform.
 
 '
     m_Metadata:
@@ -130,15 +130,15 @@ MonoBehaviour:
 
       - The game flow
 
-      - The gamefeel (Slow motion,
-      camera shake, post-process)
+      - The gamefeel (Slow motion, camera
+      shake, post-process)
 
       - The audio
 
-      
 
-      This is a
-      game from the Random Title Jam 2023.
+
+      This is a game from the Random
+      Title Jam 2023.
 
 '
     m_Metadata:
@@ -157,13 +157,13 @@ MonoBehaviour:
 
       - The game flow
 
-      - The gamefeel (Slow motion,
-      camera shake, post-process)
+      - The gamefeel (Slow motion, camera
+      shake, post-process)
 
-      
 
-      And supervised the entire team,
-      to move forward together and gather the work when needed.
+
+      And supervised the entire team, to move forward
+      together and gather the work when needed.
 
 '
     m_Metadata:
@@ -191,10 +191,10 @@ MonoBehaviour:
 
       - The skins
 
-      
 
-      This is my first solo game,
-      it served as a technical test to join Oona.
+
+      This is my first solo game, it served
+      as a technical test to join Oona.
 
 '
     m_Metadata:
@@ -249,12 +249,12 @@ MonoBehaviour:
 
       And certainly others
 
-      
 
-      - The game
-      flow
 
-      - The server
+      - The game flow
+
+      -
+      The server
 
 '
     m_Metadata:
@@ -279,8 +279,8 @@ MonoBehaviour:
   - m_Id: 289108850511892
     m_Localized: 'Project type | Idle, 3D Cartoon
 
-      A game for fun, and to
-      discover the DoTween library along the way
+      A game for fun, and to discover
+      the DoTween library along the way
 
 '
     m_Metadata:
@@ -323,15 +323,15 @@ MonoBehaviour:
 
       - The game flow
 
-      -
-      The camera
+      - The
+      camera
 
       - The game feel
 
-      
 
-      This project was an AI
-      experiment (Flocking, FSM, and pathfinding)
+
+      This project was an AI experiment (Flocking,
+      FSM, and pathfinding)
 
 '
     m_Metadata:
@@ -373,8 +373,8 @@ MonoBehaviour:
   - m_Id: 289108850511904
     m_Localized: 'Project type | Tower Defense, Stylized 3D
 
-      This project
-      is the result of 3 days of development focused on the Factory design pattern
+      This project is
+      the result of 3 days of development focused on the Factory design pattern
 
 '
     m_Metadata:
@@ -393,10 +393,10 @@ MonoBehaviour:
 
       - The interfaces
 
-      
 
-      While coordinating
-      the dev team, to gather the work and test their functionalities
+
+      While coordinating the dev team,
+      to gather the work and test their functionalities
 
 '
     m_Metadata:
@@ -417,8 +417,7 @@ MonoBehaviour:
 
       - The upgrades
 
-      - The
-      leaderboard
+      - The leaderboard
 
 '
     m_Metadata:
@@ -443,8 +442,8 @@ MonoBehaviour:
   - m_Id: 289108850511912
     m_Localized: 'Project type | Adventure, Stylized 3D
 
-      This project was
-      my final evaluation for the Unreal Engine module'
+      This project was my
+      final evaluation for the Unreal Engine module'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511913

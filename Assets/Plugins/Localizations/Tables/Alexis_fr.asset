@@ -92,6 +92,11 @@ MonoBehaviour:
     m_Localized: "Alexis a mont\xE9 plusieurs\\nPC."
     m_Metadata:
       m_Items: []
+  - m_Id: 2267026891870208
+    m_Localized: "Tu peux t\xE9l\xE9charger\nle CV d'Alexis\nen cliquant sur le bouton
+      CV\nen haut \xE0 droite"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -43,7 +43,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 6936274018304
-    m_Localized: You can change\nthe language in\nthe settings
+    m_Localized: You can change\nthe language in\nthe settings or\nwith the flag\nin
+      the top-left corner.
     m_Metadata:
       m_Items: []
   - m_Id: 7110480240640
@@ -88,6 +89,11 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 459816448692229
     m_Localized: Alexis has built\nseveral PCs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2267026891870208
+    m_Localized: You can download\nthe Alexis resume\n with the CV button\nat the
+      top-right\ncorner
     m_Metadata:
       m_Items: []
   references:

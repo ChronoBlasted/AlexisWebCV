@@ -52,8 +52,6 @@ public class ExpLayout : MonoBehaviour
         _videoPlayer.targetTexture = _data.RenderTexture;
 
         _videoPlayer.url = "https://cdn.jsdelivr.net/gh/chronoblasted/videos-unity/" + _data.name + ".mp4";
-
-        _videoPlayer.Play();
     }
 
     public void SetColor()
@@ -83,12 +81,16 @@ public class ExpLayout : MonoBehaviour
 
     public void HandleOnClick()
     {
-        UIManager.Instance.ConfirmPopup.UpdateData(LocalizationManager.Instance.OpenURL.GetLocalizedString(), LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(), () => Application.OpenURL(_data.ItchURL));
-        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
+        Application.OpenURL(_data.ItchURL);
     }
 
 
     private void OnEnable()
     {
+        _videoPlayer.Play();
+    }
+    private void OnDisable()
+    {
+        _videoPlayer.Stop();
     }
 }

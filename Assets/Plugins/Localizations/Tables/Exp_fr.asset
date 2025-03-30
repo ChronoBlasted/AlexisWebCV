@@ -93,10 +93,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511882
-    m_Localized: "Est un : Partie rapide en multi local, 3D stylis\xE9e\r\nJ'ai d\xE9velopp\xE9
-      :\r\n- Les interfaces\r\n- Le game flow\r\n- Le gamefeel (Slow motion, camera
-      shake, post-process)\r\n\r\nEt supervis\xE9 l'ensemble du groupe, pour avancer
-      ensemble et r\xE9unir le travail quand il le fallait.\r\n"
+    m_Localized: "Est un : Partie rapide en multi local, 3D stylis\xE9e\nJ'ai d\xE9velopp\xE9
+      :\n- Les interfaces\n- Le game flow\n- Le gamefeel (Slow motion, camera shake,
+      post-process)\n\nEt supervis\xE9 l'ensemble du groupe, pour avancer ensemble
+      et r\xE9unir le travail quand il le fallait.\n"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511883
@@ -117,8 +117,8 @@ MonoBehaviour:
   - m_Id: 289108850511886
     m_Localized: 'Est un : Action, 2D Cartoon
 
-      Ce projet est un test pour
-      apprendre les Finite State Machines.
+      Ce projet est un test pour apprendre
+      les Finite State Machines.
 
 '
     m_Metadata:

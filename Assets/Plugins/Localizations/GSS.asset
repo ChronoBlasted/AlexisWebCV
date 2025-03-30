@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3888c1c1b587a654a919e0f68b03567e, type: 3}
-  m_Name: Google Sheets Service
+  m_Name: GSS
   m_EditorClassIdentifier: 
   m_ApiKey: 
-  m_ClientId: 21704773265-estub0r0t8tcevkff76v836tnvq1s4fl.apps.googleusercontent.com
-  m_ClientSecret: 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
+  m_ClientId: 21704773265-8m74c5dbestjhn921fn2ncg82bjj7o8l.apps.googleusercontent.com
+  m_ClientSecret: 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
   m_AuthenticationType: 1
   m_ApplicationName: AlexisWebCV
   m_NewSheetProperties:

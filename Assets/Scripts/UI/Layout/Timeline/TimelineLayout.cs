@@ -71,11 +71,6 @@ public class TimelineLayout : MonoBehaviour
 
     public void HandleOnClick()
     {
-        UIManager.Instance.ConfirmPopup.UpdateData(
-            LocalizationManager.Instance.OpenURL.GetLocalizedString(),
-            LocalizationManager.Instance.GonnaBeRedirect.GetLocalizedString(),
-            () => Application.OpenURL(_data.ItchURL));
-
-        UIManager.Instance.AddPopup(UIManager.Instance.ConfirmPopup);
+        Application.OpenURL(_data.ItchURL);
     }
 }

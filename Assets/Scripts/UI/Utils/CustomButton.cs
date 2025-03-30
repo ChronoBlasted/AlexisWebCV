@@ -11,7 +11,6 @@ namespace Chrono.UI
 
         [SerializeField] ButtonType _type;
 
-        [SerializeField] string _audioName = "Click";
         [SerializeField] RectTransform _rt;
 
         [SerializeField] float _timeOfScale = .2f;
@@ -33,8 +32,6 @@ namespace Chrono.UI
         public override void OnPointerUp(PointerEventData eventData)
         {
             base.OnPointerUp(eventData);
-
-            AudioManager.Instance.PlaySound(_audioName);
 
             switch (_type)
             {
