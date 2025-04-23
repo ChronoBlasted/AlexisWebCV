@@ -3433,17 +3433,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2484916201354841380, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
   m_PrefabInstance: {fileID: 91579243043030885}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2929071037436412273 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
-  m_PrefabInstance: {fileID: 91579243043030885}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2538175075555691073}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a2dd9d505e963144bfdf650cc9228ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &8331046831897536414 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
@@ -3460,6 +3449,10 @@ PrefabInstance:
     - target: {fileID: 2484916201354841380, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: m_Name
       value: ChipLayout
+      objectReference: {fileID: 0}
+    - target: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
+      propertyPath: _tweenAction.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: DoLocalMoveYThenPress
       objectReference: {fileID: 0}
     - target: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: m_Pivot.x
@@ -3662,17 +3655,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2484916201354841380, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
   m_PrefabInstance: {fileID: 1487126150987050381}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &4413572826535013273 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
-  m_PrefabInstance: {fileID: 1487126150987050381}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3953992541683622057}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a2dd9d505e963144bfdf650cc9228ba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &7384739525123280246 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
@@ -4779,7 +4761,7 @@ PrefabInstance:
     - target: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: _tweenAction.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 2929071037436412273}
+      objectReference: {fileID: 9116647948255031294}
     - target: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: _tweenAction.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: DoLocalMoveYThenPress
@@ -4879,6 +4861,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2484916201354841380, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
   m_PrefabInstance: {fileID: 6298190900302555626}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &9116647948255031294 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
+  m_PrefabInstance: {fileID: 6298190900302555626}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8438506963238642894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2dd9d505e963144bfdf650cc9228ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &7290982053848726627
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4894,7 +4887,7 @@ PrefabInstance:
     - target: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: _tweenAction.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 4413572826535013273}
+      objectReference: {fileID: 5534283805504830071}
     - target: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: _tweenAction.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: DoLocalMoveYThenPress
@@ -4994,6 +4987,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2484916201354841380, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
   m_PrefabInstance: {fileID: 7290982053848726627}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5534283805504830071 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
+  m_PrefabInstance: {fileID: 7290982053848726627}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5139442334999048519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2dd9d505e963144bfdf650cc9228ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &8504529870067827910
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -51,7 +51,7 @@ public class ExpLayout : MonoBehaviour
         _rawImage.texture = _data.RenderTexture;
         _videoPlayer.targetTexture = _data.RenderTexture;
 
-        _videoPlayer.url = "https://cdn.jsdelivr.net/gh/chronoblasted/videos-unity/" + _data.name + ".mp4";
+        _videoPlayer.url = "https://cdn.jsdelivr.net/gh/chronoblasted/videos-unity-alexis/" + _data.name + ".mp4";
     }
 
     public void SetColor()
