@@ -1,12 +1,9 @@
-using System;
 using TMPro;
 using UnityEngine;
-using UnityEngine.Localization;
 using UnityEngine.UI;
 using UnityEngine.Video;
-using static System.Net.WebRequestMethods;
 
-public class ExpLayout : MonoBehaviour
+public class ExpLayout : MonoBehaviour, IRecyclable<ExpData>
 {
     [SerializeField] TMP_Text _title;
     [SerializeField] Image _glow, _fade, _bg;
@@ -21,30 +18,14 @@ public class ExpLayout : MonoBehaviour
 
     public void Init(ExpData data, bool isInExpPanel)
     {
-        SetData(data);
-
-        if (isInExpPanel)
-        {
-            switch (_data.ExpType)
-            {
-                case ExpType.PRO:
-                    UIManager.Instance.MenuView.ExpPanel.ProSeq.ObjectsToTween.Add(_chronoObject);
-                    break;
-                case ExpType.JAMS:
-                    UIManager.Instance.MenuView.ExpPanel.JamSeq.ObjectsToTween.Add(_chronoObject);
-                    break;
-                case ExpType.SCHOOL:
-                    UIManager.Instance.MenuView.ExpPanel.SchoolSeq.ObjectsToTween.Add(_chronoObject);
-                    break;
-            }
-        }
+        SetDataOnlyTimeline(data);
 
         _title.text = _data.Name.GetLocalizedString();
 
         SetColor();
     }
 
-    public void SetData(ExpData data)
+    public void SetDataOnlyTimeline(ExpData data)
     {
         _data = data;
 
@@ -92,5 +73,10 @@ public class ExpLayout : MonoBehaviour
     private void OnDisable()
     {
         _videoPlayer.Stop();
+    }
+
+    public void SetData(ExpData data)
+    {
+        Init(data, true);
     }
 }

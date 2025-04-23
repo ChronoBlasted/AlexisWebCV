@@ -24,7 +24,7 @@ public class TimelineLayout : MonoBehaviour, IRecyclable<ExpData>
         _title.text = _data.Name.GetLocalizedString();
         _desc.text = _data.Desc.GetLocalizedString();
 
-        _expLayout.SetData(_data);
+        _expLayout.SetDataOnlyTimeline(_data);
 
         _expLayout.SetColor();
 
