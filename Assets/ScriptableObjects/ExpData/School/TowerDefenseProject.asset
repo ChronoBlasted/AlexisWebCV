@@ -26,7 +26,7 @@ MonoBehaviour:
     m_TableReference:
       m_TableCollectionName: GUID:31e487fa25ad2c54b8d7305021d93e3b
     m_TableEntryReference:
-      m_KeyId: 289108850511903
+      m_KeyId: 289108850511904
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -35,7 +35,6 @@ MonoBehaviour:
   EndTime: 2024-10-04
   ItchURL: https://alexisgelin.itch.io/towerdefenseproject
   RenderTexture: {fileID: 8400000, guid: 291c302c4937a644fae0dc175d564180, type: 2}
-  URL_ID: https://www.dropbox.com/scl/fi/9mz27gxnusmght87e6g7s/TowerDefense.mp4
   Attribute: 5
   Collaborators:
   - {fileID: 11400000, guid: bb4bfeae1cec87e458877083578b53e2, type: 2}

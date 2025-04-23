@@ -63,22 +63,5 @@ public class GameManager : MonoSingleton<GameManager>
             ReloadScene();
         }
     }
-
-    [MenuItem("Tools/Find Missing Scripts")]
-    static void FindMissingScriptsInScene()
-    {
-        GameObject[] objects = GameObject.FindObjectsOfType<GameObject>();
-        foreach (GameObject obj in objects)
-        {
-            Component[] components = obj.GetComponents<Component>();
-            foreach (Component c in components)
-            {
-                if (c == null)
-                {
-                    Debug.LogWarning($"GameObject {obj.name} a un script manquant !", obj);
-                }
-            }
-        }
-    }
 #endif
 }

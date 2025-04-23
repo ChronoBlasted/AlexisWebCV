@@ -27,21 +27,42 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511872
-    m_Localized: "Project type | Endless runner, stylized 3D\r\nWhat I did on the
-      project | UI Integration: \r\n- Main menu\r\n- Shelter\r\n- Skins\r\n- Shop\r\n-
-      Login\r\n- In-game\r\n- Pause\r\n- Game over\r\n- Power-ups\r\n- Season Pass\r\n-
-      ...\r\nAnd certainly others\r\nRefining the feel of certain mechanics like
-      the scooter or some camera transitions.\r\nAt the beginning, we did several
-      iterations, many elements evolved.\r\nI joined at the start of the project.\r\n"
+    m_Localized: 'Project type | Endless runner, stylized 3D
+
+      What I did on
+      the project | UI Integration:
+
+
+      (Main menu, Shelter, Skins, Shop, Login,
+      In-game, Pause, Game over, Power-ups, Season Pass, ... and certainly others)
+
+
+      Refining
+      the feel of certain mechanics like the scooter or some camera transitions.
+
+      At
+      the beginning, we did several iterations, many elements evolved.
+
+      I joined
+      at the start of the project.'
     m_Metadata:
       m_Items: []
   - m_Id: 132117827584
-    m_Localized: "Project type | City builder / Action / RPG, stylized 3D\r\nWhat
-      I did on the project | UI Integration: \r\n- Main menu\r\n- Skins\r\n- Equipment\r\n-
-      Shop\r\n- Login\r\n- In-game\r\n- Pause\r\n- Game over\r\n- Level selection\r\n-
-      ...\r\nAnd certainly others\r\nRefining the feel of certain mechanics like
-      fishing or some camera transitions.\r\nI joined at the end of the beginning
-      of the project.\r\n"
+    m_Localized: 'Project type | City builder / Action / RPG, stylized 3D
+
+      What
+      I did on the project | UI Integration:
+
+
+      (Main menu, Skins, Equipment,
+      Shop, Login, In-game, Pause, Game over, Level selection, ... and certainly
+      others)
+
+
+      Refining the feel of certain mechanics like fishing or some
+      camera transitions.
+
+      I joined at the end of the beginning of the project.'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511873
@@ -217,46 +238,26 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511888
-    m_Localized: 'Project type | Quick multiplayer game with authoritative server,
-      2D Cartoon
-
-      I developed the following interfaces:
-
-      - Login
-
-      -
-      Daily login
-
-      - Leaderboard
-
-      - Friends
-
-      - Settings
-
-      -
-      Language change
-
-      - Main menu
-
-      - Equipment
-
-      - Shop
-
-      -
-      Combat
-
-      - ...
-
-      And certainly others
+    m_Localized: 'Here is the formatted version of your text:
 
 
+      Project type
+      | Quick multiplayer game with authoritative server, 2D Cartoon
 
-      - The game flow
+      What
+      I did on the project | I developed the following interfaces:
 
-      -
-      The server
 
-'
+      (Login,
+      Daily login, Leaderboard, Friends, Settings, Language change, Main menu, Equipment,
+      Shop, Combat, ... and certainly others)
+
+
+      And also:
+
+
+      (The game
+      flow, The server)'
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511889

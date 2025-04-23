@@ -27,24 +27,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511872
-    m_Localized: "Est un : endless runner , 3D stylis\xE9e\r\nCe que j'ai fait sur
-      le projet : L'int\xE9gration de l'interface :\r\n- D'accueil\r\n- Du refuge\r\n-
-      Des skins\r\n- De la boutique\r\n- De connexion\r\n- En jeu\r\n- De pause\r\n-
-      De d\xE9faite\r\n- Des power-ups\r\n- Du Pass de Saison\r\n- ...\r\nEt certainement
-      d'autres\r\nAinsi que le ressenti de certaines m\xE9caniques comme la trottinette
-      ou certaines transitions de cam\xE9ra.\r\nAu d\xE9but, on a fait plusieurs
-      it\xE9rations, beaucoup d'\xE9l\xE9ments ont \xE9volu\xE9.\r\nJe suis arriv\xE9
-      au d\xE9but du projet.\r\n"
+    m_Localized: "Ce que j'ai fait sur le projet :\nL'int\xE9gration de l'interface
+      :\n\n(Accueil, Refuge, Skins, Boutique, Connexion, En jeu, Pause, D\xE9faite,
+      Power-ups, Pass de Saison, ... et certainement d'autres)\n\nAinsi que le ressenti
+      de certaines m\xE9caniques comme :\n\n(La trottinette, certaines transitions
+      de cam\xE9ra)\n\nAu d\xE9but, on a fait plusieurs it\xE9rations, beaucoup d'\xE9l\xE9ments
+      ont \xE9volu\xE9.\nJe suis arriv\xE9 au d\xE9but du projet."
     m_Metadata:
       m_Items: []
   - m_Id: 132117827584
-    m_Localized: "Est un : City builder / Action / RPG, 3D stylis\xE9e\r\nCe que
-      j'ai fait sur le projet : Int\xE9gration de l'interface :\r\n- D'accueil\r\n-
-      Des skins\r\n- De l'\xE9quipement\r\n- De la boutique\r\n- De connexion\r\n-
-      En jeu\r\n- De pause\r\n- De d\xE9faite\r\n- De s\xE9lection de niveau\r\n-
-      ...\r\nEt certainement d'autres\r\nAinsi que le ressenti et de certaines m\xE9caniques
-      comme la p\xEAche ou certaines transitions de cam\xE9ra.\r\nJe suis arriv\xE9
-      en fin de d\xE9but de projet.\r\n"
+    m_Localized: "Est un : City builder / Action / RPG, 3D stylis\xE9e\nCe que j'ai
+      fait sur le projet : Int\xE9gration de l'interface :\n\n(D'accueil, Des skins,
+      De l'\xE9quipement, De la boutique, De connexion, En jeu, De pause, De d\xE9faite,
+      De s\xE9lection de niveau, ... et certainement d'autres)\n\nAinsi que le ressenti
+      et certaines m\xE9caniques comme la p\xEAche ou certaines transitions de cam\xE9ra.\nJe
+      suis arriv\xE9 en fin de d\xE9but de projet."
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511873
@@ -128,11 +125,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511888
-    m_Localized: "Est un : Partie rapide multijoueur en serveur autoritaire, 2D Cartoon\r\nJ'ai
-      d\xE9velopp\xE9 les interfaces de :\r\n- Connexion\r\n- Connexion quotidienne\r\n-
-      Classement\r\n- Amis\r\n- Param\xE8tres\r\n- Changement de langue\r\n- Menu
-      principal\r\n- \xC9quipement\r\n- Boutique\r\n- Combats\r\n- ...\r\nEt certainement
-      d'autres\r\n\r\n- Le game flow\r\n- Le serveur\r\n"
+    m_Localized: "Est un : Partie rapide multijoueur en serveur autoritaire, 2D Cartoon\nCe
+      que j'ai fait sur le projet : D\xE9veloppement des interfaces de :\n\n(Connexion,
+      Connexion quotidienne, Classement, Amis, Param\xE8tres, Changement de langue,
+      Menu principal, \xC9quipement, Boutique, Combats, ... et certainement d'autres)\n\nAinsi
+      que :\n\n(Le game flow, Le serveur)"
     m_Metadata:
       m_Items: []
   - m_Id: 289108850511889

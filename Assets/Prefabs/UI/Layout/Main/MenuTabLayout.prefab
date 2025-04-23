@@ -317,7 +317,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 35.15
+  m_fontSize: 33.1
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -490,6 +490,10 @@ PrefabInstance:
       value: ChipLayout
       objectReference: {fileID: 0}
     - target: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
+      propertyPath: _amountFloat
+      value: -64
+      objectReference: {fileID: 0}
+    - target: {fileID: 3018392793583797780, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: _tweenAction.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: DoLocalMoveYThenPress
       objectReference: {fileID: 0}
@@ -503,7 +507,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: m_AnchorMax.y
@@ -511,7 +515,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: m_AnchorMin.y
@@ -559,7 +563,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 32
+      value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 8275513995776254203, guid: b0b9c1fe3fd956b42a774844588aeb3e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

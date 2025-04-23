@@ -172,7 +172,7 @@ public class MainPanel : Panel
     {
         while (IndexTuto < AlexisChatTuto.Count)
         {
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(3f);
 
             if (IndexTuto < AlexisChatTuto.Count) SendChat();
         }

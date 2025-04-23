@@ -4,7 +4,7 @@ using System.Xml.Serialization;
 using TMPro;
 using UnityEngine;
 
-public class TimelineLayout : MonoBehaviour
+public class TimelineLayout : MonoBehaviour, IRecyclable<ExpData>
 {
     [SerializeField] TMP_Text _title, _date, _desc;
     [SerializeField] Transform _attributeContainer, _contributorContainer;
@@ -35,10 +35,18 @@ public class TimelineLayout : MonoBehaviour
 
         bool hasAnyFlag = false;
 
+        foreach (Transform child in _attributeContainer)
+        {
+            Destroy(child.gameObject);
+        }
+
+
         foreach (Attribute attr in Enum.GetValues(typeof(Attribute)))
         {
             if (attr != Attribute.None && (_data.Attribute & attr) == attr)
             {
+
+
                 var currentAttribute = Instantiate(_attributeLayoutPrefab, _attributeContainer);
 
                 currentAttribute.Init(attr);
@@ -52,9 +60,15 @@ public class TimelineLayout : MonoBehaviour
             _attributeContainer.gameObject.SetActive(false);
         }
 
+        foreach (Transform child in _contributorContainer)
+        {
+            Destroy(child.gameObject);
+        }
+
 
         if (_data.Collaborators.Count > 0)
         {
+
             foreach (var contributor in _data.Collaborators)
             {
                 var currentContributor = Instantiate(_contributorLayoutPrefab, _contributorContainer);
@@ -72,5 +86,10 @@ public class TimelineLayout : MonoBehaviour
     public void HandleOnClick()
     {
         Application.OpenURL(_data.ItchURL);
+    }
+
+    public void SetData(ExpData data)
+    {
+        Init(data);
     }
 }
