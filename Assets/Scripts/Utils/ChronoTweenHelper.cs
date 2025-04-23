@@ -32,6 +32,13 @@ public class ChronoTweenHelper : MonoBehaviour
         transform.DOLocalMoveY(_startLocalPos.y + _amountFloat, _duration).SetDelay(_startDelay).SetEase(_ease).SetLoops(_loopAmount, _loopType);
     }
 
+    public void DoLocalMoveYThenPress()
+    {
+        DOTween.Sequence()
+            .Join(transform.DOLocalMoveY(_startLocalPos.y + _amountFloat, _duration))
+            .Append(transform.DOScale(.8f, .2f)).SetDelay(_startDelay).SetEase(_ease).SetLoops(_loopAmount, _loopType);
+    }
+
     public void DoMoveY()
     {
         transform.DOMoveY(_startLocalPos.y + _amountFloat, _duration).SetDelay(_startDelay).SetEase(_ease).SetLoops(_loopAmount, _loopType);
