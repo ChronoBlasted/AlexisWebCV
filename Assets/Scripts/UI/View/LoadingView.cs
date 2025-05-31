@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class LoadingView : View
 {
-    [SerializeField] GameObject _content;
+    [SerializeField] GameObject _content, _parent;
     [SerializeField] Image _check, _loading;
 
     public override void Init()
@@ -24,8 +24,8 @@ public class LoadingView : View
 
         DOTween.Sequence()
             .Join(_content.transform.DOShakePosition(2f, new Vector3(20, 0, 0), 15, 90, false, true).SetEase(Ease.InSine))
-            .Join(transform.GetComponent<RectTransform>().DOAnchorMax(new Vector2(1, 2), 1f).SetDelay(.5f).SetEase(Ease.InSine))
-            .Join(transform.GetComponent<RectTransform>().DOAnchorMin(new Vector2(0, 1), 1f).SetEase(Ease.InSine))
+            .Join(_parent.transform.GetComponent<RectTransform>().DOAnchorMax(new Vector2(1, 2), 1f).SetDelay(.5f).SetEase(Ease.InSine))
+            .Join(_parent.transform.GetComponent<RectTransform>().DOAnchorMin(new Vector2(0, 1), 1f).SetEase(Ease.InSine))
             .Join(_check.DOFade(0, .2f).SetDelay(.25f))
             .SetDelay(.5f)
             .OnComplete(() =>

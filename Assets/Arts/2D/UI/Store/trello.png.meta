@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      trello_0: 7297452247141868256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

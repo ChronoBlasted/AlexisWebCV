@@ -214,9 +214,9 @@ MonoBehaviour:
   m_IgnoreLayout: 0
   m_MinWidth: -1
   m_MinHeight: -1
-  m_PreferredWidth: -1
+  m_PreferredWidth: 512
   m_PreferredHeight: 1024
-  m_FlexibleWidth: 1
+  m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
 --- !u!1 &5099336585155387591
@@ -367,7 +367,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 33.55
+  m_fontSize: 32.2
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -860,6 +860,10 @@ PrefabInstance:
     - target: {fileID: 3301209090611207827, guid: b6d9eedd2639c624d9a31cf1e6cda009, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3512310931893527646, guid: b6d9eedd2639c624d9a31cf1e6cda009, type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 3823670599782466252, guid: b6d9eedd2639c624d9a31cf1e6cda009, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
